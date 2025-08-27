@@ -1,0 +1,148 @@
+{
+  "stats": {
+    "total_numbered_items": 47,
+    "publications": 15,
+    "talks": 0,
+    "invited_talks": 0,
+    "unknown": 25
+  },
+  "publications": [
+    {
+      "index": 2015,
+      "title": "NARSAD Award, Brain and Behavior Research Foundation, New York, NY •\n2012-2015",
+      "authors": "Best poster award, 5th Amygdala in Health and Diseases Gordon Conference, Easton, MA •\n2015-2017 K99 award, National Institute of Mental Health •\n2015-2017",
+      "venue": null,
+      "year": 2015,
+      "invited": false,
+      "raw": "Best poster award, 5th Amygdala in Health and Diseases Gordon Conference, Easton, MA •\n2015-2017 K99 award, National Institute of Mental Health •\n2015-2017. NARSAD Award, Brain and Behavior Research Foundation, New York, NY •\n2012-2015. Walter V. and Idun Berry postdoctoral fellowship, Stanford University, Stanford, CA •"
+    },
+    {
+      "index": 2003,
+      "title": "National Council for Research and Development (CNPq)",
+      "authors": "Prof",
+      "venue": null,
+      "year": 2002,
+      "invited": false,
+      "raw": "Prof. Dr. Roberto Vicente Santelli award at the III Symposium of Undergraduate Research, Brazil. •\n2002-2004. Fellowship for undergraduate research in biological sciences, Brazilian \"National Council for Research and Development (CNPq)\" •"
+    },
+    {
+      "index": 1,
+      "title": "Reis FMCV, Maesta-Pereira S,\nOllivier M, Schuette PJ, Sethi E, Miranda BA, Iniguez E, Chakerian M, Vaughn E, Sehgal M, Nguyen DCT,\nYuan FTH, Torossian A, Ikebara JM, Kihara AH, Silva AJ, Kao JC, Khakh BS, Adhikari A",
+      "authors": "Control of feeding by a bottom-up midbrain-subthalamic pathway",
+      "venue": null,
+      "year": 2024,
+      "invited": false,
+      "raw": "Control of feeding by a bottom-up midbrain-subthalamic pathway. Reis FMCV, Maesta-Pereira S,\nOllivier M, Schuette PJ, Sethi E, Miranda BA, Iniguez E, Chakerian M, Vaughn E, Sehgal M, Nguyen DCT,\nYuan FTH, Torossian A, Ikebara JM, Kihara AH, Silva AJ, Kao JC, Khakh BS, Adhikari A. Nature\nCommunications. 2024 Mar 7;15(1):2111. doi: 10.1038/s41467-024-46430-5"
+    },
+    {
+      "index": 6,
+      "title": "La-Vu M, Sethi E, Maesta-Pereira S, Schuette PJ, Tobias BC, Reis FMCV, Wang W, Torossian A, Bishop A, Leonard SJ, Lin L, Cahill CM, Adhikari A",
+      "authors": "Sparse genetically-defined neurons oppose the canonical role of periaqueductal gray columnar organization",
+      "venue": null,
+      "year": 2022,
+      "invited": false,
+      "raw": "Sparse genetically-defined neurons oppose the canonical role of periaqueductal gray columnar organization. La-Vu M, Sethi E, Maesta-Pereira S, Schuette PJ, Tobias BC, Reis FMCV, Wang W, Torossian A, Bishop A, Leonard SJ, Lin L, Cahill CM, Adhikari A. eLife. 2022 11:e77115. doi: 10.7554/eLife.77115"
+    },
+    {
+      "index": 7,
+      "title": "Schuette PJ, Ikebara JM, Maesta-Pereira S, Torossian A, Sethi E, Kihara AH, Kao JC, Reis FMCV, Adhikari A",
+      "authors": "GABAergic CA1 neurons are more stable following context changes than glutamatergic cells",
+      "venue": null,
+      "year": 2022,
+      "invited": false,
+      "raw": "GABAergic CA1 neurons are more stable following context changes than glutamatergic cells. Schuette PJ, Ikebara JM, Maesta-Pereira S, Torossian A, Sethi E, Kihara AH, Kao JC, Reis FMCV, Adhikari A. Scientific Reports. 2022 12(1):10310. doi: 10.1038/s41598-022-13799-6"
+    },
+    {
+      "index": 8,
+      "title": "Wang W, Schuette PJ, La-Vu MQ, Torossian A, Tobias BC, Ceko M, Kragel PA, Reis FM, Ji S, Sehgal M, Maesta-Pereira S, Chakerian M, Silva AJ, Canteras NS, Wager T, Kao JC, Adhikari A",
+      "authors": "Dorsal premammillary projection to periaqueductal gray controls escape vigor from innate and conditioned threats",
+      "venue": null,
+      "year": 2021,
+      "invited": false,
+      "raw": "Dorsal premammillary projection to periaqueductal gray controls escape vigor from innate and conditioned threats. Wang W, Schuette PJ, La-Vu MQ, Torossian A, Tobias BC, Ceko M, Kragel PA, Reis FM, Ji S, Sehgal M, Maesta-Pereira S, Chakerian M, Silva AJ, Canteras NS, Wager T, Kao JC, Adhikari A. eLife. 2021 Sep 1;10:e69178. doi: 10.7554/eLife.69178."
+    },
+    {
+      "index": 9,
+      "title": "Reis FMCV, Lee JY, Maesta-Pereira S, Schuette PJ, Chakerian M, Liu J, La-Vu MQ, Tobias BC, Ikebara JM, Kihara AH, Canteras NS, Kao JC, Adhikari A",
+      "authors": "Dorsal Periaqueductal gray ensembles represent approach and avoidance states",
+      "venue": null,
+      "year": 2021,
+      "invited": false,
+      "raw": "Dorsal Periaqueductal gray ensembles represent approach and avoidance states. Reis FMCV, Lee JY, Maesta-Pereira S, Schuette PJ, Chakerian M, Liu J, La-Vu MQ, Tobias BC, Ikebara JM, Kihara AH, Canteras NS, Kao JC, Adhikari A. eLife. 2021 doi: 10.7554/eLife.64934."
+    },
+    {
+      "index": 10,
+      "title": "Reis FMCV, Liu J, Schuette PJ, Lee JY, Maesta-Pereira S, Chakerian M, Wang W, Canteras NS, Kao JC, Adhikari A",
+      "authors": "Shared dorsal periaqueductal gray activation patterns during exposure to innate and conditioned threats",
+      "venue": null,
+      "year": 2021,
+      "invited": false,
+      "raw": "Shared dorsal periaqueductal gray activation patterns during exposure to innate and conditioned threats. Reis FMCV, Liu J, Schuette PJ, Lee JY, Maesta-Pereira S, Chakerian M, Wang W, Canteras NS, Kao JC, Adhikari A. Journal of Neuroscience. 2021 41(25):5399-5420"
+    },
+    {
+      "index": 11,
+      "title": "Wang W, Schuette PJ, Nagai J, Tobias BC, Cuccovia V Reis FM, Ji S, de Lima MAX, La-Vu MQ, Maesta-Pereira S, Chakerian M, Leonard SJ, Lin L, Severino AL, Cahill CM, Canteras NS, Khakh BS, Kao JC, Adhikari A",
+      "authors": "Coordination of escape and spatial navigation circuits orchestrates versatile flight from threats",
+      "venue": null,
+      "year": 2021,
+      "invited": false,
+      "raw": "Coordination of escape and spatial navigation circuits orchestrates versatile flight from threats. Wang W, Schuette PJ, Nagai J, Tobias BC, Cuccovia V Reis FM, Ji S, de Lima MAX, La-Vu MQ, Maesta-Pereira S, Chakerian M, Leonard SJ, Lin L, Severino AL, Cahill CM, Canteras NS, Khakh BS, Kao JC, Adhikari A. Neuron. 2021 S0896-6273(21)00203-8. doi: 10.1016/j.neuron.2021.03.033."
+    },
+    {
+      "index": 13,
+      "title": "Schuette PJ, Reis FMCV, Maesta-Pereira S, Chakerian M, Torossian A, Blair G, Wang W, Blair HT, Fanselow MS, Kao JC, Adhikari A",
+      "authors": "Long-term characterization of hippocampal remapping during contextual\nfear acquisition and extinction",
+      "venue": null,
+      "year": 2020,
+      "invited": false,
+      "raw": "Long-term characterization of hippocampal remapping during contextual\nfear acquisition and extinction. Schuette PJ, Reis FMCV, Maesta-Pereira S, Chakerian M, Torossian A, Blair G, Wang W, Blair HT, Fanselow MS, Kao JC, Adhikari A. Journal of Neuroscience. 2020 40(43):8329-8342. doi: 10.1523/JNEUROSCI.1022-20.2020."
+    },
+    {
+      "index": 14,
+      "title": "La-Vu M, Tobias BC, Schutte PJ, Adhikari A",
+      "authors": "To Approach or Avoid: An Introductory Overview of the Study of Anxiety Using Rodent Assays",
+      "venue": null,
+      "year": 2020,
+      "invited": false,
+      "raw": "To Approach or Avoid: An Introductory Overview of the Study of Anxiety Using Rodent Assays. La-Vu M, Tobias BC, Schutte PJ, Adhikari A. Frontiers of Behavioral Neuroscience. 2020. 14:145. doi: 10.3389/fnbeh.2020.00145."
+    },
+    {
+      "index": 25,
+      "title": "Adhikari A, Sigurdsson T, Topiwala MA, Gordon JA",
+      "authors": "Cross-correlation of\ninstantaneous amplitudes of\nfield potential oscillations: a straightforward method to estimate the directionality and lag between brain areas",
+      "venue": null,
+      "year": 2010,
+      "invited": false,
+      "raw": "Cross-correlation of\ninstantaneous amplitudes of\nfield potential oscillations: a straightforward method to estimate the directionality and lag between brain areas. Adhikari A, Sigurdsson T, Topiwala MA, Gordon JA. Journal of Neuroscience Methods. 2010; 191(2):191-200."
+    },
+    {
+      "index": 2024,
+      "title": "How to apply for external funding",
+      "authors": "Universidade Federal do ABC, Brazil 2024",
+      "venue": null,
+      "year": 2024,
+      "invited": false,
+      "raw": "Universidade Federal do ABC, Brazil 2024. Universidade de São Paulo, Brazil 2024. Universidade Estadual de São Paulo, Brazil 2024. University of California, Riverside, Dept. of Molecular Cell & Systems Biology, Riverside, California 2024.\nSpeaker at Winter Conference in Developmental Psychobiology, Honolulu, Hawaii 2023. Columbia University, Department of Medicine, New York, New York 2023.\nFederation of Societies of Experimental Biology Conference, Búzios, Brazil 2023.\nSociety for Behavioral Neuroendocrinology, Tours, France 2022. Chair session in Hypothalamus Gordon Research Conference, Ventura, California 2022. University of Texas, Austin, Texas 2022. University of California, Los Angeles, Southern California Learning and Memory 2022. Tulane University, New Orleans, Louisiana 2022. Leibniz-Institut für Neurobiologie, Germany 2022. University of Toronto, Canada 2022. University of Montreal, Canada 2021. University of Texas, Houston, Texas 2021. Chair and presenter of minisymposium panel at Society for Neuroscience, Chicago 2021.\nPanel at Pavlovian Conference, University of Michigan, Ann Arbor, Michigan 2021. University of Michigan, Department of Psychology, Ann Arbor, Michigan 2021.\nStony Brook University, Department of Neurobiology & Behavior, Stony Brook, New York 2021. University of California, Davis, Department of Psychology and Center for Neuroscience. 2021.\nTata Institute of Fundamental Research, Department of Biological Sciences, Mumbai, India 2021. National University, Institute of Molecular Biology and Genetics, Seoul, South Korea 2020. Speaker at Japan Society for Neuroscience, Tokyo, Japan 2020. Chair of panel and speaker, Winter Conference on Brain Research, Big Sky, Montana 2020. Winter Conference on Neuroplasticity. St. Kitts and Nevis 2019. Northwestern University, Chicago, Illinois 2019. Weill Cornell University, Brain and Mind Research Institute, New York, New York 2018. Chicago University, Department of Neurobiology, Chicago, Illinois 2018. UCLA, Southern California Learning and Memory Meeting. Los Angeles, California 2016. Temple University, Deptartment of Neuroscience, Philadelphia, Pennsylvania 2016. University of Maryland, Department of Pharmacology, Baltimore, Maryland 2016. Washington University, Department of Neuroscience, St. Louis, Missouri 2016. Univeristy of California, Santa Barbara, Santa Barbara, California 2016. Univeristy of California, Los Angeles, Deptartment of Psychology, Los Angeles, California 2016. Northwestern University, Department of Neuroscience, Evanston, Illinois 2016. Yale University, Department of Neuroscience, New Haven, Connecticut 2016. Baylor College of Medicine, Department of Neuroscience, Houston, Texas 2015. University of Pennsylvania, Department of Neuroscience, Philadelphia, Pennsylvania 2015. University of Minnesota, Department of Psychology, Minneapolis, Minnesota 2015. Univeristy of California, Los Angeles, Dept. of Physiology, Los Angeles, California 2015. Texas A&M University, Department of Psychology, College Station, Texas 2015. University of Michigan, Department of Psychology, Ann Arbor, Michigan 2015.\nStanford University, \"How to apply for external funding\", Stanford, California 2015. University of Pennsylvania, Department of Biology, Philadelphia, Pennsylvania"
+    },
+    {
+      "index": 2013,
+      "title": "Speaker at Minisymposium",
+      "authors": "Society for Neuroscience 2013",
+      "venue": null,
+      "year": 2013,
+      "invited": false,
+      "raw": "Society for Neuroscience 2013. Speaker at Minisymposium"
+    },
+    {
+      "index": 2010,
+      "title": "Winter Conference on Brain Research, Breckenridge, Colorado",
+      "authors": null,
+      "venue": null,
+      "year": null,
+      "invited": false,
+      "raw": "Winter Conference on Brain Research, Breckenridge, Colorado"
+    }
+  ],
+  "presentations": [],
+  "invited_talks": []
+}
