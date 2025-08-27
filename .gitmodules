@@ -1,0 +1,3 @@
+[submodule "vendor/pdf_table"]
+	path = vendor/pdf_table
+	url = https://github.com/cycloneboy/pdf_table

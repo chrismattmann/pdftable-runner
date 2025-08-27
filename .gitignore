@@ -1,0 +1,17 @@
+# OS / Python
+.DS_Store
+__pycache__/
+*.pyc
+.venv/
+.env
+*.log
+
+# Tooling & outputs
+.cv_out/
+cv_out/
+.cache/
+.huggingface/
+**/outputs/
+vendor/pdf_table/.idea/
+vendor/pdf_table/__pycache__/
+
