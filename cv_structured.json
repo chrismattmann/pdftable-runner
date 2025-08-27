@@ -1,0 +1,3021 @@
+{
+  "stats": {
+    "total_numbered_items": 714,
+    "publications": 303,
+    "talks": 29,
+    "invited_talks": 2,
+    "unknown": 260
+  },
+  "publications": [
+    {
+      "index": 3,
+      "title": "ucr",
+      "authors": "Data Science Workshop - UC Riversidehttps://astro",
+      "venue": null,
+      "year": null,
+      "invited": false,
+      "raw": "Data Science Workshop - UC Riversidehttps://astro.ucr.edu/workshop-on-big-data/UC Riverside Data ScienceMarch 2, 2016Instructors: C. MattmannClass Size: approximately 30 onsite participantsProvided Course on Content Detection and Analysis for Big Data to UCR students part of theFIELDS program and joint work with NASA JPL, Caltech and UCR and UCI."
+    },
+    {
+      "index": 30,
+      "title": "Motroc",
+      "authors": "G",
+      "venue": "and Immutable.js under MIT license.JAXEnter",
+      "year": 2017,
+      "invited": false,
+      "raw": "G. Motroc.\nFacebook to relicense React, Jest, Flow, and Immutable.js under MIT license.JAXEnter, September 25, 2017.https://jaxenter.com/facebook-bsd-patents-react-relicense-135705.html"
+    },
+    {
+      "index": 31,
+      "title": "Nichols",
+      "authors": "S",
+      "venue": "July 17",
+      "year": 2017,
+      "invited": false,
+      "raw": "S. Nichols. Apache says ‘no' to Facebook code libraries Anti-patent-lawsuit restrictions landtools on banned list. The Register - UK, July 17, 2017.https://www.theregister.co.uk/2017/07/17/apache_says_no_to_facebook_code_libraries"
+    },
+    {
+      "index": 32,
+      "title": "Motroc",
+      "authors": "G",
+      "venue": "July 17",
+      "year": 2017,
+      "invited": false,
+      "raw": "G. Motroc. Apache Foundation recommends against using Facebook BSD+patents\nlicensedartifacts. JAXEnter, July 17, 2017.https://s.apache.org/APy5"
+    },
+    {
+      "index": 115,
+      "title": "Lin",
+      "authors": "T",
+      "venue": null,
+      "year": 2013,
+      "invited": false,
+      "raw": "T. Lin. Data Driven:\nthe new Big Science.\nImagining Data Without Division. Quanta Maga-zine. The Simons Foundation. September 30, 2013.https://www.simonsfoundation.org/quanta/20130930-imagining-data-without-division/http://cacm.acm.org/careers/168401-imagining-data-without-division/fulltexthttp://www.wired.com/wiredscience/2013/10/big-data-science/"
+    },
+    {
+      "index": 1,
+      "title": "Mattmann",
+      "authors": "C",
+      "venue": null,
+      "year": 2020,
+      "invited": false,
+      "raw": "C. Mattmann. Machine Learning with TensorFlow:\n2nd Edition.\n456 pages.\nNew York:Manning Publications, December 2020.\nISBN 9781617297717https://www.manning.com/books/machine-learning-with-tensorflow-second-edition"
+    },
+    {
+      "index": 2,
+      "title": "Mattmann",
+      "authors": "C",
+      "venue": null,
+      "year": 2019,
+      "invited": false,
+      "raw": "C. Mattmann. Foreword to Deep Learning for Search. Author: T. Teofili.\n328 pages. NewYork: Manning Publications, June 2019.\nISBN 9781617294792.https://www.amazon.com/Deep-Learning-Search-Tommaso-Teofili/dp/1617294799https://www.manning.com/books/deep-learning-for-search"
+    },
+    {
+      "index": 3,
+      "title": "Mattmann and J",
+      "authors": "C",
+      "venue": null,
+      "year": 2011,
+      "invited": false,
+      "raw": "C. Mattmann and J. Zitting. Tika in Action.\n256 pages. New York: Manning Publications,November 2011.\nISBN: 9781935182856.http://www.amazon.com/Tika-Action-Chris-Mattmann/dp/1935182854http://manning.com/mattmann/\nRefereed Journals"
+    },
+    {
+      "index": 1,
+      "title": "Berndt, W",
+      "authors": "S",
+      "venue": "ISSN: 2832-7004",
+      "year": 2023,
+      "invited": false,
+      "raw": "S. Berndt, W. Burke, M. M. Gandara, M. Kimes, L. Klyne, C. Mattmann, M. Milano, J.Nelson, B. Nuernberger, M. Sekiya, A. Towler, A. Tran. From Universe to Metaverse: A Leapinto Virtual Collaboration at NASA JPL.\nIEEE Transactions on Industrial Cyber-PhysicalSystems. TICPS-23-0111, doi:\n10.1109/TICPS.2023.3327948, Volume:\n1, Page(s):\n287-306,ISSN: 2832-7004, November 9, 2023."
+    },
+    {
+      "index": 2,
+      "title": "Paiva, W",
+      "authors": "A",
+      "venue": "Issue 7. Digital Object Identifier:10.1109/TNNLS.2023.3282150. Manuscript Number: editorial-3282150. July 7",
+      "year": 2023,
+      "invited": false,
+      "raw": "A. Paiva, W. Li, Y. Lin, C. Mattmann, M. de Hoop.\nIntroduction to the Special Issue on DeepLearning for Earth and Planetary Geosciences.\nIEEE Transactions on Neural Networks andLearning Systems. Guest Editor. Volume/Issue: Volume 34 , Issue 7. Digital Object Identifier:10.1109/TNNLS.2023.3282150. Manuscript Number: editorial-3282150. July 7, 2023.https://ieeexplore.ieee.org/document/10175017"
+    },
+    {
+      "index": 3,
+      "title": "Lavin, C",
+      "authors": "A",
+      "venue": "No. 1",
+      "year": 2022,
+      "invited": false,
+      "raw": "A. Lavin, C. M. Gilligan-Lee, A. Visnjic, S. Ganju, D. Newman, S. Ganguly, D. Lange, A. G.Baydin, A. Sharma, A. Gibson, S. Zheng, E. P. Xing, E. C. Mattmann, J. Parr, & Y. Gal.Technology readiness\nlevels\nfor machine learning systems. Nature communications, Vol.\n13,No. 1, 6039. Oct 20, 2022.https://doi.org/10.1038/s41467-022-33128-9"
+    },
+    {
+      "index": 4,
+      "title": "Kumar, T",
+      "authors": "A",
+      "venue": "C. Mattmann and B. Wilson. Convcast: An embeddedconvolutional LSTM based architecture for precipitation nowcasting using satellite data. PLOSOne",
+      "year": 2020,
+      "invited": false,
+      "raw": "A. Kumar, T.\nIslam, Y. Sekimoto, C. Mattmann and B. Wilson. Convcast: An embeddedconvolutional LSTM based architecture for precipitation nowcasting using satellite data. PLOSOne, Mar 11, 2020.https://doi.org/10.1371/journal.pone.0230114"
+    },
+    {
+      "index": 7,
+      "title": "McGranaghan, A",
+      "authors": "R",
+      "venue": null,
+      "year": 2018,
+      "invited": false,
+      "raw": "R. McGranaghan, A. Mannucci, B. Wilson, C. Mattmann, R. Chadwick.\nNew capabil-ities\nfor prediction of high-latitude\nionospheric\nscintillation:\nA novel\napproach with ma-chine learning.\nSpace Weather, Vol.\n16,\nIssue 11, November 2018, Pages 1817-1846.\ndoi:10.1029/2018SW002018https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2018SW002018"
+    },
+    {
+      "index": 10,
+      "title": "Schnase, T",
+      "authors": "J",
+      "venue": null,
+      "year": 2015,
+      "invited": false,
+      "raw": "J. Schnase, T. J. Leee, C. Mattmann, C. S. Lynnes, L. Cinquini, P. M. Ramirez, A. F. Hart, D.Williams, D. Waliser, P. Rinsland, W. P. Webster, D. Q. Duffy, M. A. McInerney, G. Tamkin,G. L. Potter, L. Carriere.\nBig Data Challenges\nin Climate Science.\nIEEE Geoscience andRemote Sensing Magazine. October 2015."
+    },
+    {
+      "index": 12,
+      "title": "Clifford, R",
+      "authors": "D",
+      "venue": null,
+      "year": 2015,
+      "invited": false,
+      "raw": "D. Clifford, R. Alegre, V. Bennett, J. Blower, C. DeLuca, P. Kershaw, C. Lynnes, C. Mattmann,R. Phipps,\nI. Rozum.\nCapturing and sharing our collective expertise on climate data:\ntheCHARMe project. Bulletin of\nthe American Meteorological Society. September 2015.doi:10.1175/BAMS-D-14-00189.1http://journals.ametsoc.org/doi/pdf/10.1175/BAMS-D-14-00189.1"
+    },
+    {
+      "index": 13,
+      "title": "Kim, J",
+      "authors": "J",
+      "venue": null,
+      "year": 2015,
+      "invited": false,
+      "raw": "J. Kim, J. Sanjay, D. Waliser, C. Mattmann, M. Boustani, H. Lee, P. Loikith, M.V.S. RamaRao, R. Krishnan. Uncertainties in Estimating Spatial and Interannual Variations in Precip-itation Climatology in the India-Tibet Region from Multiple Gridded Precipitation Datasets.International Journal of Climatology, February 2015.DOI:10.1002/joc.4306"
+    },
+    {
+      "index": 14,
+      "title": "C",
+      "authors": "P",
+      "venue": null,
+      "year": 2015,
+      "invited": false,
+      "raw": "P. C. Loikith, J. Kim, H. Lee, B. Linter, C. Mattmann, J. J. D. Neelin, D. E. Waliser, L.Mearns, S. McGinnis. Evaluation of Surface Temperature Probability Distribution Functionsin the NARCCAP Hindcast Experiment.\nJournal of Climate, Vol. 28, No. 3, pp. 978-997,February 2015.doi:10.1175/JCLI-D-13-00457.1."
+    },
+    {
+      "index": 16,
+      "title": "F",
+      "authors": "A",
+      "venue": "pp. 1-7",
+      "year": 2014,
+      "invited": false,
+      "raw": "A. F. Hart, L. Cinquini, S. Khudikyan, D. G. Thompson, C. Mattmann, K. Wagstaff, J. Lazio,D. Jones. A Framework for Collaborative Review of Candidate Events\nin High Data RateStreams: The V-FASTR Experiment as a Case Study. The Astronomical Journal, Vol.\n149,No. 1, pp. 1-7, December 16, 2014.http://stacks.iop.org/1538-3881/149/i=1/a=23doi:10.1088/0004-6256/149/1/23"
+    },
+    {
+      "index": 17,
+      "title": "Law, G",
+      "authors": "C",
+      "venue": null,
+      "year": 2015,
+      "invited": false,
+      "raw": "C. Law, G. Bower, S. Burke-Spolaor, B. Butler, E. Lawrence, T. J. Lazio, C. Mattmann, M.Rupen, A. Siemion, and S. VanderWiel. A Milisecond Interferometric Search for Fast RadioBursts with the Very Large Array. The Astronomical Journal, Accepted, to appear, June 2015.http://arxiv.org/abs/1412.7536"
+    },
+    {
+      "index": 19,
+      "title": "Whitehall, C",
+      "authors": "K",
+      "venue": null,
+      "year": 2015,
+      "invited": false,
+      "raw": "K. Whitehall, C. Mattmann, G. Jenkins, M. Rwebangira, B. Demoz, D. Waliser, P. Zimdars,C. Goodale, A. Hart, P. Ramirez, M. Joyce, M. Boustani, P. Loikith, H. Lee. Exploring a graphtheory based algorithm for automated identification and characterization of\nlarge mesoscaleconvective systems in satellite datasets. Earth Science Informatics, volume 8, number 3. pp.663-675 (2015).DOI10.1007/s12145-014-0181-3"
+    },
+    {
+      "index": 20,
+      "title": "Pankratius and C",
+      "authors": "V",
+      "venue": "September",
+      "year": 2014,
+      "invited": false,
+      "raw": "V. Pankratius and C. Mattmann.\nComputing in Astronomy: To See The Unseen.\nIEEEComputer\n-\nIntroduction to Special\nIssue on Computing in Astronomy, Vol.\n47, No.\n9, pg.26-28, September, 2014."
+    },
+    {
+      "index": 21,
+      "title": "Hart, S",
+      "authors": "A",
+      "venue": "IEEE Computer - Special Issue on Computing in Astronomy",
+      "year": 2014,
+      "invited": false,
+      "raw": "A. Hart, S. Khudikyan, L. Cinquini, D. Thompson, C. Mattmann, K. Wagstaff, J. Lazio, andD. Jones. Supporting Distributed, Collaborative Review and Classification of Fast TransientEvents.\nIn IEEE Computer - Special Issue on Computing in Astronomy, Vol.\n47, No.\n9, pp.43-44, September 2014."
+    },
+    {
+      "index": 22,
+      "title": "Mattmann",
+      "authors": "C",
+      "venue": "August",
+      "year": 2014,
+      "invited": false,
+      "raw": "C. Mattmann. Cultivating a Research Agenda for Data Science. Journal of Big Data, Vol. 1,No. 6, August, 2014.doi:10.1186/2196-1115-1-6http://www.journalofbigdata.com/content/1/1/6"
+    },
+    {
+      "index": 23,
+      "title": "Mattmann, D",
+      "authors": "C",
+      "venue": "L. Cinquini. Model Evaluation Using the NASA Regional Climate Model Evaluation System(RCMES). IEEE Earthzine",
+      "year": 2013,
+      "invited": false,
+      "raw": "C. Mattmann, D. Waliser, J. Kim, P. Ramirez, C. Goodale, A. Hart, P. Loikith, H. Lee, M.Joyce, M. Boustani, S. Khudikyan, K. Whitehall, J. Whittell, P. Zimdars, D. Crichton, Y. Gil,L. Cinquini. Model Evaluation Using the NASA Regional Climate Model Evaluation System(RCMES). IEEE Earthzine, December 2, 2013.http://goo.gl/yLpBAO"
+    },
+    {
+      "index": 24,
+      "title": "Lee, J",
+      "authors": "H",
+      "venue": null,
+      "year": 2014,
+      "invited": false,
+      "raw": "H. Lee, J. Kim, D. Waliser, P. Loikith, C. Mattmann, S. McGinnis. Using joint probabilitydistribution functions\nto evaluate simulations of precipitation, cloud fraction and insolationin the North America Regional Climate Change Assessment Program (NARCCAP). ClimateDynamics, July 2014.DOI10.1007/s00382-014-2253-y"
+    },
+    {
+      "index": 25,
+      "title": "Park, C",
+      "authors": "S",
+      "venue": null,
+      "year": 2013,
+      "invited": false,
+      "raw": "S. Park, C. Mattmann. Unlocking Big Data. Geospatial\nIntelligence Forum (GIF), Vol.\n11,Issue. 5, pp. 25, 26, July/August 2013."
+    },
+    {
+      "index": 27,
+      "title": "Kim, D",
+      "authors": "J",
+      "venue": null,
+      "year": 2013,
+      "invited": false,
+      "raw": "J. Kim, D. Waliser, C. Mattmann, L. Mearns, C. Goodale, A. Hart, D. Crichton, S. McGinnis,M. Boustani, H. Lee, P. C. Loikith and M. Boustani. Evaluation of the surface climatology overthe conterminous United States in the North American Regional Climate Change AssessmentProgram hindmost experiment using regional climate model evaluation system.\nJournal ofClimate, Volume 26 Issue 15 (August 2013).http://dx.doi.org/10.1175/JCLI-D-12-00452.1"
+    },
+    {
+      "index": 29,
+      "title": "Mattmann",
+      "authors": "C",
+      "venue": "January24",
+      "year": 2013,
+      "invited": false,
+      "raw": "C. Mattmann. A vision for data science. Nature, Vol.\n493, No.\n7433, pp.\n473-475, January24, 2013.http://www.nature.com/nature/journal/v493/n7433/full/493473a.html"
+    },
+    {
+      "index": 31,
+      "title": "Whitehall, C",
+      "authors": "K",
+      "venue": "pp. 29-34",
+      "year": 2012,
+      "invited": false,
+      "raw": "K. Whitehall, C. Mattmann, D. Waliser, J. Kim, C. Goodale, A. Hart, P. Ramirez, P. Zimdars,D. Crichton, G. Jenkins, C. Jones, G. Asrar, B. Hewitson. Building Model Evaluation AndDecision Support Capacity For CORDEX. WMO Bulletin, Vol. 61, No. 2, pp. 29-34, 2012.http://www.wmo.int/pages/publications/bulletin_en/61_2_cordex_en.html"
+    },
+    {
+      "index": 32,
+      "title": "R",
+      "authors": "B",
+      "venue": null,
+      "year": 2012,
+      "invited": false,
+      "raw": "B. R. Barkstrom, C. Mattmann. A Simple Model\nIllustrating the Virtue of Replication forLong-Term Information Preservation. Earth Science Informatics, Volume 5,\nIssue 2 (2012),Page 105-109. DOI: 10.1007/s12145-012-0100-4.http://www.springerlink.com/openurl.asp?id=doi:10.1007/s12145-012-0100-4"
+    },
+    {
+      "index": 34,
+      "title": "Mattman, B",
+      "authors": "C",
+      "venue": null,
+      "year": 2011,
+      "invited": false,
+      "raw": "C. Mattman, B. Foster, A. Chang, D. Crichton, D. Freeborn, D. Woollard. Generic, Extensible,Configurable Push-Pull Framework for Large-Scale Science Missions. NASA Tech Briefs, Vol.35, No. 7, pp. 50, July 2011."
+    },
+    {
+      "index": 35,
+      "title": "Mattmann, N",
+      "authors": "C",
+      "venue": null,
+      "year": 2012,
+      "invited": false,
+      "raw": "C. Mattmann, N. Medvidovic, S. Malek, G. Edwards, S. Banerjee. A Middleware Platform forProviding Mobile and Embedded Computing Instruction to Software Engineering Students.IEEE Transactions on Education, Vol. 55, No. 3, pp. 425-435, August 2012."
+    },
+    {
+      "index": 36,
+      "title": "Crichton, C",
+      "authors": "D",
+      "venue": null,
+      "year": 2012,
+      "invited": false,
+      "raw": "D. Crichton, C. Mattmann, L. Cinquini, A. Braverman, D. Waliser, A. Hart, C. Goodale, P.Lean.\nSharing Satellite Observations with the Climate Modeling Community:\nSoftware andArchitecture.\nIEEE Software, Vol. 29, No. 5., September/October 2012, pp. 63-71."
+    },
+    {
+      "index": 40,
+      "title": "Mattmann, A",
+      "authors": "C",
+      "venue": null,
+      "year": 2010,
+      "invited": false,
+      "raw": "C. Mattmann, A. Braverman, D. Crichton. Understanding Architectural Tradeoffs Necessaryto Increase Climate Model Intercomparison Efficiency. ACM SIGSOFT Software EngineeringNotes, vol. 35, no. 3, pp. 1-6, May 2010."
+    },
+    {
+      "index": 41,
+      "title": "S",
+      "authors": "J",
+      "venue": null,
+      "year": 2010,
+      "invited": false,
+      "raw": "J. S. Hughes, D. Crichton and C. Mattmann. Ontology-Based Information Model Developmentfor Science Information Reuse and Integration.\nInternational Transactions on Systems Scienceand Applications - Special Issue on Information Reuse in Databases and Data Mining, Vol 6.,No. 2/3, pp. 200-211, August 2010."
+    },
+    {
+      "index": 43,
+      "title": "Mattmann, D",
+      "authors": "C",
+      "venue": null,
+      "year": 2008,
+      "invited": false,
+      "raw": "C. Mattmann, D. Freeborn, D. Crichton, J. S. Hughes, P. Ramirez, S. Hardman, D. Woollard,and S. Kelly. Transformation of OODT CAS To Perform Larger Tasks. NASA Tech Briefs,Vol. 32, No. 6, pp. 44, June 2008."
+    },
+    {
+      "index": 44,
+      "title": "Woollard, N",
+      "authors": "D",
+      "venue": "July/August",
+      "year": 2008,
+      "invited": false,
+      "raw": "D. Woollard, N. Medvidovic, Y. Gil, and C. Mattmann. Scientific Software as Workflows: FromDiscovery to Distribution.\nIEEE Software – Special\nIssue on Developing Scientific Software,Vol. 25, No. 4, July/August, 2008."
+    },
+    {
+      "index": 46,
+      "title": "Banerjee, C",
+      "authors": "S",
+      "venue": null,
+      "year": 2005,
+      "invited": false,
+      "raw": "S. Banerjee, C. Mattmann, N. Medvidovic, L. Golubchik. Leveraging architectural models toinject trust into software systems. ACM SIGSOFT Software Engineering Notes, vol.\n30, no.4, pp. 1-7, July 2005.\nBook Chapters"
+    },
+    {
+      "index": 1,
+      "title": "Ono, B",
+      "authors": "M",
+      "venue": "K. Stack and C. Mattmann. Machine Learning for Mars Rovers.Machine Learning for Planetary Science. Elsevier",
+      "year": 2022,
+      "invited": false,
+      "raw": "M. Ono, B. Rothrock, Y. Iwashita, S. Higa, V. Timmaraju, S. Sahnoune, D. Qui, T. Islam, A.Didier, C. Laporte, D. Atha, V. Sun, K. Otsu, M. Paton, O. Lamarre, S. Daftry, R. Swan, A.Stambouli, F. Chen, B. Shah, K. Stack and C. Mattmann. Machine Learning for Mars Rovers.Machine Learning for Planetary Science. Elsevier, 2022."
+    },
+    {
+      "index": 2,
+      "title": "Mattmann, A",
+      "authors": "C",
+      "venue": "pp. 196-221",
+      "year": 2013,
+      "invited": false,
+      "raw": "C. Mattmann, A. Hart, L. Cinquini, J. Lazio, S. Khudikyan, D. Jones, R. Preston, T. Bennett,B. Butler, D. Harland, B. Glendenning, J. Kern, J. Robnett. Scalable Data Mining, Archivingand Big Data Management for the Next Generation Astronomical Telescopes. Big Data Man-agement, Technologies, and Applications. W. Hu, N. Kaabouch, eds.\nIGI Global, pp. 196-221,2013.http://www.igi-global.com/book/big-data-management-technologies-applications/."
+    },
+    {
+      "index": 3,
+      "title": "Crichton, C",
+      "authors": "D",
+      "venue": "Cloud Computing: Methods and PracticalApproaches",
+      "year": 2013,
+      "invited": false,
+      "raw": "D. Crichton, C. Mattmann, E. Law, G. Chang, L. Cinquini, S. Hardman, K. Shams. Archi-tecting Scientific Data Systems\nin the Cloud.\nIn Cloud Computing: Methods and PracticalApproaches. Z. Mahmood, eds. Springer Verlag, pp. 25-46, 2013."
+    },
+    {
+      "index": 5,
+      "title": "Mattmann, D",
+      "authors": "C",
+      "venue": "Handbook of Data Intensive Computing",
+      "year": 2011,
+      "invited": false,
+      "raw": "C. Mattmann, D. Crichton, A. Hart, C. Goodale, J. S. Hughes, S. Kelly, L. Cinquini, T. H.Painter, J. Lazio, D. Waliser, N. Medvidovic, J. Kim, P. Lean. Architecting Data-IntensiveSystems.\nIn Handbook of Data Intensive Computing, B. Furht, A. Escalante, eds. 1st Edition.Springer Verlag, 2011."
+    },
+    {
+      "index": 6,
+      "title": "Crichton, C",
+      "authors": "D",
+      "venue": "Guide to e-Science: Next Genera-tion Scientific Research and Discovery",
+      "year": 2011,
+      "invited": false,
+      "raw": "D. Crichton, C. Mattmann, J. S. Hughes, S. Kelly, and A. Hart. A Multi-Disciplinary, Model-Driven, Distributed Science Data System Architecture.\nIn Guide to e-Science: Next Genera-tion Scientific Research and Discovery. X. Yang, L. L. Wang, W. Jie, eds. 1st Edition. XVIII,558 p. 184 illus., Springer Verlag, ISBN 978-0-85729-438-8, 2011."
+    },
+    {
+      "index": 8,
+      "title": "Mattmann and N",
+      "authors": "C",
+      "venue": "Reliable Systems on Unreliable Networked Platforms",
+      "year": 2007,
+      "invited": false,
+      "raw": "C. Mattmann and N. Medvidovic. The Grid Lite DREAM: Bringing the Grid to your Pocket.In Reliable Systems on Unreliable Networked Platforms.\nF. Kordon,\nJ. Sztipanovits,\neds.Springer Verlag, (LNCS) 4322, pp. 70-87, 2007.\nRefereed Conferences and Workshops"
+    },
+    {
+      "index": 1,
+      "title": "Gowda, Z",
+      "authors": "T",
+      "venue": null,
+      "year": 2021,
+      "invited": false,
+      "raw": "T. Gowda, Z. Chang, C. Mattmann and J. May. Many-to-English Machine Translation Tools,Data, and Pretrained Models.\nTo appear\nin Proceedings of\nthe ACL-IJCNLP Demo Track2021, Bangkok, Thailand, 1-6 August 2021"
+    },
+    {
+      "index": 2,
+      "title": "Allison, W",
+      "authors": "T",
+      "venue": "Proceedings of",
+      "year": 2021,
+      "invited": false,
+      "raw": "T. Allison, W. Burke, C. Mattmann, A. Mensikova, P. Southam, R. Stonebraker. ResearchReport: Building a File Observatory for Secure Parser Development.\nIn Proceedings of\ntheSeventh Workshop on Language-Theoretic Security\n(LangSec)\nat\nthe\nIEEE CS Security &Privacy Workshops, May 27th and 28th, 2021."
+    },
+    {
+      "index": 3,
+      "title": "Chen, S",
+      "authors": "F",
+      "venue": "October 18-21",
+      "year": 2020,
+      "invited": false,
+      "raw": "F. Chen, S. Daftry, A. Didier, D. Atha, R. Swan, C. Mattmann, M. Ono. SULU: Scalable andDistributed Machine Learning Framework with Unified Encoder for Mars Rover Missions.\nInProceedings of the I-SAIRAS 2020 International Symposium on Artificial Intelligence, Roboticsand Automation in Space, Pasadena, California, October 18-21, 2020."
+    },
+    {
+      "index": 4,
+      "title": "Venkataram,\nI",
+      "authors": "H",
+      "venue": "Aug 22-27",
+      "year": 2020,
+      "invited": false,
+      "raw": "H. Venkataram,\nI. Colwell, S. Liu, P. Southam, C. Mattmann, T. Soderstrom. Names Don'tFly: Smart Filters for Profanity Detection and Classification in User-Generated Content.\nInProceedings of Workshop on Data Science with Human in the Loop (DaSH) at SIGKDD '20,Aug 22-27, 2020, San Diego, CA. ACM, New York, NY, USA."
+    },
+    {
+      "index": 5,
+      "title": "Allison, W",
+      "authors": "T",
+      "venue": "Proceedings of the Sixth Workshop on Language-Theoretic Security (LangSec)at the IEEE CS Security & Privacy Workshops",
+      "year": 2020,
+      "invited": false,
+      "raw": "T. Allison, W. Burke, V. Constantinou, C. Mattmann, A. Mensikova, P. Southam, R. Stone-braker, V. Timmaraju. Work-In-Progress: Building a Wide Reach Corpus for Secure ParserDevelopment.\nIn Proceedings of the Sixth Workshop on Language-Theoretic Security (LangSec)at the IEEE CS Security & Privacy Workshops, San Francisco, CA, May 18-20, 2020."
+    },
+    {
+      "index": 6,
+      "title": "Ono, B",
+      "authors": "M",
+      "venue": "C. Mattmann. MAARS: Ma-chine learning-based Analytics for Rover Systems. Proceedings of IEEE Aerospace Conference.Mar 7 - Mar 14",
+      "year": 2020,
+      "invited": false,
+      "raw": "M. Ono, B. Rothrock, K. Otsu, S. Higa, Y. Iwashita, A. Didier, T. Islam, C. Laporte, V. Sun,K. Stack, J. Sawoniewicz, S. Daftry, V. Timmaraju, S. Sahnoune, C. Mattmann. MAARS: Ma-chine learning-based Analytics for Rover Systems. Proceedings of IEEE Aerospace Conference.Mar 7 - Mar 14, 2020, Yellowstone Conference Center, Big Sky, Montana."
+    },
+    {
+      "index": 7,
+      "title": "Mattmann and Z",
+      "authors": "C",
+      "venue": "Proceedings ofthe 2019 IEEE/ACM Third Workshop on Deep Learning on Supercomputers",
+      "year": 2019,
+      "invited": false,
+      "raw": "C. Mattmann and Z. Zhang. Deep Facial Recognition using TensorFlow.\nIn Proceedings ofthe 2019 IEEE/ACM Third Workshop on Deep Learning on Supercomputers\n(DLonHSC19)\nat the International Conference for High Performance Computing, Networking, Storage, andAnalysis (SC19), pp. 45-51, November 17-22, 2019, Denver, CO, USA."
+    },
+    {
+      "index": 8,
+      "title": "Nandakumar, C",
+      "authors": "S",
+      "venue": "Proceedings of",
+      "year": 2018,
+      "invited": false,
+      "raw": "S. Nandakumar, C. Mattmann, N. Ottilingam, M. Marin, A. Latzer, U. Handore.\nIRMA:Intelligent Referral Matching Assistant for Social Good.\nIn Proceedings of\nthe Grace HopperCelebration (GHC) 2018 Conference, Houston, TX, September 26-28, 2018."
+    },
+    {
+      "index": 9,
+      "title": "Mishra, C",
+      "authors": "A",
+      "venue": "Proceedings",
+      "year": 2018,
+      "invited": false,
+      "raw": "A. Mishra, C. Mattmann, P. Ramirez, and W. Burke.\nROACH: Online Apprentice CriticFocused Crawling via CSS Cues\nand Reinforcement.\nIn Proceedings\nof\nthe\n14th\nInterna-tional Workshop on Mining and Learning with Graphs\nheld in conjunction with the 24thACM SIGKDD International Conference on Knowledge Discovery and Data Mining, London,United Kingdom, August 19 - 23, 2018."
+    },
+    {
+      "index": 10,
+      "title": "Mensikova, C",
+      "authors": "A",
+      "venue": "Proceedings of the GTA3 2018: Workshop on Graph Techniques for AdversarialWeb Data",
+      "year": 2018,
+      "invited": false,
+      "raw": "A. Mensikova, C. Mattmann. Ensemble Sentiment Analysis to Identify Human Trafficking in\nIn Proceedings of the GTA3 2018: Workshop on Graph Techniques for AdversarialWeb Data.Activity Analytics held in conjunction with the 11th ACM International Conference on WebSearch and Data Mining (WSDM 2018), February 9th, 2018, The Ritz-Carlton Hotel, MarinaDel Rey, California, USA."
+    },
+    {
+      "index": 11,
+      "title": "Stathatos, A",
+      "authors": "S",
+      "venue": "Proceedings ofActivity Analytics held in conjunction with the 11th ACM International Conference on WebSearch and Data Mining (WSDM 2018)",
+      "year": 2018,
+      "invited": false,
+      "raw": "S. Stathatos, A. Mishra, C. Mattmann.\nCyber Persona Identification via Indirect Feature\nthe GTA3 2018: Workshop on Graph Techniques for AdversarialAnalysis.\nIn Proceedings ofActivity Analytics held in conjunction with the 11th ACM International Conference on WebSearch and Data Mining (WSDM 2018), February 9th, 2018, The Ritz-Carlton Hotel, MarinaDel Rey, California, USA."
+    },
+    {
+      "index": 12,
+      "title": "Hundman, C",
+      "authors": "K",
+      "venue": "Proceedings of the Workshop on Data Driven Discoveryto be held at",
+      "year": 2017,
+      "invited": false,
+      "raw": "K. Hundman, C. Mattmann. Measurement Context Extraction from Text: Discovering Oppor-tunities and Gaps in Earth Science.\nIn Proceedings of the Workshop on Data Driven Discoveryto be held at\nthe 23rd ACM SIGKDD International Conference on Knowledge Discovery andData Mining, Halifax, Nova Scotia, Canada, August 2017.https://arxiv.org/abs/1710.04312"
+    },
+    {
+      "index": 13,
+      "title": "Hong, C",
+      "authors": "J",
+      "venue": "Proceedings of the IEEE International Conferenceon Information Reuse and Integration",
+      "year": 2017,
+      "invited": false,
+      "raw": "J. Hong, C. Mattmann, and P. Ramirez. Ensemble Maximum Entropy Classification and Lin-ear Regression for Author Age Prediction.\nIn Proceedings of the IEEE International Conferenceon Information Reuse and Integration, Aug 4-6, 2017. San Diego, CA, USA."
+    },
+    {
+      "index": 14,
+      "title": "Sharan, N",
+      "authors": "M",
+      "venue": "Proceedings of the IEEE International Conference on Information Reuseand Integration",
+      "year": 2017,
+      "invited": false,
+      "raw": "M. Sharan, N. Krishna, C. Mattmann, K. Singh, M. Marin, A. Latzer, C. Foon,\nand U.Handore.\nAn Automated Approach for\nInformation and Referral of Social Services usingMachine Learning.\nIn Proceedings of the IEEE International Conference on Information Reuseand Integration, Aug 4-6, 2017. San Diego, CA, USA."
+    },
+    {
+      "index": 17,
+      "title": "Lind, C",
+      "authors": "F",
+      "venue": "Proceedings of",
+      "year": 2017,
+      "invited": false,
+      "raw": "F. Lind, C. Lonsdale, R. Volz, A. Coster, C. Eckert, R. McWhirter, J. Marchese, R. Schaefer,W. Rideout, R. Wilcox, A. Faulkner, E. de Lera Acedo, N. Razavi-Ghods, C. Mattmann, P.Ramirez.\nIn Proceedings of\nthe 2017 IEEE AP-S Symposium on Antennas and Propagationand USNC-URSI Radio Science Meeting, July 9-14, 2017, San Diego, California, USA."
+    },
+    {
+      "index": 18,
+      "title": "Jodha-Khalsa, C",
+      "authors": "S",
+      "venue": "Proceedings of Arctic Science Summit Week(ASSW)",
+      "year": 2017,
+      "invited": false,
+      "raw": "S. Jodha-Khalsa, C. Mattmann, R. Duerr.\nPolar Data Insights\nthrough Search Analytics,Machine Learning and Advanced Visualization.\nIn Proceedings of Arctic Science Summit Week(ASSW), March 31 - April 7, 2017."
+    },
+    {
+      "index": 19,
+      "title": "Jodha-Khalsa, C",
+      "authors": "S",
+      "venue": "Proceedings of",
+      "year": 2017,
+      "invited": false,
+      "raw": "S. Jodha-Khalsa, C. Mattmann, R. Duerr. Deep Web Crawling for Insights from Polar Data.In Proceedings of\nthe 2017 IEEE International Geoscience and Remote Sensing Symposium(IGARSS), July 23-28, 2017, Fort Worth, Texas, USA."
+    },
+    {
+      "index": 20,
+      "title": "Wilson, R",
+      "authors": "B",
+      "venue": "Proceedings of",
+      "year": 2016,
+      "invited": false,
+      "raw": "B. Wilson, R. Palamuttam, K. Whitehall, C. Mattmann, A. Goodman, M. Boustani, S. Shah,P. Zimdars and P. Ramirez. SciSpark: Highly Interactive In-Memory Science Data Analytics.In Proceedings of\nthe 2nd Big Data in the Geosciences Workshop held as part of\nthe IEEEInternational Conference on Big Data,Washington DC, December 5, 2016."
+    },
+    {
+      "index": 21,
+      "title": "Parekh, C",
+      "authors": "Z",
+      "venue": "Proceedings of",
+      "year": 2016,
+      "invited": false,
+      "raw": "Z. Parekh, C. Mattmann and K. Singh.\nImproving accuracy of Tesseract\nin extraction ofserial numbers\nfrom images of Counterfeit Electronics.\nIn Proceedings of\nthe Grace HopperCelebration India (GHCI) 2016 Conference, Bangalore, India, December 7–9, 2016."
+    },
+    {
+      "index": 22,
+      "title": "Mattmann and M",
+      "authors": "C",
+      "venue": "Proceedings of",
+      "year": 2016,
+      "invited": false,
+      "raw": "C. Mattmann and M. Sharan. An Automatic Approach for Discovering and Geocoding Loca-tions in Domain-Specific Web Data.\nIn Proceedings of\nthe IEEE International Conference onInformation Reuse and Integration, Pittsburgh, Pennsylvania, USA, July 28-30, 2016."
+    },
+    {
+      "index": 23,
+      "title": "Gowda and C",
+      "authors": "T",
+      "venue": "Proceedings",
+      "year": 2016,
+      "invited": false,
+      "raw": "T. Gowda and C. Mattmann. Clustering Web Pages Based on Structure and Style Similar-ity.\nIn Proceedings\nIEEE International Conference on Information Reuse and Integration,Pittsburgh, Pennsylvania, USA, July 28-30, 2016."
+    },
+    {
+      "index": 24,
+      "title": "Intagliata, S",
+      "authors": "L",
+      "venue": "Proceedings ofthe American Association for Cancer Research (AACR) Meeting",
+      "year": 2016,
+      "invited": false,
+      "raw": "L. Intagliata, S. Chu, G. McGrath, G. Totaro, D. Civello, N. Doshi, S. Thapar, M. Livstone,C. Mattmann, P. Ramirez, M. Cronin.\nA Cloud-Enabled Open Source Data Managementplatform supporting a Federated Research and Development Organization.\nIn Proceedings ofthe American Association for Cancer Research (AACR) Meeting, New Orleans, LA, April 16- 20, 2016."
+    },
+    {
+      "index": 25,
+      "title": "Mattmann, L",
+      "authors": "C",
+      "venue": "April 16 - 20",
+      "year": 2016,
+      "invited": false,
+      "raw": "C. Mattmann, L. Intagliata, S. Chu, G. McGrath, G. Totaro, D. Civello, N Doshi, S. Thapar,M. Livstone, P. Ramirez, M. Cronin.\nShangri-Docs: A Browser Based Tool\nfor DocumentExploration and Automatic Knowledge Extraction from Unstructured Biomedical Text.\nInProceedings of the American Association for Cancer Research (AACR) Meeting, New Orleans,LA, April 16 - 20, 2016."
+    },
+    {
+      "index": 27,
+      "title": "B",
+      "authors": "A",
+      "venue": "Proceedings of",
+      "year": 2015,
+      "invited": false,
+      "raw": "A. B. Burgess, C. Mattmann, G. Totaro, L. McGibbney, P. Ramirez. TREC Dynamic Domain:Polar Science.\nIn Proceedings of\nthe Text Retrieval Conference (TREC), National Institute ofStandards and Technology, Gaithersburg, Maryland USA, November 17-20, 2015.http://trec.nist.gov/pubs/trec24/papers/JPL_USC-DD.pdf"
+    },
+    {
+      "index": 29,
+      "title": "Mattmann, J",
+      "authors": "C",
+      "venue": "Proceedings of",
+      "year": 2015,
+      "invited": false,
+      "raw": "C. Mattmann, J. Oh, T. Palsulich, L. McGibbney, Y. Gil, V. Ratnakar. DRAT: An Unobtru-sive, Scalable Approach to Large Scale Software License Analysis.\nIn Proceedings of\nthe 4thInternational Workshop on Software Mining part of the IEEE/ACM International Conferenceon Automated Software Engineering, pp. 97-101, Lincoln, NE, November 9-13, 2015."
+    },
+    {
+      "index": 30,
+      "title": "Gil, C",
+      "authors": "Y",
+      "venue": "September 28-30",
+      "year": 2015,
+      "invited": false,
+      "raw": "Y. Gil, C. Duffy, C. Mattmann, E. Robinson and K. Venayagamoorthy.\nThe GeosciencePaper of the Future Initiative: Training Scientists in Best Practices of Software Sharing.\nInProceedings of the 3rd Workshop on Sustainable Software for Science: Practice and Experiences(WSSSPE3), Boulder, CO, September 28-30, 2015."
+    },
+    {
+      "index": 31,
+      "title": "Palamuttam, R",
+      "authors": "R",
+      "venue": "Proceedings of the 1st Big Data in the GeosciencesWorkshop held as part of the IEEE International Conference on Big Data",
+      "year": 2015,
+      "invited": false,
+      "raw": "R. Palamuttam, R. Marroquin Mogrovejo, C. Mattmann, B. Wilson, K. Whitehall, R. Verma,L. McGibbney, and P. Ramirez.\nSciSpark: Applying In-memory Distributed Computing toWeather Event Detection and Tracking.\nIn Proceedings of the 1st Big Data in the GeosciencesWorkshop held as part of the IEEE International Conference on Big Data, Santa Clara, CA,October 29-November 1, 2015."
+    },
+    {
+      "index": 32,
+      "title": "D",
+      "authors": "F",
+      "venue": "Proceedings ofthe IEEE International Conference on Electromagnetics in Advanced Applications (ICEAA)",
+      "year": 2015,
+      "invited": false,
+      "raw": "F. D. Lind, C. J. Lonsdale, A. J. Faulkner, C. Mattmann, N. Razavi-Ghods, R. McWhirter,W. Rideout, S. Khudikyan, E. de Lera Acedo, P. Alexander,\nJ. Marchese, C. Eckert, R.Cappallo, J. Vierinen, V. Pankratius, R. Schaefer, D. Oberoi, M. Joyce, L. Cinquini, R. Verma,C. Goodale, M. Boustani, M. Starch.\nRadio Array of Portable\nInterferometric Detectors(RAPID): Development of a deployable multiple application radio array.\nIn Proceedings ofthe IEEE International Conference on Electromagnetics in Advanced Applications (ICEAA),Torino, Italy, September 7-11, 2015."
+    },
+    {
+      "index": 33,
+      "title": "Verma and C",
+      "authors": "R",
+      "venue": "August 13-15",
+      "year": 2015,
+      "invited": false,
+      "raw": "R. Verma and C. Mattmann. Extending Spark Analytics with Tika Content Extraction.\nInProceedings of the 16th IEEE International Conference on Information Reuse and Integration,San Francisco, CA, August 13-15, 2015."
+    },
+    {
+      "index": 34,
+      "title": "McGibbney, K",
+      "authors": "L",
+      "venue": "Proceedings of",
+      "year": 2015,
+      "invited": false,
+      "raw": "L. McGibbney, K. Whitehall, C. Mattmann, and P. Carter. Enabling Linguistic Analysis ofScientific Metadata through Internationalizing NASA JPL's PODAAC. In Proceedings of\nthe16th IEEE International Conference on Information Reuse and Integration, San Francisco,CA, August 13-15, 2015."
+    },
+    {
+      "index": 35,
+      "title": "Mattmann",
+      "authors": "C",
+      "venue": "Proceedings of the1st Workshop on The Science of Cyberinfrastructure: Research",
+      "year": 2015,
+      "invited": false,
+      "raw": "C. Mattmann. A Revisiting of the Anatomy and Physiology of the Grid.\nIn Proceedings of the1st Workshop on The Science of Cyberinfrastructure: Research, Experience, Applications andModels\n(SCREAM '15) co-located with the ACM Symposium on High-Performance Paralleland Distributed Computing, pp. 27, Portland, OR, June 15-19, 2015.doi:10.1145/2753524.2753526http://doi.acm.org/10.1145/2753524.2753526"
+    },
+    {
+      "index": 36,
+      "title": "Mattmann, C",
+      "authors": "C",
+      "venue": "Proceedings of European Space Agency 2014 Conference on Big Datafrom Space",
+      "year": 2014,
+      "invited": false,
+      "raw": "C. Mattmann, C. Lynnes, L. Cinquini, P. Ramirez, A. Hart, D. Williams, D. Waliser, P. Rins-land. Next Generation CyberInfrastructure to Support Comparison of Satellite Observationswith Climate Models.\nIn Proceedings of European Space Agency 2014 Conference on Big Datafrom Space, November 12-14, ESA-ESRIN, Frascati (Rome), Italy.http://congrexprojects.com/2014-events/bigdatafromspace"
+    },
+    {
+      "index": 37,
+      "title": "Pierce, S",
+      "authors": "M",
+      "venue": "Pro-ceedings of",
+      "year": 2014,
+      "invited": false,
+      "raw": "M. Pierce, S. Marru, C. Mattmann. WSSSPE2: Patching It Up, Pulling It Forward.\nIn Pro-ceedings of\nthe 2nd Workshop on Sustainable Software for Science: Practice and Experiences-\nin conjunction with the SC14', New Orleans, LA, November 16, 2014.http://dx.doi.org/10.6084/m9.figshare.1112540"
+    },
+    {
+      "index": 38,
+      "title": "Schnase, T",
+      "authors": "J",
+      "venue": "Proceedings of European Space Agency 2014 Conference on Big Datafrom Space",
+      "year": 2014,
+      "invited": false,
+      "raw": "J. Schnase, T. Lee, G. Potter, B. Mayer, P. Webster and C. Mattmann. Big Data Challengesin Climate Sciences.\nIn Proceedings of European Space Agency 2014 Conference on Big Datafrom Space, November 12-14, ESA-ESRIN, Frascati (Rome), Italy.http://congrexprojects.com/2014-events/bigdatafromspace"
+    },
+    {
+      "index": 39,
+      "title": "Mattmann",
+      "authors": "C",
+      "venue": "Proceedings of",
+      "year": 2014,
+      "invited": false,
+      "raw": "C. Mattmann.\nScientific Reproducibility via Rapid Algorithm Integration,\nIntelligent DataMovement and Automated Text and Metadata Extraction.\nIn Proceedings of\nthe XSEDE14:Reproducibility Workshop, Atlanta, GA, Monday, July 14, 2014.https://www.xsede.org/documents/659353/703287/xsede14_mattmann.pdf"
+    },
+    {
+      "index": 40,
+      "title": "Pierce, S",
+      "authors": "M",
+      "venue": "Proceedings of the 6th InternationalWorkshop on Science Gateways (IWSG)",
+      "year": 2014,
+      "invited": false,
+      "raw": "M. Pierce, S. Marru, L. Gunathilake, T. A. Kanewala, R. Singh, S. Wijeratne, C. Wimalasena,C. Herath, E. Chinthaka, C. Mattmann, A. Slominski, P. Tangchaisin.\nApache Airavata:Design and Directions of a Science Gateway Framework.\nIn Proceedings of the 6th InternationalWorkshop on Science Gateways (IWSG), pp.48,54, 3-5 June 2014.doi:10.1109/IWSG.2014.15"
+    },
+    {
+      "index": 41,
+      "title": "B",
+      "authors": "A",
+      "venue": "Proceedings of the 15th IEEE International Conference on Information Reuseand Integration",
+      "year": 2014,
+      "invited": false,
+      "raw": "A. B. Burgess, C. Mattmann. Automatically Classifying and Interpreting Polar Datasets withApache Tika.\nIn Proceedings of the 15th IEEE International Conference on Information Reuseand Integration, pp. 863-867, August 13-15, 2014, San Francisco, CA."
+    },
+    {
+      "index": 42,
+      "title": "Verma, A",
+      "authors": "R",
+      "venue": "Proceedings of",
+      "year": 2014,
+      "invited": false,
+      "raw": "R. Verma, A. Hart, C. Mattmann, D. Crichton, H. Kincaid, S. Kelly, M. Joyce, P. Zimdars.A Laboratory-targeted, Data Management and Processing System for\nthe Early DetectionResearch Network.\nIn Proceedings of\nthe 27th IEEE International Symposium on ComputerBased Medical Systems (CBMS), pp. 401-405, New York, New York, May 27-29, 2014."
+    },
+    {
+      "index": 43,
+      "title": "Mattmann, T",
+      "authors": "C",
+      "venue": "Proceedingsof the IEEE International Geoscience and Remote Sensing Symposium (IGARSS14)",
+      "year": 2014,
+      "invited": false,
+      "raw": "C. Mattmann, T. Painter, P. Ramirez, C. Goodale, A. F. hart, P. Zimdars, M. Boustani, S.Khudikyan, R. Verma, F. Seidel Caprez, J. Deems, A. Trangsrud, J. Boardman. 24 hour nearreal time processing and computation for the JPL Airborne Snow Observatory.\nIn Proceedingsof the IEEE International Geoscience and Remote Sensing Symposium (IGARSS14), pp. 5222-5225, Quebec, Canada, July 13-18, 2014.http://dx.doi.org/10.1109/IGARSS.2014.6947676"
+    },
+    {
+      "index": 44,
+      "title": "J",
+      "authors": "C",
+      "venue": "American Astronomical Society Meeting",
+      "year": 2014,
+      "invited": false,
+      "raw": "C. J. Law, G. C. Bower, S. Burke-Spolaor, M. P. Rupen, B. J. Butler, S. V. der Wiel, J.Lazio, E. Lawrence, A. Siemion, C. Mattmann. A Survey for Cosmological Millisecond RadioTransients with the Very Large Array.\nIn American Astronomical Society Meeting, vol.\n224.2014."
+    },
+    {
+      "index": 45,
+      "title": "Law and G",
+      "authors": "C",
+      "venue": "1-1",
+      "year": 2014,
+      "invited": false,
+      "raw": "C. Law and G. Bower and S. Burke-Spolaor and B. Butler and E. Lawrence and T. Lazioand C. Mattmann and M. Rupen and A. Siemion and S. VanderWiel.\nInterferometric imagingof millisecond transients at 1 TB/hour General Assembly and Scientific Symposium (URSIGASS). 2014 XXXIth URSI, 1-1, 2014."
+    },
+    {
+      "index": 46,
+      "title": "Pierce, S",
+      "authors": "M",
+      "venue": "Proceedings of",
+      "year": 2013,
+      "invited": false,
+      "raw": "M. Pierce, S. Marru, C. Mattmann. Sustainable Cyberinfrastructure Software Through OpenGovernance.\nIn Proceedings of\nthe Workshop on Sustainable Software for Science: Practiceand Experiences -\nin conjunction with the SC13', Denver, CO, November 17, 2013."
+    },
+    {
+      "index": 47,
+      "title": "Gil, V",
+      "authors": "Y",
+      "venue": "Proceedings 8th Workshop On Workflows in Support of Large-Scale Science (WORKS 2013)",
+      "year": 2013,
+      "invited": false,
+      "raw": "Y. Gil, V. Ratnakar, R. Verma, A. Hart, P. Ramirez, C. Mattmann, S. Park, A. Sumarlidason.Time-Bound Analytic Tasks on Large Datasets through Dynamic Configuration of Workflows.In Proceedings 8th Workshop On Workflows in Support of Large-Scale Science (WORKS 2013),Denver, CO, November 17, 2013."
+    },
+    {
+      "index": 48,
+      "title": "L",
+      "authors": "D",
+      "venue": "Proceedings of",
+      "year": 2013,
+      "invited": false,
+      "raw": "D. L. Tabb, K. Anton, M. Chambers, M. Colbert, A. F. Hatt, J. D. Holman, S. C. Kelly,H. Kincaid, C. Mattmann, and D. Crichton. Public infrastructure for cancer biomarker datacapture, annotation, analysis, and distribution.\nIn Proceedings of\nthe American Medical\nIn-formatics Association Annual Symposium (AMIA), Washington, DC, USA, November 16-20,2013.http://knowledge.amia.org/amia-55142-a2013e-1.580047"
+    },
+    {
+      "index": 49,
+      "title": "Law and G",
+      "authors": "C",
+      "venue": "No. 85",
+      "year": 2013,
+      "invited": false,
+      "raw": "C. Law and G. Bower and S. Burke-Spolaor and B. Butler and E. Lawrence and T. Lazio andC. Mattmann and M. Rupen and A. Siemion and S. VanderWiel. VLA Searches for Fast RadioTransients at 1 TB hour. Proceedings of\nthe Hot-Wiring Transient Universe Workshop. Vol.4, No. 85, 2013."
+    },
+    {
+      "index": 50,
+      "title": "D",
+      "authors": "F",
+      "venue": "Proceedings of the 2013 IEEE International Symposiumon Phased Array Systems & Technology",
+      "year": 2013,
+      "invited": false,
+      "raw": "F. D. Lind, C. Lonsdale, A. J. Faulkner, P. Alexander, C. Mattmann. Radio Array of PortableInterferometric Detectors (RAPID). In Proceedings of the 2013 IEEE International Symposiumon Phased Array Systems & Technology, Waltham, Massachusetts, October 15-18, 2013."
+    },
+    {
+      "index": 51,
+      "title": "Garcia,\nI",
+      "authors": "J",
+      "venue": "Proceedings of",
+      "year": 2013,
+      "invited": false,
+      "raw": "J. Garcia,\nI. Krka, C. Mattmann,\nand N. Medvidovic.\nObtaining Ground-Truth SoftwareArchitectures.\nIn Proceedings of\nthe 35th International Conference on Software Engineering -Software Engineering in Practice Track. pp. 901-910, San Francisco, May 18-23, 2013."
+    },
+    {
+      "index": 52,
+      "title": "D",
+      "authors": "F",
+      "venue": "Proceedings of",
+      "year": 2013,
+      "invited": false,
+      "raw": "F. D. Lind, C. Lonsdale, A. J. Faulkner, P. Alexander, C. Mattmann. RAPID (Radio Arrayof Portable\nInterferometric Detectors).\nIn Proceedings of\nthe 2013 National Radio ScienceMeeting, Boulder, CO, January 9-12, 2013."
+    },
+    {
+      "index": 53,
+      "title": "Marru, M",
+      "authors": "S",
+      "venue": "Proceedings of",
+      "year": 2012,
+      "invited": false,
+      "raw": "S. Marru, M. Pierce, C. Mattmann. The Apache Software Foundation, Cyberinfrastructure,and Scientific Software: Beyond Open Source.\nIn Proceedings of\nthe IEEE SupercomputingConference - BOF sessions, Salt Lake City, Utah, November 10-16, 2012."
+    },
+    {
+      "index": 54,
+      "title": "Kim, D",
+      "authors": "J",
+      "venue": "Proceedings of",
+      "year": 2013,
+      "invited": false,
+      "raw": "J. Kim, D. E. Waliser, C. Mattmann, L. Mearns, C. Goodale, A. Hart, D. Crichton, S. Mcginnis.Model Errors in Precipitation, Surface Insolation and Cloudiness in the NARCCAP HindcastExperiment.\nIn Proceedings of\nthe 2013 American Meteorological Society\n(AMS) meeting,Austin, TX, January 6-10, 2013."
+    },
+    {
+      "index": 55,
+      "title": "Cinquini, D",
+      "authors": "L",
+      "venue": "Proceedings of",
+      "year": 2012,
+      "invited": false,
+      "raw": "L. Cinquini, D. Crichton, C. Mattmann, J. Harney, G. Shipman, F. Wang, R. Ananthakrishnan,N. Miller, S. Denvil, M. Morgan, Z. Pobre, G. Bell, B. Drach, D. Williams, P. Kershaw, S.Pascoe, E. Gonzalez, S. Fore, R. Schweitzer. The Earth System Grid Federation: An Open\nInfrastructure\nfor Access\nto Distributed Geospatial Data.\nIn Proceedings of\nthe 8th IEEEInternational Conference on eScience 2012, Chicago, IL, October 8-12, 2012."
+    },
+    {
+      "index": 56,
+      "title": "Mattmann, R",
+      "authors": "C",
+      "venue": "Proceedings of",
+      "year": 2012,
+      "invited": false,
+      "raw": "C. Mattmann, R. R. Downs, P. Ramirez, C. Goodale, A. Hart, Developing an Open SourceStrategy for NASA Earth Science Data Systems.\nIn Proceedings of\nthe\nIEEE InformationReuse and Integration, Las Vegas, NV, August 8-10, 2012."
+    },
+    {
+      "index": 57,
+      "title": "Hart, R",
+      "authors": "A",
+      "venue": "Proceedings of",
+      "year": 2012,
+      "invited": false,
+      "raw": "A. Hart, R. Verma, C. Mattmann, D. Crichton, S. Kelly, H. Kincaid, S. Hughes, P. Ramirez,C. Goodale, K. Anton, M. Colbert, R. R. Downs, C. Patriotis, S. Srivastava.\nDevelopingan Open Source, Reusable Platform for Distributed Collaborative Information Managementin the Early Detection Research Network.\nIn Proceedings of\nIEEE Information Reuse andIntegration, Las Vegas, NV, August 8-10, 2012."
+    },
+    {
+      "index": 58,
+      "title": "L",
+      "authors": "D",
+      "venue": "Proceedings of",
+      "year": 2012,
+      "invited": false,
+      "raw": "D. L. Jones, K. Wagstaff, D. R. Thompson, L. D'Addario, R. Navarro, C. Mattmann, W.Majid,\nJ. Lazio, R. Preston and U Rebbapragada.\nBig Data Challenges\nfor Large RadioArrays.\nIn Proceedings of\nthe 33rd IEEE Aerospace Conference, March 2012."
+    },
+    {
+      "index": 59,
+      "title": "Mattmann",
+      "authors": "C",
+      "venue": "Proceedings of",
+      "year": 2012,
+      "invited": false,
+      "raw": "C. Mattmann. A Strategy for Open Source Software at NASA.\nIn Proceedings of\nthe UCARSEA Software Engineering Conference 2012, Boulder, CO, February 21-24, 2012."
+    },
+    {
+      "index": 60,
+      "title": "Mattmann",
+      "authors": "C",
+      "venue": "Proceedings of",
+      "year": 2012,
+      "invited": false,
+      "raw": "C. Mattmann.\nThe Apache OODT Ecosystem: A Bird's Eye View.\nIn Proceedings of\ntheUCAR SEA Software Engineering Conference 2012, Boulder, CO, February 21-24, 2012."
+    },
+    {
+      "index": 61,
+      "title": "Ferraro, A",
+      "authors": "R",
+      "venue": "July 22-27",
+      "year": 2012,
+      "invited": false,
+      "raw": "R. Ferraro, A. Bingham, A. Braverman, H. Hua, C. Mattmann, M. Yew. How Far Shouldthe DACs Evolve?\nTo appear\nin Proceedings of\nthe IEEE Geoscience and Remote SensingSymposium, Munich, Germany, July 22-27, 2012."
+    },
+    {
+      "index": 62,
+      "title": "L",
+      "authors": "D",
+      "venue": "March 3-10",
+      "year": 2012,
+      "invited": false,
+      "raw": "D. L. Jones, K. Wagstaff, D. Thompson, L. D'Addario, R. Navarro, C. Mattmann, W. Majid,J. Lazio, R. Preston, and U. Rebbapragada. Big Data Challenges for Large Radio Arrays.\nInProceedings of\nthe IEEE Aerospace Conference, Big Sky, Montana, March 3-10, 2012."
+    },
+    {
+      "index": 63,
+      "title": "Marru, L",
+      "authors": "S",
+      "venue": "Proceedings of",
+      "year": 2011,
+      "invited": false,
+      "raw": "S. Marru, L. Gunathilake, C. Herath, P. Tangchaisin, M. Pierce, C. Mattmann, R. Singh, T.Gunarathne, E. Chinthaka, R. Gardler, A. Slominski, A. Douma, S. Perera, S. Weerawarana.Apache Airavata: A framework for Distributed Applications and Computational Workflows.In Proceedings of\nthe SC 2011 Workshop on Gateway Computing Environments, Seattle, WA,November 18, 2011."
+    },
+    {
+      "index": 75,
+      "title": "S",
+      "authors": "J",
+      "venue": "EGU2011-9509",
+      "year": 2011,
+      "invited": false,
+      "raw": "J. S. Hughes, D. Crichton, S. Hardman, R. Joyner, C. Mattmann, P. Ramirez and S. Kelly.An Ontology Driven Information Architecture for\nInteroperable Disparate Data Sources.\nInProceedings of EGU General Assembly 2011 (EGU), Vol. 13, EGU2011-9509, 2011."
+    },
+    {
+      "index": 76,
+      "title": "Mattmann, A",
+      "authors": "C",
+      "venue": null,
+      "year": 2011,
+      "invited": false,
+      "raw": "C. Mattmann, A. Hart, D. Jones, R. Preston.\nSKA Data Archiving using Apache OODT.Proceedings of SKA 2011: The\ninternational Square Kilometre Array Forum:\nScience andFrontiers of Astronomy in the Era of Massive Datasets: The Promise and Challenges, Banff,Canada, 4-8 July 2011."
+    },
+    {
+      "index": 77,
+      "title": "Jones, K",
+      "authors": "D",
+      "venue": "September 19-23",
+      "year": 2011,
+      "invited": false,
+      "raw": "D. Jones, K. Wagstaff, D. Thompson, L. D'Addario, R. Navarro, C. Mattmann, W. Majid,J. Lazio, and R. Preston.\nFast Transient Detection as a Prototypal Big Data Problem.\nInProceedings of\nthe International Astronomical Union Symposium 285: New Horizons in TimeDomain Astronomy, Oxford, UK, September 19-23, 2011."
+    },
+    {
+      "index": 78,
+      "title": "Marshall, R",
+      "authors": "J",
+      "venue": "Proceedings of IEEE IRI - Workshop on Issues and Challengesin Social Computing (WICSOC 2011)",
+      "year": 2011,
+      "invited": false,
+      "raw": "J. Marshall, R. R. Downs, C. Mattmann.Software Reuse Methods\nto Improve TechnologicalInfrastructure for e-Science.\nIn Proceedings of IEEE IRI - Workshop on Issues and Challengesin Social Computing (WICSOC 2011), pp. 528-532, Las Vegas, NV, August 2, 2011."
+    },
+    {
+      "index": 79,
+      "title": "Garcia, D",
+      "authors": "J",
+      "venue": "Proceedings of",
+      "year": 2011,
+      "invited": false,
+      "raw": "J. Garcia, D. Popescu, C. Mattmann, N. Medvidovic, and Y. Cai. Enhancing ArchitecturalRecovery Using Concerns.\nIn Proceedings of\nthe 26th IEEE/ACM International ConferenceOn Automated Software Engineering, Lawrence, Kansas, November 6, 2011."
+    },
+    {
+      "index": 80,
+      "title": "Waliser, P",
+      "authors": "D",
+      "venue": "Proceedings of",
+      "year": 2011,
+      "invited": false,
+      "raw": "D. Waliser, P. Lean, J. Kim, C. Goodale, A. Hart, C. Mattmann, P. Zimdars. A RegionalClimate Model Evaluation System based on Satellite and other Observations for Applicationto CMIP-IPCC/AR Downscaling.\nIn Proceedings of\nthe World Climate Research Program(WCRP) Meeting, Denver, CO, October 24-28, 2011."
+    },
+    {
+      "index": 81,
+      "title": "Kim, D",
+      "authors": "J",
+      "venue": "Proceedings of",
+      "year": 2011,
+      "invited": false,
+      "raw": "J. Kim, D. Waliser, P. Lean, C. Mattmann, C. Goodale, A. Hart, P. Zimdars, B. Hewitson, C.Lennard , A. Favre , Colin Jones , G. Nikulin. Evaluation of the multiple-model CORDEX-Africa hindcast experiment using the RCMES. In Proceedings of\nthe World Climate ResearchProgram (WCRP) Meeting, Denver, CO, October 24-28, 2011."
+    },
+    {
+      "index": 82,
+      "title": "Cinquini, A",
+      "authors": "L",
+      "venue": "October24-28",
+      "year": 2011,
+      "invited": false,
+      "raw": "L. Cinquini, A. Braverman, D. Crichton, C. Mattman, D. Waliser, D. Williams.\nBuildingthe Software Infrastructure to Enable Usage of Satellite Obesrvations for Climate Change.\nInProceedings of\nthe World Climate Research Program (WCRP) Meeting, Denver, CO, October24-28, 2011."
+    },
+    {
+      "index": 83,
+      "title": "Crichton, C",
+      "authors": "D",
+      "venue": "Proceedings of",
+      "year": 2011,
+      "invited": false,
+      "raw": "D. Crichton, C. Mattmann, A. Hart, D. Kale, R. Khemani, P. Ross, S. Rubin, P. Veera-vatanayothin, R. C. Wetzel, A. Braverman, C. Goodale. An Informatics Architecture for theVirtual Pediatric Intensive Care Unit.\nIn Proceedings of\nthe 24th IEEE International Sympo-sium on Computer-Based Medical Systems (CBMS 2011), Bristol, UK, June 27-30, 2011."
+    },
+    {
+      "index": 84,
+      "title": "S",
+      "authors": "J",
+      "venue": "Proceedings of the International Conference on Ensuring Long-Term Preservation and Adding Value to Scientific and Technical Data (PV2011)",
+      "year": 2011,
+      "invited": false,
+      "raw": "J. S. Hughes, D. Crichton, S. Hardman, R. Joyner, P. Ramirez and C. Mattmann. PracticalUses for a Domain Ontology.\nIn Proceedings of the International Conference on Ensuring Long-Term Preservation and Adding Value to Scientific and Technical Data (PV2011). November15-17, 2011, Toulouse, France."
+    },
+    {
+      "index": 85,
+      "title": "Pascoe, C",
+      "authors": "S",
+      "venue": "Proceedings of",
+      "year": 2011,
+      "invited": false,
+      "raw": "S. Pascoe, C. Mattmann, A. Stephens, P. Kershaw. Maximising the utility of OPeNDAPdatasets through the NetCDF4 API. In Proceedings of\nthe Global Organization for Earth Sys-tem Science Portals (GO-ESSP) Workshop, Ashville, NC, May 10-11, 2011."
+    },
+    {
+      "index": 86,
+      "title": "Hart, S",
+      "authors": "A",
+      "venue": "Proceedings of the 2011 Annual Biospecimen Research Network (BRN) Symposium",
+      "year": 2011,
+      "invited": false,
+      "raw": "A. Hart, S. Kelly, D. Crichton, M. Thornquist, H. Kincaid, C. Mattmann, S. Reid, G. Warnick,P. Lin, C. Patriotis, S. Srivastava.\nIntegrating Biospecimen Data into the EDRN PublicPortal.\nIn Proceedings of the 2011 Annual Biospecimen Research Network (BRN) Symposium,Bethesda, MD, March 28-29, 2011."
+    },
+    {
+      "index": 88,
+      "title": "Tran, L",
+      "authors": "J",
+      "venue": "Proceedings of",
+      "year": 2011,
+      "invited": false,
+      "raw": "J. Tran, L. Cinquini, C. Mattmann, P. Zimdars, D. Cuddy, K. Leung, O. Kwoun, D. Crichtonand D. Freeborn. Evaluating Cloud Computing in the NASA DESDynI Ground Data System.In Proceedings of\nthe ICSE 2011 Workshop on Software Engineering for Cloud Computing -SECLOUD, Honolulu, HI, May 22, 2011."
+    },
+    {
+      "index": 89,
+      "title": "Hart, C",
+      "authors": "A",
+      "venue": "Proceedings of the ICSE 2011Workshop on Software Engineering for Cloud Computing - SECLOUD",
+      "year": 2011,
+      "invited": false,
+      "raw": "A. Hart, C. Goodale, C. Mattmann, P. Zimdars, D. Crichton, P. Lean, J. Kim, and D. Waliser.A Cloud-Enabled Regional Climate Model Evaluation System.\nIn Proceedings of the ICSE 2011Workshop on Software Engineering for Cloud Computing - SECLOUD, Honolulu, HI, May 22,2011."
+    },
+    {
+      "index": 90,
+      "title": "Mattmann and N",
+      "authors": "C",
+      "venue": "Proceedings of the Ground System Architectures Workshop",
+      "year": 2011,
+      "invited": false,
+      "raw": "C. Mattmann and N. Medvidovic. Domain-Specific Software Architectures for Cloud Comput-ing.\nIn Proceedings of the Ground System Architectures Workshop, Los Angeles, CA, February28-March 3, 2011."
+    },
+    {
+      "index": 97,
+      "title": "Markides, L",
+      "authors": "L",
+      "venue": "Proceedings of",
+      "year": 2010,
+      "invited": false,
+      "raw": "L. Markides, L. Stetson, K. Zielinski, Z. Yang, C. Mattmann, R. Roshandel. On the Granular-ity of Markov-based Reliability Models.\nIn Proceedings of\nthe 21st\nIEEE International Sym-posium on Software Reliability Engineering - Student Paper Session, San Jose, CA, November1-4, 2010."
+    },
+    {
+      "index": 98,
+      "title": "Kale, A",
+      "authors": "D",
+      "venue": "Proceedings of the 9th International Conference on Complexity in Acute Illness",
+      "year": 2010,
+      "invited": false,
+      "raw": "D. Kale, A. Hart, C. Mattmann, R. Khemani, P. Ross, P. Vee, J. Terry, R. Wetzell, D. Crichton.An Open Source, Grid-based Software Framework for Management and Sharing of PediatricICU Data.\nIn Proceedings of the 9th International Conference on Complexity in Acute Illness.Atlanta, Georgia, September 10-12, 2010."
+    },
+    {
+      "index": 99,
+      "title": "Gharibans, A",
+      "authors": "L",
+      "venue": "Proceedings of 2010-11 SAMSI Program on Complex Networks",
+      "year": 2010,
+      "invited": false,
+      "raw": "L. Gharibans, A. Braverman, C. Mattmann, J. Garcia, D. Crichton. Networks for Analysis ofDistributed Data.\nIn Proceedings of 2010-11 SAMSI Program on Complex Networks, ResearchTriangle Park, NC, August 29-September 1, 2010."
+    },
+    {
+      "index": 100,
+      "title": "Mattmann, R",
+      "authors": "C",
+      "venue": "Proceedings of",
+      "year": 2010,
+      "invited": false,
+      "raw": "C. Mattmann, R. R. Downs, J. J. Marshall, N. F. Most. Reuse Tools to Help Enable ClimateResearch in NASA Missions.\nIn Proceedings of\nthe 2010 Summer ESIP Federation Meeting,Knoxville, TN, July 17-23, 2010."
+    },
+    {
+      "index": 101,
+      "title": "R",
+      "authors": "R",
+      "venue": "Proceedings of",
+      "year": 2010,
+      "invited": false,
+      "raw": "R. R. Downs, N. F. Most, J. J. Marshall, C. Mattmann.\nTools\nfor Reusing Earth ScienceSoftware.\nIn Proceedings of\nthe 2010 Earth and Space Science Informatics (ESSI) Workshop,Fairfax, VA, August 2-4, 2010."
+    },
+    {
+      "index": 102,
+      "title": "Mattmann, D",
+      "authors": "C",
+      "venue": "Proceedings of",
+      "year": 2010,
+      "invited": false,
+      "raw": "C. Mattmann, D. Kale, D. Crichton, A. Hart, P. Vee, R. Kumani, A. Braverman, H. Kincaid,R. Wetzel, R. Kaptan, D. Halllman. Distributed, Modular Grid Software for Data Managementand Exploration of Patient-Centric Healthcare IT Information.\nIn Proceedings of\nthe O'ReillyOpen Source Convention (OSCON) - Special Session on Healthcare Technology, Portland, OR,July 19-23, 2010."
+    },
+    {
+      "index": 103,
+      "title": "J",
+      "authors": "J",
+      "venue": "Proceedings of",
+      "year": 2010,
+      "invited": false,
+      "raw": "J. J. Marshall, R. Downs, C. Mattmann.\nProgress Towards a NASA Earth Science ReuseEnablement System (RES).\nIn Proceedings of\nthe 11th IEEE International Conference onInformation Reuse and Integration (IRI 2010), Las Vegas, NV, August 4-6, 2010."
+    },
+    {
+      "index": 104,
+      "title": "Woollard, C",
+      "authors": "D",
+      "venue": "Proceedings of",
+      "year": 2010,
+      "invited": false,
+      "raw": "D. Woollard, C. Mattmann, D. Popescu, N. Medvidovic. KADRE: Domain-Specic Architec-tural Recovery For Scientic Software Systems.In Proceedings of\nthe 25th IEEE/ACM Interna-tional Conference on Automated Software Engineering (ASE), pp. 325-328, Antwerp, Belgium,September 20-24, 2010."
+    },
+    {
+      "index": 105,
+      "title": "S",
+      "authors": "T",
+      "venue": "Proceedings of",
+      "year": 2010,
+      "invited": false,
+      "raw": "T.S. Mohan, N. Medvidovic, C. Mattmann.\nLeveraging Domain-Specific Software Architec-tures\nfor Classifying Cloud Service Abstractions.\nIn Proceedings of\nthe Cloud Futures 2010:Advancing Research with Cloud Computing Workshop, Redmond, WA, April 8-9, 2010."
+    },
+    {
+      "index": 106,
+      "title": "Mattmann, R",
+      "authors": "C",
+      "venue": "Proceedings of",
+      "year": 2009,
+      "invited": false,
+      "raw": "C. Mattmann, R. R. Downs, J. J. Marshall, S. Samadi.\nSoftware Reuse for EnvironmentalDecision-Making.\nIn Proceedings of\nthe 2009 Winter ESIP Federation Meeting, Washington,D.C., January 2009."
+    },
+    {
+      "index": 107,
+      "title": "Mattmann, R",
+      "authors": "C",
+      "venue": "Proceedings of",
+      "year": 2010,
+      "invited": false,
+      "raw": "C. Mattmann, R. R. Downs, J. J. Marshall, S. Samadi. Reuse of Software Assets for the NASAEarth Science Decadal Survey Missions.\nIn Proceedings of\nthe IEEE Geoscience and RemoteSensing Symposium (IGARSS), pp. 1687-1690, Honolulu, HI, July 25-30, 2010."
+    },
+    {
+      "index": 108,
+      "title": "Kwoun, D",
+      "authors": "O",
+      "venue": "Proceedings of",
+      "year": 2010,
+      "invited": false,
+      "raw": "O. Kwoun, D. Cuddy, K. Leung, D. Crichton, C. Mattmann, and D. Freeborn. A Science DataSystem Approach for the DESDynI Mission.\nIn Proceedings of\nIEEE Radar, pp.\n1265-1269,Washington, D.C., May 10-14, 2010."
+    },
+    {
+      "index": 109,
+      "title": "Mattmann, A",
+      "authors": "C",
+      "venue": null,
+      "year": 2009,
+      "invited": false,
+      "raw": "C. Mattmann, A. Braverman, D. Crichton and, D. Williams. An Architecture and AnalysisEnvironment for Model to Observational Data Intercomparisons, Eos, Vol. 90, Number 52, 29December 2009, Fall Meet. Suppl., Abstract IN13B-1083."
+    },
+    {
+      "index": 110,
+      "title": "S",
+      "authors": "J",
+      "venue": null,
+      "year": 2009,
+      "invited": false,
+      "raw": "J. S. Hughes, D. Cricthon, S. Hardman, C. Mattmann, and P. Ramirez. Enabling Interoper-ability – Supporting a Diversity of Search Paradigms Using Shared Ontologies and FederatedRegistries. Eos, Vol. 90, Number 52, 29 December 2009, Fall Meet. Suppl., Abstract IN51B-1037."
+    },
+    {
+      "index": 111,
+      "title": "Braverman, S",
+      "authors": "A",
+      "venue": "August 21-26th",
+      "year": 2011,
+      "invited": false,
+      "raw": "A. Braverman, S. Granger and C. Mattmann. Service-oriented Architectures and Statistics forWater Resource Analysis. To appear in Proceedings of\nthe 58th Session of\nthe InternationalStatistical Institute, Dublin, Ireland, August 21-26th, 2011."
+    },
+    {
+      "index": 112,
+      "title": "Braverman, D",
+      "authors": "A",
+      "venue": "Proceedings ofthe Workshop on Global Organization for Earth System Science Portals (GO-ESSP)",
+      "year": 2009,
+      "invited": false,
+      "raw": "A. Braverman, D. Crichton, C. Mattmann, R. Raskin and M. Gunson.\nThe Climate DataeXchange: Bringing NASAs Observational Data to the IPCC Community.\nIn Proceedings ofthe Workshop on Global Organization for Earth System Science Portals (GO-ESSP), Hamburg,Germany, October 5-9, 2009."
+    },
+    {
+      "index": 113,
+      "title": "Woollard, C",
+      "authors": "D",
+      "venue": "Proceedings of the OOPSLA 1st International Workshopon Software Research and Climate Change",
+      "year": 2009,
+      "invited": false,
+      "raw": "D. Woollard, C. Mattmann, A. Braverman, R. Raskin, D. Crichton. Enabling Climate Scien-tists to Access Observational Data.\nIn Proceedings of the OOPSLA 1st International Workshopon Software Research and Climate Change. Orlando, FL, October 26, 2009."
+    },
+    {
+      "index": 114,
+      "title": "Mattmann, D",
+      "authors": "C",
+      "venue": "Proceedings of",
+      "year": 2009,
+      "invited": false,
+      "raw": "C. Mattmann, D. Crichton, A. Braverman, D. Williams, M. Gunson, D. Woollard, S. Kelly andM. Cayanan. A Distributed Computing Infrastructure for the Evaluation of Climate Modelsusing NASA Observational Data.\nIn Proceedings of\nthe IEEE ICDM Workshop on KnowledgeDiscovery from Climate Data, pp. 231-232, Miami, FL, December 6th, 2009."
+    },
+    {
+      "index": 115,
+      "title": "Mattmann, J",
+      "authors": "C",
+      "venue": "Proceedings of",
+      "year": 2009,
+      "invited": false,
+      "raw": "C. Mattmann, J. Garcia,\nI. Krka, D. Popescu and N. Medvidovic. The Anatomy and Physi-ology of the Grid Revisited.\nIn Proceedings of\nthe Joint Working IEEE/IFIP Conference onSoftware Architecture & European Conference on Software Architecture, pp. 285-288, Cam-bridge, UK, September 14-17, 2009."
+    },
+    {
+      "index": 116,
+      "title": "Bingham, C",
+      "authors": "A",
+      "venue": "Proceedings of OceanObs09",
+      "year": 2009,
+      "invited": false,
+      "raw": "A. Bingham, C. Thompson, T. Stough, M. Henderson, L. Pan, and C. Mattmann. Data Toolsand Services at Physical Oceanography DAAC.\nIn Proceedings of OceanObs09, Venice,\nItaly,September 21st-25th, 2009. Paper available at:http://www.oceanobs09.net/ac/AbstractBook OceanObs09.pdf."
+    },
+    {
+      "index": 117,
+      "title": "Mattmann, J",
+      "authors": "C",
+      "venue": "Proceedings of",
+      "year": 2009,
+      "invited": false,
+      "raw": "C. Mattmann, J. Tran, H. Kincaid, D. Crichton, A. Hart, K. Anton, J. Dahlgren, M. Thorn-quist, D. Stelling, S. Reid, C. Patriotis, and S. Srivastava.\nThe eCAS Model\nfor ScientificData Warehousing of Biomarker Data.\nIn Proceedings of\nthe 6th EDRN Scientific Workshop,August 2009. Bethesda MD."
+    },
+    {
+      "index": 118,
+      "title": "Kincaid, A",
+      "authors": "H",
+      "venue": "Proceedings of",
+      "year": 2009,
+      "invited": false,
+      "raw": "H. Kincaid, A. Hart, K. Anton, C. Patriotis, M. Thornquist, J. Dahlgren, C. Mattmann, D.Crichton and J. Tran. Curation of EDRN Cancer Biomarker Research.\nIn Proceedings of\nthe6th EDRN Scientific Workshop, August 2009. Bethesda MD."
+    },
+    {
+      "index": 119,
+      "title": "Crichton, M",
+      "authors": "D",
+      "venue": "Proceedings of",
+      "year": 2009,
+      "invited": false,
+      "raw": "D. Crichton, M. Thornquist, S. Kelly, A. Hart, H. Kincaid, C. Mattmann, J. Dahlgren, K.Anton, D. Stelling, G. Warnick, S. Reid, C. Edelstein, J. Tran, C. Patriotis, and S. Srivastava.Providing Integrated Access\nto Scientific\nInformation and Knowledge\nin Cancer BiomarkerResearch.\nIn Proceedings of\nthe 6th EDRN Scientific Workshop, August 2009. Bethesda MD."
+    },
+    {
+      "index": 120,
+      "title": "Hart, C",
+      "authors": "A",
+      "venue": "August 3rd-4th",
+      "year": 2009,
+      "invited": false,
+      "raw": "A. Hart, C. Mattmann, J. Tran, D. Crichton, H. Kincaid, J. S. Hughes, S. Kelly, K. Anton,D. Johnsey, C. Patriotis. Enabling Effective Curation of Cancer Biomarker Research Data.\nInProceedings of\nthe 22nd IEEE International Symposium on Computer-Based Medical Systems(CBMS), Albuquerque, NM, August 3rd-4th, 2009."
+    },
+    {
+      "index": 121,
+      "title": "S",
+      "authors": "J",
+      "venue": "Proceedings of the 2009 IEEE InternationalConference on Information Reuse and Integration(IEEE IRI-09)",
+      "year": 2009,
+      "invited": false,
+      "raw": "J. S. Hughes, D. Crichton and C. Mattmann. Ontology-Based Information Model Developmentfor Science Information Reuse and Integration.\nIn Proceedings of the 2009 IEEE InternationalConference on Information Reuse and Integration(IEEE IRI-09), pp.\n79-84, Las Vegas, NV,August 10th-12th, 2009."
+    },
+    {
+      "index": 122,
+      "title": "Franklin, D",
+      "authors": "W",
+      "venue": "Proceedings of",
+      "year": 2009,
+      "invited": false,
+      "raw": "W. Franklin, D. Crichton, M. Reid, C. Mattmann, A. Hart, D. Deng, P. Chesnut, B. Logue, J.Hayes, D. Stelling, M. Varella-Garcia, T. E. Kennedy, Y. E. Miller. A Distributed BronchialMapping Software Tool\nfor\nthe Tracking of Cellular, Molecular and Imaging Results\nin theCentral Airways.\nIn Proceedings of\nthe 13th IASLC World Conference on Lung Cancer, SanFrancisco, CA, July 31st-August 4th, 2009."
+    },
+    {
+      "index": 123,
+      "title": "McCleese, C",
+      "authors": "S",
+      "venue": "Proceedings of",
+      "year": 2009,
+      "invited": false,
+      "raw": "S. McCleese, C. Mattmann, R. Raskin, D. Crichton, and S. Hardman.\nA Virtual Oceano-graphic Data Center.\nIn Proceedings of\nthe 18th ACM/IEEE International World Wide WebConference (WWW2009) – Developers Track, pp. 38-39, Madrid, Spain, April 20th-24th, 2009."
+    },
+    {
+      "index": 124,
+      "title": "S",
+      "authors": "J",
+      "venue": "Proceedings of",
+      "year": 2009,
+      "invited": false,
+      "raw": "J. S. Hughes, D. Crichton, and C. Mattmann. Scientific Digital Libraries, Interoperability, andOntologies.\nIn Proceedings of\nthe ACM/IEEE Joint Conference on Digital Libraries\n(JCDL2009), pp. 399-400, Austin, TX, June 15-19, 2009."
+    },
+    {
+      "index": 125,
+      "title": "Woollard, C",
+      "authors": "D",
+      "venue": "Proceedings of",
+      "year": 2009,
+      "invited": false,
+      "raw": "D. Woollard, C. Mattmann, and N. Medvidovic.\nInjecting Software Architectural Constraintsinto Legacy Scientific Applications.\nIn Proceedings of\nthe ICSE 2009 Workshop on SoftwareEngineering for Computational Science and Engineering, pp. 65-71, Vancouver, Canada, May23, 2009."
+    },
+    {
+      "index": 126,
+      "title": "S",
+      "authors": "J",
+      "venue": "Proceedings of",
+      "year": 2009,
+      "invited": false,
+      "raw": "J. S. Hughes, D. Crichton and C. Mattmann. A Framework to Manage Information Models- The Planetary Data System Case Study.\nIn Proceedings of\nthe 40th Lunar and PlanetaryScience Conference, the Woodlands, Texas, March 23-27, 2009."
+    },
+    {
+      "index": 127,
+      "title": "Mattmann, D",
+      "authors": "C",
+      "venue": "Proceedings of the3rd IEEE Intl Conference on Space Mission Challenges for Information Technology (SMC-IT2009)",
+      "year": 2009,
+      "invited": false,
+      "raw": "C. Mattmann, D. Freeborn, D. Crichton, B. Foster, A. Hart, D. Woollard, S. Hardman, P.Ramirez, S. Kelly, A. Y. Chang, C. E. Miller. A Reusable Process Control System Frameworkfor the Orbiting Carbon Observatory and NPP Sounder PEATE missions.\nIn Proceedings of the3rd IEEE Intl Conference on Space Mission Challenges for Information Technology (SMC-IT2009), pp. 165-172, July 19 - 23, 2009."
+    },
+    {
+      "index": 128,
+      "title": "Hart, J",
+      "authors": "A",
+      "venue": "Proceedings of",
+      "year": 2009,
+      "invited": false,
+      "raw": "A. Hart, J. Tran, D. Crichton, K. Anton, H. Kincaid, S.Kelly, J.S. Hughes and C. Mattmann.An Extensible Biomarker Curation Approach and Software Infrastructure for\nthe Early De-tection of Cancer.\nIn Proceedings of\nthe IEEE Intl. Conference on Health Informatics, pp.387-392, Porto, Portugal, January 14-17, 2009."
+    },
+    {
+      "index": 129,
+      "title": "Crichton, C",
+      "authors": "D",
+      "venue": "Proceedings of",
+      "year": 2008,
+      "invited": false,
+      "raw": "D. Crichton, C. Mattmann, A. Braverman. Facilitating Climate Modeling Research and Anal-ysis via the Climate Data eXchange.\nIn Proceedings of\nthe Workshop on Global Organizationfor Earth System Science Portals (GO-ESSP), Seattle, WA, 2008."
+    },
+    {
+      "index": 130,
+      "title": "Crichton, P",
+      "authors": "D",
+      "venue": "Proceedings of",
+      "year": 2008,
+      "invited": false,
+      "raw": "D. Crichton, P. Ramirez, C. Mattmann and J. S. Hughes.\nA Model Driven Architecturefor Highly Distributed, Data Intensive Systems.\nIn Proceedings of\nthe DARPA Workshop onDigital Object Storage and Retrieval (DOSR), Chantilly, Virginia, July 15-16, 2008."
+    },
+    {
+      "index": 131,
+      "title": "Mattmann, R",
+      "authors": "C",
+      "venue": "Proceedings of",
+      "year": 2008,
+      "invited": false,
+      "raw": "C. Mattmann, R. Raskin, D. Crichton. A Service Oriented Architecture for Highly Distributedand Data-Intensive Geospatial Grid Software Systems.\nIn Proceedings of\nthe GIScience 2008Workshop on Design of Service-Oriented Architecture (SOA) for Geospatial Science, Park City,UT, 2008."
+    },
+    {
+      "index": 133,
+      "title": "Hart, D",
+      "authors": "A",
+      "venue": "Proceedingsof",
+      "year": 2008,
+      "invited": false,
+      "raw": "A. Hart, D. Crichton, D. Johnsey, C. Mattmann, C. Patriotis, H. Kincaid, S. Srivastava,M. Thornquist. A Web-based Data Management Infrastructure for Curation, Annotation andDissemination of Biomarker Research results for the Early Detection of Cancer.\nIn Proceedingsof\nthe 5th EDRN Scientific Workshop, Bethesda, MD, March 17-19, 2008."
+    },
+    {
+      "index": 134,
+      "title": "Crichton, M",
+      "authors": "D",
+      "venue": "Proceedings of",
+      "year": 2008,
+      "invited": false,
+      "raw": "D. Crichton, M. Thornquist, S. Kelly, C. Mattmann, D. Johnsey, J. Dahlgren, D. Steling, G.Warnick, S. Reid, C. Edelstein, A. Hart, H. Kincaid. A Distributed Informatics KnowledgeEnvironment for Biomarker Research.\nIn Proceedings of\nthe 5th EDRN Scientific Workshop,Bethesda, MD, March 17-19, 2008."
+    },
+    {
+      "index": 135,
+      "title": "S",
+      "authors": "J",
+      "venue": "Proceedings of",
+      "year": 2008,
+      "invited": false,
+      "raw": "J. S. Hughes, D. Stelling, D.Crichton, C. Mattmann, G. Warnick, S. Reid.\nAn Informa-tion Model\nfor Biomarker Research.\nIn Proceedings of\nthe 5th EDRN Scientific Workshop,Bethesda, MD, March 17-19, 2008."
+    },
+    {
+      "index": 136,
+      "title": "Mattmann, M",
+      "authors": "C",
+      "venue": "Proceedings of",
+      "year": 2008,
+      "invited": false,
+      "raw": "C. Mattmann, M. Khilkin, W. Rom, D. Crichton, S. Kelly, P. Rivera,\nJ. Ko, B. Phalan,S. Sotero, E. Eylers. A Reusable Web-based CAT (CT)\nscan data management\nsystem fortemporally characterizing Solid Nodules and Ground Glass Opacities in Lung Cancer patients.In Proceedings of\nthe 5th EDRN Scientific Workshop, Bethesda, MD, March 17-19, 2008."
+    },
+    {
+      "index": 137,
+      "title": "Franklin, D",
+      "authors": "W",
+      "venue": "Proceedings of the 5th EDRN Scientific Workshop",
+      "year": 2008,
+      "invited": false,
+      "raw": "W. Franklin, D. Crichton, M. Reid, C. Mattmann, A.Hart, D. Deng, B. Logue, J. Hayes, D.Stelling. A Distributed Biomarker Atlas for Lung Research aiding the Discovery and Early De-tection of Cancer Biomarkers.\nIn Proceedings of the 5th EDRN Scientific Workshop, Bethesda,MD, March 17-19, 2008."
+    },
+    {
+      "index": 138,
+      "title": "Mattmann, D",
+      "authors": "C",
+      "venue": "Proceedings of",
+      "year": 2008,
+      "invited": false,
+      "raw": "C. Mattmann, D. Woollard, N. Medvidovic. Exploiting Connector Knowledge to EfficientlyDisseminate Highly Voluminous Data Sets.\nIn Proceedings of\nthe ICSE 2008 Workshop onSHAring and Reusing architectural Knowledge - SHARK 2008, pp.\n37-40, Leipzig, Germany,May 10-18, 2008."
+    },
+    {
+      "index": 139,
+      "title": "Khilkin, C",
+      "authors": "M",
+      "venue": "Proceedings of American Thoracic Society (ATS)",
+      "year": 2008,
+      "invited": false,
+      "raw": "M. Khilkin, C. Mattmann, P. Rivera, J. Koh, B. Phalan, E. Eylers, S. Kelly, D. Crichton andW. N. Rom.\nIntegrating clinical, CT and PFT patient information in a database to determinea follow-up CT interval and the malignant potential of\nsolid and ground glass pulmonarynodules.\nIn Proceedings of American Thoracic Society (ATS), Toronto, Ontario, Canada, May16-21, 2008."
+    },
+    {
+      "index": 140,
+      "title": "Khilkin, C",
+      "authors": "M",
+      "venue": "Proceedings of American Thoracic Society (ATS)",
+      "year": 2008,
+      "invited": false,
+      "raw": "M. Khilkin, C. Mattmann, P. Rivera, J. Koh, B. Phalan, E. Eylers, S. Kelly, D. Crichton andW. N. Rom. An integrated clinical, CT, PFT database to better define an at risk population toscreen for lung cancer.\nIn Proceedings of American Thoracic Society (ATS), Toronto, Ontario,Canada, May 16-21, 2008."
+    },
+    {
+      "index": 141,
+      "title": "Mattmann, V",
+      "authors": "C",
+      "venue": "Proceed-ings of",
+      "year": 2007,
+      "invited": false,
+      "raw": "C. Mattmann, V. Perrone, S. Kelly, D. Crichton, A. Finkelstein, and N. Medvidovic. A Refer-ence Framework for Requirements and Architecture in Biomedical Grid Systems.\nIn Proceed-ings of\nthe 2007 IEEE International Conference on Information Reuse and Integration(IEEEIRI-07), pp. 418-423, Las Vegas, NV, August 13-15, 2007."
+    },
+    {
+      "index": 142,
+      "title": "Mattmann, D",
+      "authors": "C",
+      "venue": "Proceedings of",
+      "year": 2007,
+      "invited": false,
+      "raw": "C. Mattmann, D. Woollard, N. Medvidovic, R. Mahjourian.\nSoftware Connector Classifica-tion and Selection for Data-intensive Systems.\nIn Proceedings of\nthe ICSE 2007 Workshopon Incorporating COTS Software\ninto Software Systems: Tools and Techniques\n(IWICSS),Minneapolis, MN, May 22, 2007."
+    },
+    {
+      "index": 143,
+      "title": "Bhuta, C",
+      "authors": "J",
+      "venue": "January 6th-9th",
+      "year": 2007,
+      "invited": false,
+      "raw": "J. Bhuta, C. Mattmann, N. Medvidovic, and B. Boehm. A Framework for\nthe Assessmentand Selection of Software Components and Connectors\nin COTS-based Architectures.\nInProceedings of the 6th IEEE/IFIP Working Conference on Software Architeture (WICSA2007),pg. 6, Mumbai, India, January 6th-9th, 2007."
+    },
+    {
+      "index": 144,
+      "title": "Crichton, S",
+      "authors": "D",
+      "venue": "Proceedings of",
+      "year": 2006,
+      "invited": false,
+      "raw": "D. Crichton, S. Kelly, C. Mattmann, Q. Xiao, J. S. Hughes, J. Oh, M. Thornquist, D. Johnsey,S. Srivastava, L. Esserman, B. Bigbee. A Distributed Information Services Architecture toSupport Biomarker Discovery in Early Detection of Cancer.\nIn Proceedings of\nthe 2nd IEEEInternational Conference on e-Science and Grid Computing, pp. 44, Amsterdam, the Nether-lands, December 4th- 6th, 2006."
+    },
+    {
+      "index": 145,
+      "title": "Mattmann",
+      "authors": "C",
+      "venue": "Proceedings of the Doctoral Symposium at the 21st IEEE/ACM International Con-ference on Automated Software Engineering (ASE06)",
+      "year": 2006,
+      "invited": false,
+      "raw": "C. Mattmann.\nSoftware Connectors\nfor Highly Distributed and Voluminous Data-intensiveSystems.\nIn Proceedings of the Doctoral Symposium at the 21st IEEE/ACM International Con-ference on Automated Software Engineering (ASE06), pp. 331-334, Tokyo, Japan, September18-22, 2006."
+    },
+    {
+      "index": 148,
+      "title": "Mattmann, D",
+      "authors": "C",
+      "venue": "Proceedingsof the 28th International Conference on Software Engineering (ICSE06)",
+      "year": 2006,
+      "invited": false,
+      "raw": "C. Mattmann, D. Crichton, N. Medvidovic and S. Hughes. A Software Architecture-BasedFramework for Highly Distributed and Data Intensive Scientific Applications.\nIn Proceedingsof the 28th International Conference on Software Engineering (ICSE06), Software EngineeringAchievements Track, pp. 721-730, Shanghai, China, May 20th-28th, 2006."
+    },
+    {
+      "index": 149,
+      "title": "Mattmann, D",
+      "authors": "C",
+      "venue": "Proceedings of the NASA/IEEE Conference on MassStorage Systems and Technologies",
+      "year": 2006,
+      "invited": false,
+      "raw": "C. Mattmann, D. Crichton, J. S. Hughes, S. Kelly, S. Hardman, R. Joyner and P. Ramirez.A Classification and Evaluation of Data Movement Technologies\nfor\nthe Delivery of HighlyVoluminous Scientific Data Products.\nIn Proceedings of the NASA/IEEE Conference on MassStorage Systems and Technologies\n(MSST2006), pp.\n131-135, College Park, Maryland, May15-18, 2006."
+    },
+    {
+      "index": 150,
+      "title": "Medvidovic and C",
+      "authors": "N",
+      "venue": "Proceedings of the Monterey Workshop on Networked Systems",
+      "year": 2005,
+      "invited": true,
+      "raw": "N. Medvidovic and C. Mattmann. The GridLite DREAM: Bringing the Grid to Your Pocket.In Proceedings of the Monterey Workshop on Networked Systems, Irvine, CA, September, 2005.Invited to submit an extended and revised version of this paper to a special\nissue of SpringerLecture Notes on Computer Science in May 2006."
+    },
+    {
+      "index": 151,
+      "title": "Steven Hughes, D",
+      "authors": "J",
+      "venue": "Proceedings of",
+      "year": 2005,
+      "invited": false,
+      "raw": "J. Steven Hughes, D. Crichton, S. Kelly and C. Mattmann. The Semantic Planetary Data Sys-tem.\nIn Proceedings of\nthe 3rd Symposium on Ensuring Long-term Preservation and AddingValue to Scientific and Technical Data (PV-2005), The Royal Society, Edinburgh, UK, Novem-ber 21-23, 2005."
+    },
+    {
+      "index": 152,
+      "title": "Banerjee, C",
+      "authors": "S",
+      "venue": "Proceedings of the ICSE 2005 Workshop on SoftwareEngineering",
+      "year": 2005,
+      "invited": false,
+      "raw": "S. Banerjee, C. Mattmann, N. Medvidovic, and L. Golubchik. Leveraging Architectural Modelsto Inject Trust into Software Systems.\nIn Proceedings of the ICSE 2005 Workshop on SoftwareEngineering\nfor Secure Systems – Building Trustworthy Applications\n(SESS05), St.\nLouis,Missouri, May 15th-16th, 2005."
+    },
+    {
+      "index": 153,
+      "title": "Mattmann, N",
+      "authors": "C",
+      "venue": "Proceedingsof",
+      "year": 2005,
+      "invited": false,
+      "raw": "C. Mattmann, N. Medvidovic, P. Ramirez and V. Jakobac. Unlocking the Grid.\nIn Proceedingsof\nthe 8th ACM SIGSOFT International Symposium on Component-based Software Engineer-ing\n(CBSE8 ), pp.\n322-336.\nLNCS 3489, G. Heineman (Eds), Springer Verlag, St.\nLouis,Missouri, May 14th-15th, 2005."
+    },
+    {
+      "index": 154,
+      "title": "Mattmann,\nS",
+      "authors": "C",
+      "venue": "Pro-ceedings of the European Grid Conference (EGC2005)",
+      "year": 2005,
+      "invited": false,
+      "raw": "C. Mattmann,\nS. Malek, N. Beckman, M. Mikic-Rakic, N. Medvidovic\nand D. Crichton.GLIDE: A Grid-based, Lightweight,\nInfrastructure for Data-intensive Environments.\nIn Pro-ceedings of the European Grid Conference (EGC2005), pp. 68-77. LNCS 3470, P. M. A. Sloot,A. G. Hoekstra, T. Priol, A. Reinfield, M. Bubak (Eds), Springer Verlag, Amsterdam, TheNetherlands, February 14-16, 2005.https://github.com/chrismattmann/glide"
+    },
+    {
+      "index": 155,
+      "title": "Ramirez and C",
+      "authors": "P",
+      "venue": "Proceedings of the 2004 IEEE International Conference on Information Reuse andIntegration (IEEE IRI-2004)",
+      "year": 2004,
+      "invited": false,
+      "raw": "P. Ramirez and C. Mattmann. ACE:\nImproving Search Engines via Automatic Concept Ex-traction.\nIn Proceedings of the 2004 IEEE International Conference on Information Reuse andIntegration (IEEE IRI-2004), pp. 229-234. Las Vegas, NV, November 8th-10th, 2004.https://github.com/chrismattmann/ace"
+    },
+    {
+      "index": 156,
+      "title": "Raskin, M",
+      "authors": "R",
+      "venue": "June 22nd- 24th",
+      "year": 2004,
+      "invited": false,
+      "raw": "R. Raskin, M. Pan and C. Mattmann. Enabling Semantic Interoperability for Earth ScienceData. 4th Annual NASA Earth Science Technology Conference (ESTC-2004). Palo Alto, CA,June 22nd- 24th, 2004. Paper available at:http://esto.nasa.gov/conferences/estc2004/papers/a5p1.pdf"
+    },
+    {
+      "index": 157,
+      "title": "Steven Hughes, D",
+      "authors": "J",
+      "venue": "October 5-7",
+      "year": 2006,
+      "invited": false,
+      "raw": "J. Steven Hughes, D. Crichton, S. Kelly, C. Mattmann, R. Joyner, J. Wilf and J. Crichton.A Planetary Data System for\nthe 2006 Mars Reconnaissance Orbiter Era and Beyond.\nInProceedings of\nthe 2nd ESA Symposium on Ensuring the Long Term Preservation and AddingValue to Scientific and Technical Data (PV-2004). Frascati, Italy, October 5-7, 2004."
+    },
+    {
+      "index": 158,
+      "title": "Mattmann, D",
+      "authors": "C",
+      "venue": "Proceedings of",
+      "year": 2004,
+      "invited": false,
+      "raw": "C. Mattmann, D. Crichton, J.S. Hughes, S. Kelly and P. Ramirez.\nSoftware Architecturefor Large-scale, Distributed, Data-Intensive Systems.\nIn Proceedings of\nthe 4th IEEE/IFIPWorking Conference on Software Architecture (WICSA-4), pp.\n255-264. Oslo, Norway, June12th-15th, 2004."
+    },
+    {
+      "index": 160,
+      "title": "Mattmann, D",
+      "authors": "C",
+      "venue": "Proceedings of the 2nd IADIS International Conference WWW/Internet",
+      "year": 2003,
+      "invited": false,
+      "raw": "C. Mattmann, D. Freeborn and D. Crichton. Towards a Distributed Information Architecturefor Avionics Data.\nIn Proceedings of the 2nd IADIS International Conference WWW/Internet,Vol II, pp. 829-832. Algarve, Portugal, November, 2003."
+    },
+    {
+      "index": 161,
+      "title": "Mattmann and B",
+      "authors": "C",
+      "venue": "Proceedings of",
+      "year": 2003,
+      "invited": false,
+      "raw": "C. Mattmann and B. Shaw. Adding Meta-Architectural Understanding to Resource AwareSoftware Architectures Requiring Device Synchronization.\nIn Proceedings of\nthe 2nd IADISInternational Conference WWW/Internet, Vol.\nII, pp. 1265-1266. Algarve, Portugal, Novem-ber, 2003."
+    },
+    {
+      "index": 162,
+      "title": "Mandutianu, S",
+      "authors": "S",
+      "venue": "Brazil",
+      "year": 2003,
+      "invited": false,
+      "raw": "S. Mandutianu, S. Hardman and C. Mattmann. DIRAC: A Framework for Coordination andCooperation. Poster Session. ACM/IFIP/USENIX International Middleware Conference. Riode Janeiro, Brazil, 2003.\nTechnical Reports"
+    },
+    {
+      "index": 6,
+      "title": "Mattmann, S",
+      "authors": "C",
+      "venue": null,
+      "year": 2018,
+      "invited": false,
+      "raw": "C. Mattmann, S. Shah and B. Wilson. MARVIN: An Open Machine Learning Corpus andEnvironment\nfor Automated Machine Learning Primitive Annotation and Execution.\nJuly14th, 2018.https://arxiv.org/abs/1808.03753"
+    },
+    {
+      "index": 7,
+      "title": "Mattmann and M",
+      "authors": "C",
+      "venue": null,
+      "year": 2016,
+      "invited": false,
+      "raw": "C. Mattmann and M. Sharan. Scalable Pooled Time Series of Big Video Data from the DeepWeb. October 2016.doi:arXiv:1610.06669https://arxiv.org/abs/1610.06669"
+    },
+    {
+      "index": 8,
+      "title": "Hong, C",
+      "authors": "J",
+      "venue": null,
+      "year": 2016,
+      "invited": false,
+      "raw": "J. Hong, C. Mattmann, P. Ramirez. Ensemble Maximum Entropy Classification and LinearRegression for Author Age Prediction. October 2016.doi:arXiv:1610.00852https://arxiv.org/abs/1610.00852"
+    },
+    {
+      "index": 1,
+      "title": "Mattmann",
+      "authors": "C",
+      "venue": null,
+      "year": 2013,
+      "invited": false,
+      "raw": "C. Mattmann. Review of: Big Data's Big Unintended Consequences. ACM Computing Re-views. Review #: CR154930, September 2013."
+    },
+    {
+      "index": 2,
+      "title": "Mattmann",
+      "authors": "C",
+      "venue": null,
+      "year": 2013,
+      "invited": false,
+      "raw": "C. Mattmann. Review of: Geolocation in iOS: Mobile Positioning and Mapping on iPhoneand iPad. ACM Computing Reviews. Review #: CR146916, March 2013."
+    },
+    {
+      "index": 3,
+      "title": "Mattmann",
+      "authors": "C",
+      "venue": null,
+      "year": 2012,
+      "invited": false,
+      "raw": "C. Mattmann. Review of: Patterns of Data Modeling. ACM Computing Reviews. Review #:130772, February 2012."
+    },
+    {
+      "index": 4,
+      "title": "Mattmann",
+      "authors": "C",
+      "venue": null,
+      "year": 2011,
+      "invited": false,
+      "raw": "C. Mattmann. Review of: Run-time models for self-managing systems and applications. ACMComputing Reviews. Review #: CR123344, November 2011."
+    },
+    {
+      "index": 5,
+      "title": "Mattmann",
+      "authors": "C",
+      "venue": null,
+      "year": null,
+      "invited": false,
+      "raw": "C. Mattmann. Review of: Rigi-An environment for software reverse engineering, exploration,visualization, and redocumentation. ACM Computing Reviews, Review #: CR138524, October2010."
+    },
+    {
+      "index": 6,
+      "title": "Mattmann",
+      "authors": "C",
+      "venue": null,
+      "year": 2010,
+      "invited": false,
+      "raw": "C. Mattmann.\nReview of: Domain-Specific Languages\nin a Customs\nInformation System.ACM Computing Reviews, Review #: CR138361, September 2010."
+    },
+    {
+      "index": 7,
+      "title": "Mattmann",
+      "authors": "C",
+      "venue": null,
+      "year": 2009,
+      "invited": false,
+      "raw": "C. Mattmann. Review of: Journal on Data Semantics XII. ACM Computing Reviews, Review#: CR137473, November 2009."
+    },
+    {
+      "index": 8,
+      "title": "Mattmann",
+      "authors": "C",
+      "venue": null,
+      "year": 2009,
+      "invited": false,
+      "raw": "C. Mattmann. Review of: Pro Hadoop. ACM Computing Reviews, Review #: CR137448,November 2009."
+    },
+    {
+      "index": 9,
+      "title": "Mattmann",
+      "authors": "C",
+      "venue": null,
+      "year": 2009,
+      "invited": false,
+      "raw": "C. Mattmann. Review of: Database and information-retrieval methods for knowledge discov-ery. ACM Computing Reviews, Review #: CR136803, May 2009."
+    },
+    {
+      "index": 10,
+      "title": "Mattmann",
+      "authors": "C",
+      "venue": null,
+      "year": 2009,
+      "invited": false,
+      "raw": "C. Mattmann. Review of: Better scripts, better games. ACM Computing Reviews, Review #:CR136725, April 2009."
+    },
+    {
+      "index": 11,
+      "title": "Mattmann",
+      "authors": "C",
+      "venue": null,
+      "year": 2008,
+      "invited": false,
+      "raw": "C. Mattmann.\nReview of:\nSoftware Engineering and Formal Methods.\nACM ComputingReviews, Review #: CR135087, October 2008."
+    },
+    {
+      "index": 12,
+      "title": "Mattmann",
+      "authors": "C",
+      "venue": null,
+      "year": 2008,
+      "invited": false,
+      "raw": "C. Mattmann. Review of: Constraint\nlogic programming using ECLiPSe. ACM ComputingReviews, Review #: CR135844, July 2008."
+    },
+    {
+      "index": 13,
+      "title": "Mattmann",
+      "authors": "C",
+      "venue": null,
+      "year": 2008,
+      "invited": false,
+      "raw": "C. Mattmann. Review of: Composition inference for UML class diagrams. ACM ComputingReviews, Review #: CR135556, May 2008."
+    },
+    {
+      "index": 14,
+      "title": "Mattmann",
+      "authors": "C",
+      "venue": null,
+      "year": 2008,
+      "invited": false,
+      "raw": "C. Mattmann. Review of: MapReduce:\nsimplified data processing on large clusters. ACMComputing Reviews, Review #: CR135329, March 2008."
+    },
+    {
+      "index": 15,
+      "title": "Mattmann",
+      "authors": "C",
+      "venue": null,
+      "year": 2008,
+      "invited": false,
+      "raw": "C. Mattmann. Review of: Smart card applications: Design models for using and programmingsmart cards. ACM Computing Reviews, Review #: CR135205, February 2008."
+    },
+    {
+      "index": 1,
+      "title": "Information Architecture for Space Data Systems",
+      "authors": "A",
+      "venue": null,
+      "year": null,
+      "invited": false,
+      "raw": "A. Mishra, S. Cheng, A. Didier, C. Mattmann, H. Venkaratam, G. Lee, W. Burke, V. Lall. Con-verting Unstructured Technical reports to Structured Technical Reports using Machine Learn-ing. United States Patent Application 20200226325, Application Number: 16/740066, Publi-cation Date: 07/16/2020http://www.freepatentsonline.com/y2020/0226325.html\nInternational\n\"Information Architecture for Space Data Systems\" Consultative Committee on Space Data Systems\nStandards\n(CCSDS)\nInformation Architecture Working Group (IA-WG) Currently Draft Green Book Status\nhttp://www.ccsds.org/docu/dscgi/ds.py/Get/File-1609/CCSDSInfoArch-new.pdf\nResearch Grants Current None\nCompleted"
+    },
+    {
+      "index": 2,
+      "title": "2020 GroundSystems Architecture Workshop (GSAW) Session 12A Advancing Space Exploration at\ntheJet Propulsion Laboratory (JPL)",
+      "authors": "Artificial\nIntelligence and Analytics\nin JPL's\nInnovation Experience Center",
+      "venue": null,
+      "year": 2020,
+      "invited": false,
+      "raw": "Artificial\nIntelligence and Analytics\nin JPL's\nInnovation Experience Center.\n2020 GroundSystems Architecture Workshop (GSAW) Session 12A Advancing Space Exploration at\ntheJet Propulsion Laboratory (JPL).https://gsaw.org/"
+    },
+    {
+      "index": 3,
+      "title": "C",
+      "authors": "Deep Facial Recognition using TensorFlow",
+      "venue": "November17-22",
+      "year": 2019,
+      "invited": false,
+      "raw": "Deep Facial Recognition using TensorFlow. C. Mattmann. 2019 IEEE/ACM Third Workshopon Deep Learning on Supercomputers (DLonHSC19) at the International Conference for HighPerformance Computing, Networking, Storage, and Analysis\n(SC19), pp.\n45-51, November17-22, 2019, Denver, CO, USA.https://dlonsc19.github.io/"
+    },
+    {
+      "index": 4,
+      "title": "C",
+      "authors": "Towards Automatic and Explainable Data Science\nfor NASA",
+      "venue": "October 15-17",
+      "year": 2019,
+      "invited": false,
+      "raw": "Towards Automatic and Explainable Data Science\nfor NASA. C. Mattmann.\n48th AnnualIEEE Applied Imagery Pattern Recognition (AIPR) annual workshops 2019: Cognition, Col-laboration, and Cloud. Washington, D.C., October 15-17, 2019.https://www.aipr-workshop.org/"
+    },
+    {
+      "index": 6,
+      "title": "Mattmann, K",
+      "authors": "Session 14: Panel Discussion: Creating Smarter Ground Systems, C",
+      "venue": "CA",
+      "year": 2019,
+      "invited": false,
+      "raw": "Session 14: Panel Discussion: Creating Smarter Ground Systems, C. Mattmann, K. Rengara-jan, M. Wheaton, T. Deaver, J. Deckert, A. Donati, C. Knoblock, J. Moirin. Ground SystemsArchitecture Workshop, The Aerospace Corporation, El Segundo, CA, February 28, 2019.http://gsaw.org/past-proceedings/2019-2/"
+    },
+    {
+      "index": 9,
+      "title": "C",
+      "authors": "NSF GeoSoft: Architecture",
+      "venue": "CA",
+      "year": 2015,
+      "invited": false,
+      "raw": "NSF GeoSoft: Architecture. C. Mattmann.\nPresented at\nthe NSF EarthCube ArchitectureWorkshop, La Jolla, CA, June 19, 2015.http://earthcube.org/workspace/architecture-wg/earthcube-architecture-workshop"
+    },
+    {
+      "index": 10,
+      "title": "C",
+      "authors": "Revisiting\nthe Anatomy and Physiology of\nthe Grid",
+      "venue": "OR",
+      "year": 2015,
+      "invited": false,
+      "raw": "Revisiting\nthe Anatomy and Physiology of\nthe Grid.\nC. Mattmann.\nPresented at\nthe 1stWorkshop on The Science of Cyberinfrastructure: Research, Experience, Applications andModels (SCREAM '15) co-located with the ACM Symposium on High-Performance Paralleland Distributed Computing. Portland, OR, June 16, 2015.https://sites.google.com/site/scream15workshop/home"
+    },
+    {
+      "index": 13,
+      "title": "C",
+      "authors": "An Open Source Big Data Ecosystem",
+      "venue": "Monday",
+      "year": 2015,
+      "invited": false,
+      "raw": "An Open Source Big Data Ecosystem. C. Mattmann. Part of a Tutorial on Big Data Consider-ations for Ground System Environments at the 2015 Ground Systems Architecture Workshop(GSAW), Los Angeles, CA, Monday, March 2, 2015.http://gsaw.org/agenda/tutorials/tutorial-e/"
+    },
+    {
+      "index": 18,
+      "title": "C",
+      "authors": "Making the Case for the ESGF and Apache: Long-Term Software Stewardship",
+      "venue": "CA",
+      "year": 2014,
+      "invited": false,
+      "raw": "Making the Case for the ESGF and Apache: Long-Term Software Stewardship. C. Mattmann.Presented at the 4th Annual Earth System Grid Federation and Ultrascale Visualization Cli-mate Data Analysis Tools Conference. Livermore, CA, December 10, 2014."
+    },
+    {
+      "index": 20,
+      "title": "C",
+      "authors": "A Next Generation CyberInfrastructure to Support Comparison of Satellite Observations withClimate Models",
+      "venue": "Italy",
+      "year": 2014,
+      "invited": false,
+      "raw": "A Next Generation CyberInfrastructure to Support Comparison of Satellite Observations withClimate Models. C. Mattmann. Presented at the ESA/ESRIN 2014 Conference on Big Datafrom Space (BiDS 2014), Frascati, Italy, November 13, 2014."
+    },
+    {
+      "index": 23,
+      "title": "C",
+      "authors": "An Open Source Big Data Ecosystem",
+      "venue": "Germany",
+      "year": 2014,
+      "invited": true,
+      "raw": "An Open Source Big Data Ecosystem.\nC. Mattmann.\nKeynote Presentation at\nthe Chal-lenge of Big Data in Science (3rd International LSDMA Symposium). Karlsruhe Institute ofTechnology (KIT) Campus, Karlsruhe, Germany, October 7, 2014."
+    },
+    {
+      "index": 24,
+      "title": "A",
+      "authors": "Automatically Classifying and Interpreting Polar Datasets with Apache Tika",
+      "venue": "CA",
+      "year": 2014,
+      "invited": false,
+      "raw": "Automatically Classifying and Interpreting Polar Datasets with Apache Tika. A. Burgess, C.Mattmann. Poster Presentation at\nthe 15th IEEE International Conference on InformationReuse and Integration. San Francisco, CA, August 13, 2014."
+    },
+    {
+      "index": 26,
+      "title": "Day #2 Keynote:\nIT & Enterprise Architecture Forum",
+      "authors": "Real Data Science at NASA",
+      "venue": "NZ. June 29 - 30",
+      "year": 2014,
+      "invited": true,
+      "raw": "Real Data Science at NASA. Day #2 Keynote:\nIT & Enterprise Architecture Forum. Auckland,NZ. June 29 - 30, 2014.http://www.conferenz.co.nz/conferences/it-enterprise-architecture-forum"
+    },
+    {
+      "index": 27,
+      "title": "C",
+      "authors": "Data Science\nfrom the Trenches:\nNASA, Academia\nand Open Source Trial\nby Fire",
+      "venue": "CA Monday May 19",
+      "year": 2014,
+      "invited": true,
+      "raw": "Data Science\nfrom the Trenches:\nNASA, Academia\nand Open Source Trial\nby Fire.\nC.Mattmann. UCGIS 2014 Symposium Setting the Agenda: Research and Education for Today& Tomorrow - Invited Keynote, Pasadena, CA Monday May 19, 2014."
+    },
+    {
+      "index": 28,
+      "title": "C",
+      "authors": "Real Data Science at NASA",
+      "venue": "April30",
+      "year": 2014,
+      "invited": false,
+      "raw": "Real Data Science at NASA. C. Mattmann. Presented at the Workshop on High PerformanceComputing and Geospatial Analytics, Argonne National Laboratory (ANL), Chicago, IL, April30, 2014."
+    },
+    {
+      "index": 30,
+      "title": "C",
+      "authors": "A Research Agenda and Vision for Big Data at NASA",
+      "venue": "UK",
+      "year": 2014,
+      "invited": false,
+      "raw": "A Research Agenda and Vision for Big Data at NASA. C. Mattmann. Presented at the QConLondon conference. London, UK, March 7, 2014."
+    },
+    {
+      "index": 31,
+      "title": "C",
+      "authors": "Real Data Science at NASA",
+      "venue": "UK",
+      "year": 2014,
+      "invited": false,
+      "raw": "Real Data Science at NASA. C. Mattmann. Presented at the QCon London conference. Lon-don, UK, March 5, 2014."
+    },
+    {
+      "index": 38,
+      "title": "C",
+      "authors": "Opportunities\nand Strategies\nfor Big Data, Open Source Software\nin the Geosciences",
+      "venue": "VA",
+      "year": 2013,
+      "invited": false,
+      "raw": "Opportunities\nand Strategies\nfor Big Data, Open Source Software\nin the Geosciences.\nC.Mattmann.\nPresented at NSF EarthCube Domain End-User Workshop: Engaging the At-mospheric Cloud/Aerosol/Composition Community. George Mason University, Fairfax, VA,October 21, 2013."
+    },
+    {
+      "index": 40,
+      "title": "C",
+      "authors": "Land Use Polar\nInfrastructure Drivers:\nthe JPL Airborne Snow Observatory as Use Case",
+      "venue": "September 10-12",
+      "year": 2013,
+      "invited": false,
+      "raw": "Land Use Polar\nInfrastructure Drivers:\nthe JPL Airborne Snow Observatory as Use Case.C. Mattmann.\nPresented at\nthe NSF Workshop on Cyberinfrastructure for Polar Sciences.McNamara Alumni Center\n- University of Minnesota, Minneapolis, MN, September 10-12,2013."
+    },
+    {
+      "index": 41,
+      "title": "C",
+      "authors": "An Agency Strategy for Open Source",
+      "venue": "VA",
+      "year": 2013,
+      "invited": false,
+      "raw": "An Agency Strategy for Open Source. C. Mattmann. Presented at DARPA Conference Center,I2O Leadership Program, Arlington, VA, September 3, 2013"
+    },
+    {
+      "index": 42,
+      "title": "C",
+      "authors": "The IT Challenges of Big Data: Across Domains",
+      "venue": "CA",
+      "year": 2013,
+      "invited": false,
+      "raw": "The IT Challenges of Big Data: Across Domains. C. Mattmann. Presented at the MeaningfulUse of Complex Medical Data (MUCMD) Symposium, Saban Research Institute, Children'sHospital Los Angeles (CHLA), Los Angeles, CA, August 17, 2013."
+    },
+    {
+      "index": 44,
+      "title": "C",
+      "authors": "Software and Algorithmic Preservation for Open Science Panel",
+      "venue": "IN",
+      "year": 2013,
+      "invited": false,
+      "raw": "Software and Algorithmic Preservation for Open Science Panel. C. Mattmann. Presented atthe NSF Data and Software Preservation for Open Science (DASPOS) meeting co-located withthe 2013 ACM/IEEE Joint Conference on Digital Libraries.\nIndianapolis, IN, July 25, 2013."
+    },
+    {
+      "index": 46,
+      "title": "S",
+      "authors": "Rapid, Flexible, and Open Source Big Data Technologies\nfor\nthe U",
+      "venue": "CO",
+      "year": 2013,
+      "invited": false,
+      "raw": "Rapid, Flexible, and Open Source Big Data Technologies\nfor\nthe U.S. National Climate As-sessment. C. Mattmann. UCAR Software Engineering Assembly (SEA) Software EngineeringConference 2013, Boulder, CO, April 1, 2013.http://bit.ly/XSlSzh"
+    },
+    {
+      "index": 56,
+      "title": "C",
+      "authors": "Monitoring the Data Tide",
+      "venue": "New Zealand",
+      "year": 2012,
+      "invited": true,
+      "raw": "Monitoring the Data Tide. C. Mattmann.\nInternational Keynote Speech.\nITEX 2012 (InternetTechnology Expo). Auckland, New Zealand, November 8, 2012.http://www.conferenz.co.nz/conferences/itex-new-zealand"
+    },
+    {
+      "index": 57,
+      "title": "Mini Workshop",
+      "authors": "Big Data/Archiving Challenges and Solutions",
+      "venue": "Thursday",
+      "year": 2012,
+      "invited": false,
+      "raw": "Big Data/Archiving Challenges and Solutions.\nC. Mattmann Big Data \"Mini Workshop\":Astronomy and Astrophysics.\nCalifornia Institute of Technology Keck Institute\nfor SpaceStudies. Pasadena, CA, Thursday, November 1, 2012."
+    },
+    {
+      "index": 60,
+      "title": "C",
+      "authors": "Water management, power grids Panel",
+      "venue": "California",
+      "year": 2012,
+      "invited": false,
+      "raw": "Water management, power grids Panel. C. Mattmann, J. Frew, M. Denesuk.\n6th ExtremelyLarge Databases (XLDB) Invitational Workshop. Stanford, California, September 13, 2012."
+    },
+    {
+      "index": 62,
+      "title": "C",
+      "authors": "Developing an Open Source Strategy for NASA Earth Science Data Systems",
+      "venue": "NV",
+      "year": 2012,
+      "invited": false,
+      "raw": "Developing an Open Source Strategy for NASA Earth Science Data Systems. C. Mattmann.IEEE International Conference on Information Integration and Reuse (IRI-2012), Las Vegas,NV, August 10, 2012."
+    },
+    {
+      "index": 68,
+      "title": "C",
+      "authors": "Big Data Workflows\nfor Science",
+      "venue": "Virtual Participation",
+      "year": 2012,
+      "invited": true,
+      "raw": "Big Data Workflows\nfor Science. C. Mattmann. National Science Foundation (NSF) EarthCube Workflow Workshop, Invited Talk, Virtual Participation, April 13, 2012."
+    },
+    {
+      "index": 70,
+      "title": "C",
+      "authors": "Enabling rapid,\nscalable and effective comparison of model outputs with remote sensing datausing the Regional Climate Model Evaluation System (RCMES)",
+      "venue": "Sweden",
+      "year": 2012,
+      "invited": false,
+      "raw": "Enabling rapid,\nscalable and effective comparison of model outputs with remote sensing datausing the Regional Climate Model Evaluation System (RCMES). C. Mattmann, D. Waliser.ADSIMNOR-CORDEX workshop on Arctic climate modeling results and needs, Norrkoping,Sweden, March 20, 2012."
+    },
+    {
+      "index": 71,
+      "title": "C",
+      "authors": "A Regional Climate Model Evaluation System based on contemporary Satellite and other Obser-vations for Assessing Regional Climate Model Fidelity",
+      "venue": "March20",
+      "year": 2012,
+      "invited": false,
+      "raw": "A Regional Climate Model Evaluation System based on contemporary Satellite and other Obser-vations for Assessing Regional Climate Model Fidelity. C. Mattmann, D. Waliser. ADSIMNOR-CORDEX workshop on Arctic climate modeling results and needs, Norrkoping, Sweden, March20, 2012."
+    },
+    {
+      "index": 72,
+      "title": "C",
+      "authors": "The Apache OODT Ecosystem: A Birds Eye View",
+      "venue": "February 23",
+      "year": 2012,
+      "invited": false,
+      "raw": "The Apache OODT Ecosystem: A Birds Eye View. C. Mattmann. UCAR Software Engineer-ing Assembly (SEA) Software Engineering Conference 2012, February 23, 2012."
+    },
+    {
+      "index": 74,
+      "title": "C",
+      "authors": "A Strategy for Open Source Software at NASA",
+      "venue": "February 22",
+      "year": 2012,
+      "invited": false,
+      "raw": "A Strategy for Open Source Software at NASA. C. Mattmann. UCAR Software EngineeringAssembly (SEA) Software Engineering Conference 2012, February 22, 2012."
+    },
+    {
+      "index": 83,
+      "title": "Moderator: J",
+      "authors": "Architecture Panel",
+      "venue": "CA",
+      "year": 2011,
+      "invited": false,
+      "raw": "Architecture Panel. Moderator: J. Hammerbacher. C. Mattmann, D. Crichton, Z. Ives. Mean-ingful Use of Complex Medical Data (MUCMD) Symposium, Saban Research Institute, Chil-dren's Hospital Los Angeles (CHLA), Los Angeles, CA, August 26, 2011."
+    },
+    {
+      "index": 84,
+      "title": "C",
+      "authors": "Understanding the Meaningful Use of Open Source Software",
+      "venue": "CA",
+      "year": 2011,
+      "invited": false,
+      "raw": "Understanding the Meaningful Use of Open Source Software. C. Mattmann. Meaningful Use ofComplex Medical Data (MUCMD) Symposium, Saban Research Institute, Children's HospitalLos Angeles (CHLA), Los Angeles, CA, August 26, 2011."
+    },
+    {
+      "index": 85,
+      "title": "C",
+      "authors": "Software Reuse Methods to Improve Technological Infrastructure for e-Science",
+      "venue": "August 2nd",
+      "year": 2011,
+      "invited": false,
+      "raw": "Software Reuse Methods to Improve Technological Infrastructure for e-Science. C. Mattmann,J. Marshall, R. Downs.\nIEEE IRI Workshop on Issues and Challenges in Social Computing2011, Las Vegas, NV, August 2nd, 2011."
+    },
+    {
+      "index": 91,
+      "title": "International Con-ference on the Coordinated Regional Climate Downscaling Experiment - CORDEX TrainingWorkshop, Trieste, Italy, March 21-March 26, 2011",
+      "authors": "Understanding and Comparing Remote Sensing Data to Model Output",
+      "venue": null,
+      "year": 2011,
+      "invited": false,
+      "raw": "Understanding and Comparing Remote Sensing Data to Model Output.\nInternational Con-ference on the Coordinated Regional Climate Downscaling Experiment - CORDEX TrainingWorkshop, Trieste, Italy, March 21-March 26, 2011."
+    },
+    {
+      "index": 99,
+      "title": "Speakers:\nJ",
+      "authors": "Medical/Bioinformatics Informatics Panel",
+      "venue": "October 5th",
+      "year": 2010,
+      "invited": false,
+      "raw": "Medical/Bioinformatics Informatics Panel.\nSpeakers:\nJ. Cohn, R. Guha, T. Malik, D. Kale,C. Mattmann, E. Kolker, M. Atkinson. 4th Extremely Large Databases Workshop (XLDB4),Menlo Park, CA, October 5th, 2010."
+    },
+    {
+      "index": 101,
+      "title": "C",
+      "authors": "Reuse of Software Assets for the NASA Earth Science Decadal Survey Missions",
+      "venue": "July28th",
+      "year": 2010,
+      "invited": false,
+      "raw": "Reuse of Software Assets for the NASA Earth Science Decadal Survey Missions. C. Mattmann,R. Downs, J. Marshall, N. Most, S. Samadi. Presented at the 30th IEEE International Geo-science and Remote Sensing Symposium (IGARSS 2010) Poster Session, Honolulu, HI, July28th, 2010."
+    },
+    {
+      "index": 104,
+      "title": "C",
+      "authors": "The Climate Data eXchange\n(CDX)",
+      "venue": "TN",
+      "year": 2010,
+      "invited": false,
+      "raw": "The Climate Data eXchange\n(CDX). C. Mattmann.\nPresented at\nthe 2010 ESIP SummerFederation Meeting, Technical Workshops. Knoxville, TN, July 20, 2010."
+    },
+    {
+      "index": 105,
+      "title": "C",
+      "authors": "Object Oriented Data Technology (OODT)",
+      "venue": "TN",
+      "year": 2010,
+      "invited": false,
+      "raw": "Object Oriented Data Technology (OODT). C. Mattmann. Presented at the 2010 ESIP SummerFederation Meeting, Technical Workshops. Knoxville, TN, July 20, 2010.\n106.Informatics and the caTissue Wrapper for the Early Detection Research Network. C. Mattmann.Presented at the caBIG Tissue Banks and Pathology Tools and Integrated Cancer ResearchWorkspaces Joint Face-to-Face Meeting. UCLA, Los Angeles, CA, May 4, 2010."
+    },
+    {
+      "index": 107,
+      "title": "0 Discussion",
+      "authors": "Reuse Readiness Levels 1",
+      "venue": "April 7",
+      "year": 2010,
+      "invited": false,
+      "raw": "Reuse Readiness Levels 1.0 Discussion. C. Mattmann. Presented at the NASA Earth ScienceData Systems (ESDS) Software Reuse Working Group (WG) Workshop on Reuse ReadinessLevels. Washington D.C., April 7, 2010."
+    },
+    {
+      "index": 109,
+      "title": "Speakers",
+      "authors": "Open Source and the Cloud:\nIT Opportunities and Challenges Panel",
+      "venue": "CA",
+      "year": 2010,
+      "invited": false,
+      "raw": "Open Source and the Cloud:\nIT Opportunities and Challenges Panel. Speakers. J. Urquhart,C. Mattmann, E. Brescia. Open Source Business Conference (OSBC 2010).\nSan Francisco,CA, March 17, 2010."
+    },
+    {
+      "index": 112,
+      "title": "C",
+      "authors": "A Distributed Computing\nInfrastructure\nfor\nthe Evaluation of Climate Models using NASAObservational Data",
+      "venue": "December 6th",
+      "year": 2009,
+      "invited": false,
+      "raw": "A Distributed Computing\nInfrastructure\nfor\nthe Evaluation of Climate Models using NASAObservational Data. C. Mattmann, D. Crichton, A. Braverman, D. Williams, M. Gunson, D.Woollard, S. Kelly and M. Cayanan. Presented at the IEEE ICDM Workshop on KnowledgeDiscovery from Climate Data. Miami, FL, December 6th, 2009."
+    },
+    {
+      "index": 113,
+      "title": "C",
+      "authors": "Science Data System Architectural Approach for JPL-led Decadal Survey Missions",
+      "venue": "October 20th-22nd",
+      "year": 2009,
+      "invited": false,
+      "raw": "Science Data System Architectural Approach for JPL-led Decadal Survey Missions. C. Mattmann.Presented at\nthe 8th Earth Science Data Systems Working Group (ESDSWG) Conference.Wilmington, DE, October 20th-22nd, 2009."
+    },
+    {
+      "index": 114,
+      "title": "D",
+      "authors": "An Adaptable Framework for Modeling, Processing, Distribution and Analysis of Science Data",
+      "venue": "October 20th-22nd",
+      "year": 2009,
+      "invited": false,
+      "raw": "An Adaptable Framework for Modeling, Processing, Distribution and Analysis of Science Data.D. Freeborn, D.Woollard, C. Mattmann, S. Hardman, D. Crichton, P. Ramirez. Presented atthe 8th Earth Science Data Systems Working Group (ESDSWG) Conference Poster Session.Wilmington, DE, October 20th-22nd, 2009.\n115.Integrating Modeling Capabilities\nin a Production Environment\nto Further Forecasting andDecision Support.\nD. Woollard, D. Freeborn, D. Crichton, C. Mattmann, C. Norton, andE. Kay-Im.\nPresented at\nthe 8th Earth Science Data Systems Working Group (ESDSWG)Conference Poster Session. Wilmington, DE, October 20th-22nd, 2009."
+    },
+    {
+      "index": 117,
+      "title": "Speakers: P",
+      "authors": "Earth and Environmental Sciences Panel",
+      "venue": "August 28th-29th",
+      "year": 2009,
+      "invited": false,
+      "raw": "Earth and Environmental Sciences Panel. Speakers: P. Fox, N. Oza, and C. Mattmann.\n3rdExtremely Large Databases Workshop (XLDB3), Lyon, France, August 28th-29th, 2009."
+    },
+    {
+      "index": 118,
+      "title": "C",
+      "authors": "A Reusable Process Control System Framework for the Orbiting Carbon Observatory and NPPSounder PEATE missions",
+      "venue": "July 19 - 23",
+      "year": 2009,
+      "invited": false,
+      "raw": "A Reusable Process Control System Framework for the Orbiting Carbon Observatory and NPPSounder PEATE missions. C. Mattmann, D. Freeborn, D. Crichton, B. Foster, A. Hart, D.Woollard, S. Hardman, P. Ramirez, S. Kelly, A. Y. Chang, C. E. Miller.\nPresented at\nthe3rd IEEE Intl' Conference on Space Mission Challenges for Information Technology (SMC-IT2009), Pasadena, CA, July 19 - 23, 2009."
+    },
+    {
+      "index": 119,
+      "title": "C",
+      "authors": "JPL's Global Change and Energy IT Architecture",
+      "venue": "July19 - 23",
+      "year": 2009,
+      "invited": false,
+      "raw": "JPL's Global Change and Energy IT Architecture. C. Mattmann, D. Crichton. Presented atthe IT for Climate Research Workshop held in conjunction with the 3rd IEEE Intl' Conferenceon Space Mission Challenges for Information Technology (SMC-IT 2009), Pasadena, CA, July19 - 23, 2009."
+    },
+    {
+      "index": 120,
+      "title": "S",
+      "authors": "A Virtual Oceanographic Data Center",
+      "venue": "April 24th",
+      "year": 2009,
+      "invited": false,
+      "raw": "A Virtual Oceanographic Data Center.\nS. McCleese, C. Mattmann, R. Raskin, D. Crichton,S. Hardman. Presented at\nthe 18th ACM/IEEE International World Wide Web Conference(WWW2009) – Developers Track, Madrid, Spain, April 24th, 2009."
+    },
+    {
+      "index": 121,
+      "title": "C",
+      "authors": "An Architecture-based Framework For Understanding Large-Volume Data Distribution",
+      "venue": null,
+      "year": 2009,
+      "invited": false,
+      "raw": "An Architecture-based Framework For Understanding Large-Volume Data Distribution.\nC.Mattmann.\nPresented at\nthe USC CSE Annual Research Review (ARR), March 17th, LosAngeles, CA 2009."
+    },
+    {
+      "index": 122,
+      "title": "C",
+      "authors": "A Service Oriented Architecture\nfor Highly Distributed and Data-Intensive Geospatial GridSoftware Systems",
+      "venue": "UT",
+      "year": 2008,
+      "invited": false,
+      "raw": "A Service Oriented Architecture\nfor Highly Distributed and Data-Intensive Geospatial GridSoftware Systems. C. Mattmann, R. Raskin, D. Crichton. Presented at\nthe GIScience 2008Workshop on Design of Service-Oriented Architecture (SOA) for Geospatial Science, Park City,UT, September 23, 2008."
+    },
+    {
+      "index": 123,
+      "title": "D",
+      "authors": "Facilitating Distributed Climate Modeling Research and Analysis\nvia the Climate Data eX-change",
+      "venue": "September 17-19",
+      "year": 2008,
+      "invited": false,
+      "raw": "Facilitating Distributed Climate Modeling Research and Analysis\nvia the Climate Data eX-change. D. Crichton, C. Mattmann, A. Braverman.\nPresented at\nthe Global Organizationfor Earth System Science Portals (GO-ESSP) 2008 Workshop, Seattle, WA, September 17-19,2008."
+    },
+    {
+      "index": 124,
+      "title": "D",
+      "authors": "A Model Driven Architecture for Highly Distributed, Data Intensive Systems",
+      "venue": "July 15-16",
+      "year": 2008,
+      "invited": false,
+      "raw": "A Model Driven Architecture for Highly Distributed, Data Intensive Systems. D. Crichton,P. Ramirez, C. Mattmann and J. S. Hughes. Presented at the DARPA Workshop on DigitalObject Storage and Retrieval (DOSR), Chantilly, Virginia, July 15-16, 2008."
+    },
+    {
+      "index": 126,
+      "title": "C",
+      "authors": "A Reference Framework for Requirements and Architecture in Biomedical Grid Systems",
+      "venue": "NV",
+      "year": 2007,
+      "invited": false,
+      "raw": "A Reference Framework for Requirements and Architecture in Biomedical Grid Systems. C.Mattmann, V. Perrone, S. Kelly, D. Crichton, A. Finkelstein, N. Medvidovic. Presented at the2007 IEEE International Conference on Information Integration and Reuse (IRI-2007), August15th, Las Vegas, NV, 2007."
+    },
+    {
+      "index": 128,
+      "title": "Mattmann, D",
+      "authors": "Software Connector Classification and Selection for Data-intensive Systems, C",
+      "venue": "MN",
+      "year": 2007,
+      "invited": false,
+      "raw": "Software Connector Classification and Selection for Data-intensive Systems, C. Mattmann, D.Woollard, N. Medvidovic, R. Mahjourian. Presented at\nthe 2nd International Workshop onIncorporating COTS Software into Software Systems: Tools and Techniques (IWICSS), May22nd, Minneapolis, MN, 2007."
+    },
+    {
+      "index": 131,
+      "title": "Crichton, S",
+      "authors": "A Distributed Information Services Architecture to Support Biomarker Discovery in Early De-tection of Cancer, D",
+      "venue": "theNetherlands",
+      "year": 2006,
+      "invited": false,
+      "raw": "A Distributed Information Services Architecture to Support Biomarker Discovery in Early De-tection of Cancer, D. Crichton, S. Kelly, C. Mattmann, Q. Xiao, J. S. Hughes, J. Oh, M.Thornquist, D. Johnsey, S. Srivastava, L. Esserman, B. Bigbee. Presented at the 2nd IEEEInternational Conference on e-Science and Grid Computing, December 4th, Amsterdam, theNetherlands, 2006."
+    },
+    {
+      "index": 133,
+      "title": "C",
+      "authors": "A Software Architecture-based Framework for Highly Distributed and Data Intensive ScientificApplications",
+      "venue": "China",
+      "year": 2006,
+      "invited": false,
+      "raw": "A Software Architecture-based Framework for Highly Distributed and Data Intensive ScientificApplications. C. Mattmann, D. Crichton, N. Medvidovic, and S. Hughes. Presented at the 28thACM/ IEEE International Conference on Software Engineering (ICSE) Software EngineeringAchievements and Challenges Track. May 24th, Shanghai, China, 2006."
+    },
+    {
+      "index": 134,
+      "title": "C",
+      "authors": "A Classification and Evaluation of Data Movement Technologies\nfor\nthe Delivery of HighlyVoluminous Scientific Data Products",
+      "venue": "MD",
+      "year": 2006,
+      "invited": false,
+      "raw": "A Classification and Evaluation of Data Movement Technologies\nfor\nthe Delivery of HighlyVoluminous Scientific Data Products. C. Mattmann, S. Kelly, D. Crichton, J. S. Hughes, S.Hardman, P. Ramirez and R. Joyner.\nPresented at\nthe NASA/IEEE Conference on MassStorage Systems and Technologies. May 16th, College Park, MD, 2006."
+    },
+    {
+      "index": 139,
+      "title": "C",
+      "authors": "Unlocking the Grid",
+      "venue": "MO",
+      "year": 2005,
+      "invited": false,
+      "raw": "Unlocking the Grid. C. Mattmann, N. Medvidovic, P. Ramirez and V. Jakobac.\nPresentedat the 8th ACM SIGSOFT Symposium on Component-based Software Engineering (CBSE8),May 15th, St. Louis, MO, 2005."
+    },
+    {
+      "index": 140,
+      "title": "S",
+      "authors": "Leveraging Architectural Models to Inject Trust into Software Systems",
+      "venue": "MO",
+      "year": 2005,
+      "invited": false,
+      "raw": "Leveraging Architectural Models to Inject Trust into Software Systems. S. Banerjee, C. Mattmann,N. Medvidovic, and L. Golubchik. Presented at the 2005 ICSE Workshop on Software Engi-neering for Secure Systems (SESS05), May 15th, St. Louis, MO, 2005."
+    },
+    {
+      "index": 142,
+      "title": "C",
+      "authors": "GLIDE: A Grid-based, Lightweight Infrastructure for Data-intensive Environments",
+      "venue": null,
+      "year": 2005,
+      "invited": false,
+      "raw": "GLIDE: A Grid-based, Lightweight Infrastructure for Data-intensive Environments. C. Mattmann,S. Malek, N. Beckman, M. Mikic-Rakic, N. Medvidovic and D. Crichton. Presented at the 2005European Grid Conference, Amsterdam, the Netherlands, February 2005."
+    },
+    {
+      "index": 143,
+      "title": "P",
+      "authors": "ACE: Improving Search Engines via Automatic Concept Extraction",
+      "venue": null,
+      "year": 2004,
+      "invited": false,
+      "raw": "ACE: Improving Search Engines via Automatic Concept Extraction. P. Ramirez and C. Mattmann.Presented at the 5th IEEE Conference on Information Reuse and Integration (IEEE-IRI-2004).Las Vegas, NV, November 2004."
+    },
+    {
+      "index": 144,
+      "title": "C",
+      "authors": "Software Architecture for Large-scale, Distributed, Data-Intensive Systems",
+      "venue": null,
+      "year": 2004,
+      "invited": false,
+      "raw": "Software Architecture for Large-scale, Distributed, Data-Intensive Systems. C. Mattmann, D.Crichton, J. S. Hughes, S. Kelly and P. Ramirez. Presented at the 4th IEEE/IFIP WorkingConference on Software Architecture (WICSA-4), Oslo, Norway, June 2004."
+    },
+    {
+      "index": 146,
+      "title": "C",
+      "authors": "Packaging Data Products using Data Grid Middleware for Deep Space Mission Systems",
+      "venue": null,
+      "year": 2004,
+      "invited": false,
+      "raw": "Packaging Data Products using Data Grid Middleware for Deep Space Mission Systems. C.Mattmann, P. Ramirez, D. Crichton and J.S. Hughes.\nPresented at\nthe 8th InternationalConference on Space Operations (Spaceops-2004), Montreal, Canada, May 2004."
+    },
+    {
+      "index": 151,
+      "title": "C",
+      "authors": "Towards a Distributed Information Architecture for Avionics Data",
+      "venue": null,
+      "year": 2003,
+      "invited": false,
+      "raw": "Towards a Distributed Information Architecture for Avionics Data. C. Mattmann, D. Freeborn,and D. Crichton.\nPresented at\nthe 2nd IADIS International Conference WWW/Internet,Algarve, Portugal, November 2003"
+    },
+    {
+      "index": 1,
+      "title": "",
+      "authors": "SC'20 Workshop Committee Member: Deep Learning on Supercomputers on the The Inter-national Conference\nfor High Performance Computing, Networking, Storage,\nand Analysis(SC20), Nov 15th, 2020, Atlanta, GA",
+      "venue": "Nov 15th",
+      "year": 2020,
+      "invited": false,
+      "raw": "SC'20 Workshop Committee Member: Deep Learning on Supercomputers on the The Inter-national Conference\nfor High Performance Computing, Networking, Storage,\nand Analysis(SC20), Nov 15th, 2020, Atlanta, GA."
+    },
+    {
+      "index": 2,
+      "title": "",
+      "authors": "SC'19 Workshop Committee Member: Deep Learning on Supercomputers on the The Inter-national Conference\nfor High Performance Computing, Networking, Storage,\nand Analysis(SC19), November 17-22, 2019, Denver, CO",
+      "venue": "November 17-22",
+      "year": 2019,
+      "invited": false,
+      "raw": "SC'19 Workshop Committee Member: Deep Learning on Supercomputers on the The Inter-national Conference\nfor High Performance Computing, Networking, Storage,\nand Analysis(SC19), November 17-22, 2019, Denver, CO."
+    },
+    {
+      "index": 3,
+      "title": "",
+      "authors": "Program Committee, International Conference on Software Architecture (ICSA), March 25-29,2019, Hamburg, Germany",
+      "venue": "March 25-29",
+      "year": 2019,
+      "invited": false,
+      "raw": "Program Committee, International Conference on Software Architecture (ICSA), March 25-29,2019, Hamburg, Germany."
+    },
+    {
+      "index": 4,
+      "title": "",
+      "authors": "Program Committee, International Conference on Software Architecture (ICSA), April 30-May4, 2018 Seattle, USA",
+      "venue": "April 30-May4",
+      "year": 2018,
+      "invited": false,
+      "raw": "Program Committee, International Conference on Software Architecture (ICSA), April 30-May4, 2018 Seattle, USA."
+    },
+    {
+      "index": 5,
+      "title": "",
+      "authors": "Program Committee,\nInternational Conference on Software Architecture (ICSA), April 3-7,2017, Gothenburg, Sweden",
+      "venue": "April 3-7",
+      "year": 2017,
+      "invited": false,
+      "raw": "Program Committee,\nInternational Conference on Software Architecture (ICSA), April 3-7,2017, Gothenburg, Sweden."
+    },
+    {
+      "index": 6,
+      "title": "",
+      "authors": "Program Committee, First International Workshop on Establishing the Community-Wide In-frastructure for Architecture-Based Software Engineering (ECASE'17), December 2016",
+      "venue": null,
+      "year": 2016,
+      "invited": false,
+      "raw": "Program Committee, First International Workshop on Establishing the Community-Wide In-frastructure for Architecture-Based Software Engineering (ECASE'17), December 2016."
+    },
+    {
+      "index": 7,
+      "title": "",
+      "authors": "Program Committee, Workshop on Sustainable Software for Science: Practice and Experiences(WSSSPE), July 2016",
+      "venue": null,
+      "year": 2016,
+      "invited": false,
+      "raw": "Program Committee, Workshop on Sustainable Software for Science: Practice and Experiences(WSSSPE), July 2016."
+    },
+    {
+      "index": 9,
+      "title": "",
+      "authors": "Program Committee, Working IEEE/IFIP Conference on Software Architecture\n(WICSA),Montreal, Canada, 2015",
+      "venue": "Canada",
+      "year": 2015,
+      "invited": false,
+      "raw": "Program Committee, Working IEEE/IFIP Conference on Software Architecture\n(WICSA),Montreal, Canada, 2015."
+    },
+    {
+      "index": 10,
+      "title": "",
+      "authors": "Program Committee, SC 2014:\n2nd Workshop on Sustainable Software for Science: Practiceand Experiences (WSSSPE), Sunday, November 16, 2014, New Orleans, LA",
+      "venue": "Sunday",
+      "year": 2014,
+      "invited": false,
+      "raw": "Program Committee, SC 2014:\n2nd Workshop on Sustainable Software for Science: Practiceand Experiences (WSSSPE), Sunday, November 16, 2014, New Orleans, LA."
+    },
+    {
+      "index": 12,
+      "title": "",
+      "authors": "Program Committee, Meaningful Use of Complex Medical Data (MUCMD) Symposium, Au-gust 8-9, 2014, Children's Hospital Los Angeles, Saban Auditorium",
+      "venue": "Au-gust 8-9",
+      "year": 2014,
+      "invited": false,
+      "raw": "Program Committee, Meaningful Use of Complex Medical Data (MUCMD) Symposium, Au-gust 8-9, 2014, Children's Hospital Los Angeles, Saban Auditorium."
+    },
+    {
+      "index": 13,
+      "title": "",
+      "authors": "Program Committee, Meaningful Use of Complex Medical Data (MUCMD) Symposium, Au-gust 16-17 2013 Children's Hospital Los Angeles, Saban Auditorium",
+      "venue": null,
+      "year": 2013,
+      "invited": false,
+      "raw": "Program Committee, Meaningful Use of Complex Medical Data (MUCMD) Symposium, Au-gust 16-17 2013 Children's Hospital Los Angeles, Saban Auditorium."
+    },
+    {
+      "index": 14,
+      "title": "",
+      "authors": "Program Committee, Working IEEE/IFIP Conference on Software Architecture\n(WICSA),Sydney, 2014",
+      "venue": "Sydney",
+      "year": 2014,
+      "invited": false,
+      "raw": "Program Committee, Working IEEE/IFIP Conference on Software Architecture\n(WICSA),Sydney, 2014."
+    },
+    {
+      "index": 15,
+      "title": "",
+      "authors": "Program Committee, SC 2013:\n1st Workshop on Sustainable Software for Science: Practiceand Experiences (WSSSPE), Sunday, November 17, 2013, Denver, CO",
+      "venue": "Sunday",
+      "year": 2013,
+      "invited": false,
+      "raw": "Program Committee, SC 2013:\n1st Workshop on Sustainable Software for Science: Practiceand Experiences (WSSSPE), Sunday, November 17, 2013, Denver, CO."
+    },
+    {
+      "index": 16,
+      "title": "",
+      "authors": "Program Committee, ICSR 2013:\nInternational Workshop on Designing Reusable Componentsand Measuring Reusability (DReMeR '13), 2013",
+      "venue": "ICSR 2013:\nInternational Workshop on Designing Reusable Componentsand Measuring Reusability (DReMeR '13)",
+      "year": 2013,
+      "invited": false,
+      "raw": "Program Committee, ICSR 2013:\nInternational Workshop on Designing Reusable Componentsand Measuring Reusability (DReMeR '13), 2013."
+    },
+    {
+      "index": 17,
+      "title": "",
+      "authors": "Program Committee, XSEDE13: Gateway to Discovery Conference, 2013",
+      "venue": "XSEDE13: Gateway to Discovery Conference",
+      "year": 2013,
+      "invited": false,
+      "raw": "Program Committee, XSEDE13: Gateway to Discovery Conference, 2013."
+    },
+    {
+      "index": 18,
+      "title": "",
+      "authors": "Program Committee, Meaningful Use of Complex Medical Data (MUCMD) Symposium, Au-gust 26-27 2011 Children's Hospital Los Angeles, Saban Auditorium",
+      "venue": null,
+      "year": 2011,
+      "invited": false,
+      "raw": "Program Committee, Meaningful Use of Complex Medical Data (MUCMD) Symposium, Au-gust 26-27 2011 Children's Hospital Los Angeles, Saban Auditorium."
+    },
+    {
+      "index": 19,
+      "title": "",
+      "authors": "Program Committee Member, IEEE International Workshop on the Future of Software Engi-neering for/in the Cloud (FoSEC), Washington DC, USA, July 4-9, 2011",
+      "venue": "July 4-9",
+      "year": 2011,
+      "invited": false,
+      "raw": "Program Committee Member, IEEE International Workshop on the Future of Software Engi-neering for/in the Cloud (FoSEC), Washington DC, USA, July 4-9, 2011."
+    },
+    {
+      "index": 20,
+      "title": "",
+      "authors": "Program Committee Member, IT for Climate Research Workshop at the 3rd IEEE Intl' Con-ference on Space Mission Challenges for\nInformation Technology (SMC-IT 2009), Pasadena,CA, July 19 - 23, 2009",
+      "venue": "July 19 - 23",
+      "year": 2009,
+      "invited": false,
+      "raw": "Program Committee Member, IT for Climate Research Workshop at the 3rd IEEE Intl' Con-ference on Space Mission Challenges for\nInformation Technology (SMC-IT 2009), Pasadena,CA, July 19 - 23, 2009."
+    },
+    {
+      "index": 21,
+      "title": "",
+      "authors": "Program Committee Member,\n18th Intl' WWW Conference\n(Developer's Track), Madrid,Spain, April 2009",
+      "venue": null,
+      "year": 2009,
+      "invited": false,
+      "raw": "Program Committee Member,\n18th Intl' WWW Conference\n(Developer's Track), Madrid,Spain, April 2009."
+    },
+    {
+      "index": 22,
+      "title": "",
+      "authors": "Program Committee Member, 34th Euromicro Conference, Special Session on Software Archi-tecture for Pervasive Systems (SAPS), Parma, Italy, September 2008",
+      "venue": null,
+      "year": 2008,
+      "invited": false,
+      "raw": "Program Committee Member, 34th Euromicro Conference, Special Session on Software Archi-tecture for Pervasive Systems (SAPS), Parma, Italy, September 2008."
+    },
+    {
+      "index": 23,
+      "title": "Conference/Workshop Organization",
+      "authors": "Program Committee Member, 2007 ISR Graduate Student Research Symposium, Irvine, CA,June 2007",
+      "venue": null,
+      "year": 2007,
+      "invited": false,
+      "raw": "Program Committee Member, 2007 ISR Graduate Student Research Symposium, Irvine, CA,June 2007.\nConference/Workshop Organization"
+    },
+    {
+      "index": 4,
+      "title": "",
+      "authors": "Organizing Committee (Demo Tools Chair), Working IEEE/IFIP Conference on Software Ar-chitecture (WICSA), 2014",
+      "venue": "Working IEEE/IFIP Conference on Software Ar-chitecture (WICSA)",
+      "year": 2014,
+      "invited": false,
+      "raw": "Organizing Committee (Demo Tools Chair), Working IEEE/IFIP Conference on Software Ar-chitecture (WICSA), 2014."
+    },
+    {
+      "index": 8,
+      "title": "",
+      "authors": "Session Chair, Session C32 Industrial/Application/Government Track, IEEE Information Reuseand Integration Conference, Las Vegas, NV, August 10, 2012",
+      "venue": "NV",
+      "year": 2012,
+      "invited": false,
+      "raw": "Session Chair, Session C32 Industrial/Application/Government Track, IEEE Information Reuseand Integration Conference, Las Vegas, NV, August 10, 2012."
+    },
+    {
+      "index": 15,
+      "title": "",
+      "authors": "Session Chair, IEEE IRI Workshop on Issues and Challenges in Social Computing (WICSOC2011), Las Vegas, NV, August 2, 2011",
+      "venue": "NV",
+      "year": 2011,
+      "invited": false,
+      "raw": "Session Chair, IEEE IRI Workshop on Issues and Challenges in Social Computing (WICSOC2011), Las Vegas, NV, August 2, 2011."
+    },
+    {
+      "index": 16,
+      "title": "S",
+      "authors": "Lead Organizer,\nICSE 2011 Workshop on Software Engineering for Cloud Computing (withNenad Medvidovic, T",
+      "venue": "May 21-28",
+      "year": 2011,
+      "invited": false,
+      "raw": "Lead Organizer,\nICSE 2011 Workshop on Software Engineering for Cloud Computing (withNenad Medvidovic, T. S. Mohan and Owen O'Malley).\n33rd Intl' Conference on SoftwareEngineering (ICSE 2011), Honolulu, HI, May 21-28, 2011."
+    },
+    {
+      "index": 21,
+      "title": "",
+      "authors": "Co-Organizer, IT for Climate Research Workshop at the 3rd IEEE Intl' Conference on SpaceMission Challenges for Information Technology (SMC-IT 2009), Pasadena, CA, July 19 - 23,2009",
+      "venue": "July 19 - 23",
+      "year": 2009,
+      "invited": false,
+      "raw": "Co-Organizer, IT for Climate Research Workshop at the 3rd IEEE Intl' Conference on SpaceMission Challenges for Information Technology (SMC-IT 2009), Pasadena, CA, July 19 - 23,2009."
+    },
+    {
+      "index": 22,
+      "title": "Webmaster, 2005 Working IFIP/IEEE Conference on Software Architecture (WICSA)\nAdvisory Board",
+      "authors": null,
+      "venue": null,
+      "year": 2005,
+      "invited": false,
+      "raw": "Webmaster, 2005 Working IFIP/IEEE Conference on Software Architecture (WICSA)\nAdvisory Board"
+    },
+    {
+      "index": 1,
+      "title": "http://www",
+      "authors": "Editorial Board, British Journal of Environment and Climate Change, 2014",
+      "venue": null,
+      "year": 2014,
+      "invited": false,
+      "raw": "Editorial Board, British Journal of Environment and Climate Change, 2014.http://www.sciencedomain.org/editorial-board-members.php?id=10"
+    },
+    {
+      "index": 2,
+      "title": "",
+      "authors": "Guest Editor, Special\nissue of IEEE Computer: Computing in Astronomy, 2014",
+      "venue": "Special\nissue of IEEE Computer: Computing in Astronomy",
+      "year": 2014,
+      "invited": false,
+      "raw": "Guest Editor, Special\nissue of IEEE Computer: Computing in Astronomy, 2014."
+    },
+    {
+      "index": 3,
+      "title": "",
+      "authors": "Editorial Board, Journal of Big Data, Springer (JOBD), 2013",
+      "venue": "Springer (JOBD)",
+      "year": 2013,
+      "invited": false,
+      "raw": "Editorial Board, Journal of Big Data, Springer (JOBD), 2013."
+    },
+    {
+      "index": 4,
+      "title": "Wen-Chen Hu, Dr",
+      "authors": "Editorial and Advisory Board, Big Data Management, Technologies, and Applications Book,IGI Global, Dr",
+      "venue": "Editors",
+      "year": 2013,
+      "invited": false,
+      "raw": "Editorial and Advisory Board, Big Data Management, Technologies, and Applications Book,IGI Global, Dr. Wen-Chen Hu, Dr. Naima Kaabouch, Editors, 2013.\nReferee and Reviewer Service"
+    },
+    {
+      "index": 1,
+      "title": "",
+      "authors": "Reviewer, International Conference on Software Architecture (ICSA),\nformerly WICSA, 2019",
+      "venue": "formerly WICSA",
+      "year": 2019,
+      "invited": false,
+      "raw": "Reviewer, International Conference on Software Architecture (ICSA),\nformerly WICSA, 2019."
+    },
+    {
+      "index": 2,
+      "title": "",
+      "authors": "Reviewer, International Conference on Software Architecture (ICSA),\nformerly WICSA, 2018",
+      "venue": "formerly WICSA",
+      "year": 2018,
+      "invited": false,
+      "raw": "Reviewer, International Conference on Software Architecture (ICSA),\nformerly WICSA, 2018."
+    },
+    {
+      "index": 3,
+      "title": "",
+      "authors": "Reviewer, First International Workshop on Establishing the Community-Wide Infrastructurefor Architecture-Based Software Engineering (ECASE'17), 2017",
+      "venue": "First International Workshop on Establishing the Community-Wide Infrastructurefor Architecture-Based Software Engineering (ECASE'17)",
+      "year": 2017,
+      "invited": false,
+      "raw": "Reviewer, First International Workshop on Establishing the Community-Wide Infrastructurefor Architecture-Based Software Engineering (ECASE'17), 2017."
+    },
+    {
+      "index": 4,
+      "title": "",
+      "authors": "Reviewer, International Conference on Software Architecture (ICSA),\nformerly WICSA, 2017",
+      "venue": "formerly WICSA",
+      "year": 2017,
+      "invited": false,
+      "raw": "Reviewer, International Conference on Software Architecture (ICSA),\nformerly WICSA, 2017."
+    },
+    {
+      "index": 7,
+      "title": "",
+      "authors": "Reviewer, IEEE Software, 2015",
+      "venue": "IEEE Software",
+      "year": 2015,
+      "invited": false,
+      "raw": "Reviewer, IEEE Software, 2015."
+    },
+    {
+      "index": 8,
+      "title": "",
+      "authors": "Reviewer, ACM Transactions on Software Engineering and Methodology (TOSEM), 2015",
+      "venue": "ACM Transactions on Software Engineering and Methodology (TOSEM)",
+      "year": 2015,
+      "invited": false,
+      "raw": "Reviewer, ACM Transactions on Software Engineering and Methodology (TOSEM), 2015."
+    },
+    {
+      "index": 9,
+      "title": "Louis, MO, July 26-30, 2015",
+      "authors": "Reviewer, XSEDE15:\nScientific advancements enabled by enhanced cyberinfrastructure, St",
+      "venue": "November\n14-18",
+      "year": 2015,
+      "invited": false,
+      "raw": "Reviewer, XSEDE15:\nScientific advancements enabled by enhanced cyberinfrastructure, St.\nLouis, MO, July 26-30, 2015.10. Reviewer, American Medical Informatics Symposium (AMIA), San Francisco, CA, November\n14-18, 2015.11. Reviewer, International Journal of Machine Learning and Cybernetics (JMLC), 2014.12. Reviewer, GeoResJ, (http://www.journals.elsevier.com/georesj/), 2014.13. Reviewer, Remote Sensing (http://www.mdpi.com/journal/remotesensing), 2014.14. Reviewer, ESIP Federation Raskin Scholarship, 2013, 2014.15. Reviewer, SC: 2nd Workshop on Sustainable Software for Science: Practice and Experiences\n(WSSSPE), New Orleans, LA, Sunday, November 16, 2014.16. Reviewer, American Medical Informatics Symposium (AMIA), Washington DC, November 15,\n2014.17. Reviewer, SC: Workshop on Sustainable Software for Science: Practice and Experiences (WSSSPE),\n2013, 2014.18. Reviewer, XSEDE14: Software and Software Environments (Gateways, Bridging, and Appli-\ncation Developers), 2014.19. Reviewer, IEEE Computer, 2014.20. Reviewer, Journal of Scientific Programming, 2013.21. Reviewer, Working IEEE/IFIP Conference on Software Architecture (WICSA), 2006, 2007,\n2014, 2015.22. Reviewer, Springer Journal of Big Data, 2013.23. Reviewer, ICSR 2013:\nInternational Workshop on Designing Reusable Components and Mea-\nsuring Reusability (DReMeR '13), 2013.24. Reviewer, XSEDE13: Gateway to Discovery Conference, 2013.25. Reviewer, Big Data Management, Technologies, and Applications Book, IGI Global, Dr. Wen-\nChen Hu, Dr. Naima Kaabouch, Editors, 2013.26. Reviewer, 9th International Symposium on Management, Engineering and Informatics: MEI\n2013.27. Reviewer, ApacheCon North America, Apache Software Foundation, 2013.28. Government Reviewer, Intergovernmental Panel on Climate Change (IPCC) Fifth Assessment\nReport, 2012.29. Reviewer, Service-driven Approaches to Architecture and Enterprise Integration Book, 2012.30. Reviewer, Earth Science\nInformation Partners\n(ESIP) Federation Data Management Short\nCourse, 2012.31. Reviewer, Meaningful Use of Complex Medical Data (MUCMD) Symposium, 2011.32. Reviewer, Earth Science Informatics, 2011, 2013.33. Reviewer, IEEE Transactions on Education, 2011, 2012.34. Reviewer,\nIEEE International Workshop on the Future of Software Engineering for/in the\nCloud (FoSEC), 2011.35. Reviewer, Software Quality Journal, 2011.36. Reviewer, The Computer Journal, 2011.37. Reviewer, IEEE Military Communications Conference (MILCOM), 2010.38. Reviewer, IEEE Transactions on Software Engineering (TSE), 2010, 2011, 2012, 2013."
+    },
+    {
+      "index": 1,
+      "title": "Proceedings Contributor to DBLP bibliography server (WICSA-4, ICWI2003, IEEE-IRI 2004)\nAdvisory\nCompleted",
+      "authors": null,
+      "venue": null,
+      "year": 2004,
+      "invited": false,
+      "raw": "Proceedings Contributor to DBLP bibliography server (WICSA-4, ICWI2003, IEEE-IRI 2004)\nAdvisory\nCompleted"
+    },
+    {
+      "index": 36,
+      "title": "37",
+      "authors": "National Science Foundation (NSF), Proposal Review, June 2014",
+      "venue": "Digital Object and Storage Retrieval\n(DOSR) program",
+      "year": 2014,
+      "invited": false,
+      "raw": "National Science Foundation (NSF), Proposal Review, June 2014.37. The Fund for Scientific Research FNRS, Brussels, Belgium, May 2014.38. National Science Foundation (NSF), Proposal Review, May 2014.39. National Science Foundation (NSF), Panel Review, May 2014.40. National Science Foundation (NSF), Site Visit, May 2014.41. National Science Foundation (NSF), Panel Review, March 2014.42. National Science Foundation (NSF), Proposal Review, March 2014.43. National Science Foundation (NSF), Panel Review, February 2014.44. The Fund for Scientific Research FNRS, Brussels, Belgium, September 2013.45. National\nInstitutes of Health (NIH), National\nInstitute's of Allergies and Infectious Disease\n(NIAID) Centers of Excellence in Translational Research (CETR) Panel, August 2013.46. National Science Foundation (NSF), Proposal Review, July 2013.47. National Science Foundation (NSF), Site Visit Team, June 2013.48. National Science Foundation (NSF), Panel Review, May 2013.49. National Science Foundation (NSF), Panel Review, April 2013.50. NASA Small Business Innovation Research/Small Business Technology Transfer (SBIR/SBTT)\nPhase I Proposal Reviewer, October 2011.51. NASA Small Business Innovation Research/Small Business Technology Transfer (SBIR/SBTT)\nPhase I Proposal Reviewer, October 2010.52. Defense Advanced Research Projects Agency (DARPA), Digital Object and Storage Retrieval\n(DOSR) program, 2008-2010.53. National\nInstitutes of Health (NIH), National\nInstitute's of Allergies and Infectious Disease\n(NIAID) Microbiology and Infectious Diseases Biological Resource Repository (BRR) Proposal\nReview Panel, 2009.54. NASA Small Business Innovation Research/Small Business Technology Transfer (SBIR/SBTT)\nPhase I Proposal Reviewer, October 2009.55. National Science Foundation (NSF), Panel Review, June, 2009.56. NASA Jet Propulsion Laboratory (JPL), Strategic University Partnership (SURP) Program\nProposal Review Panel, 2009.57. National\nInstitutes of Health (NIH), National\nInstitute's of Allergies and Infectious Disease\n(NIAID) Adjuvant Development Program Proposal Review Panel, 2008.58. National\nInstitutes of Health (NIH), National\nInstitute's of Allergies and Infectious Disease\n(NIAID) DMID Regulatory Affairs Support Proposal Review Panel, 2008.\nProfessional\nBoard Member, and CFO/Treasurer, La Canada Football Foundation\nAssociations\nExecutive Board Member (Asst. Treasurer), La Canada Gladiators Youth Football\nSenior Member, Institute of Electrical and Electronics Engineers, Inc.\n(IEEE)\nMember, ACM Special Interest Group on Information Retrieval (SIGIR)\nMember, American Astronomical Society (AAS)\nMember, Foundation for Earth Science (ESIP)\nMember, IEEE Geoscience and Remote Sensing Society (GRSS-IEEE)\nMember, Apache Software Foundation (ASF)\nMember, Open Geospatial Consortium (Voting Member, Geo API WG)\nMember, ACM Special Interest Group on Software Engineering (SIGSOFT)\nParticipant (via JPL), Consultative Committee on Space Data Systems (CCSDS)\nComputer Skills\n• Languages: Java, C/C++, Perl, Python, SQL, XML, HTML, JavaScript, VBScript, ASP, JSP,\nPHP\n• Applications: LATEX, common Windows database, spreadsheet, and presentation software, Adobe\nPhotoshop, Adobe Framemaker, Git, Subversion, CVS, ViewVC, JIRA, Confluence, Maven, Ant,\nJunit\n• Operating Systems: Windows, Solaris, Unix (particular experience with FreeBSD), Linux (expe-\nrience with RedHat).References\nAvailable upon RequestClearance\nTS-SCI (Single Scope, with Poly)Citizenship\nUnited States Citizen"
+    }
+  ],
+  "presentations": [
+    {
+      "index": 123,
+      "title": "Bruecker",
+      "authors": "R",
+      "venue": null,
+      "year": 2012,
+      "invited": true,
+      "raw": "R. Bruecker. Chris Mattmann to Keynote HPC User Forum in Dearborn.\nInside HPC.com.August 24, 2012.http://goo.gl/RxTiX"
+    },
+    {
+      "index": 6,
+      "title": "Python and ML at NASA Jet Propulsion Laboratory (JPL)",
+      "authors": "C",
+      "venue": "October 16",
+      "year": 2020,
+      "invited": false,
+      "raw": "C. Mattmann. \"Python and ML at NASA Jet Propulsion Laboratory (JPL)\". TalkPython.fm,October 16, 2020.https://talkpython.fm/episodes/show/286/python-and-ml-at-nasa-jet-propulsion-laboratory-jpl"
+    },
+    {
+      "index": 2010,
+      "title": "ly/bQR6Mp",
+      "authors": "http://bit",
+      "venue": null,
+      "year": null,
+      "invited": false,
+      "raw": "http://bit.ly/bQR6Mp.\nWebinars"
+    },
+    {
+      "index": 2,
+      "title": "Apache Hadoop, Meet RocketScience: Big Data at NASA",
+      "authors": "BrightTALK Business\nIntelligence and Analytics Webinar",
+      "venue": null,
+      "year": 2014,
+      "invited": false,
+      "raw": "BrightTALK Business\nIntelligence and Analytics Webinar.\n\"Apache Hadoop, Meet RocketScience: Big Data at NASA\". Chris A. Mattmann. January 23, 2014.https://www.brighttalk.com/webcast/9059/94531"
+    },
+    {
+      "index": 3,
+      "title": "Conquering the Data Deluge",
+      "authors": "The Quest\nfor Canada's Smartest\nIT",
+      "venue": "IBM InfoSphere. February 14",
+      "year": 2012,
+      "invited": false,
+      "raw": "The Quest\nfor Canada's Smartest\nIT. \"Conquering the Data Deluge\". Chris A. Mattmann,NASA, David Corrigan, IBM InfoSphere. February 14, 2012.http://twebevent.com/bigdatachathttp://smartest-it.ca/content/webinar/conquering-data-deluge\nTelevision"
+    },
+    {
+      "index": 6,
+      "title": "Mattmann and O",
+      "authors": "C",
+      "venue": "Published online:http://www.ibm.com/developerworks/opensource/tutorials/os-apache-tika/authors.html",
+      "year": 2010,
+      "invited": false,
+      "raw": "C. Mattmann and O. Tikhonov. Understanding Information Content with Apache Tika.\nIBMDeveloperWorks, Published online:http://www.ibm.com/developerworks/opensource/tutorials/os-apache-tika/authors.html, June 15, 2010.\nPatents"
+    },
+    {
+      "index": 1,
+      "title": "C",
+      "authors": "TensorFlow and Machine Learning from the Trenches -\nthe Innovation Experience Center at\nPresentationsthe Jet Propulsion Laboratory",
+      "venue": null,
+      "year": 2020,
+      "invited": false,
+      "raw": "TensorFlow and Machine Learning from the Trenches -\nthe Innovation Experience Center at\nPresentationsthe Jet Propulsion Laboratory. C. Mattmann. TensorFlow Dev Summit 2020. March 11, 2020,Google Campus LiveStream.https://www.tensorflow.org/dev-summit/agenda"
+    },
+    {
+      "index": 7,
+      "title": "C",
+      "authors": "Explore JPL Seminar: Caltech",
+      "venue": null,
+      "year": 2016,
+      "invited": false,
+      "raw": "Explore JPL Seminar: Caltech. C. Mattmann. Presented at Caltech / JPL Education OfficeSeminar. November 7, 2016.http://www.sustainability.caltech.edu/events/52420"
+    },
+    {
+      "index": 11,
+      "title": "C",
+      "authors": "Spark at NASA/JPL",
+      "venue": "Monday",
+      "year": 2015,
+      "invited": true,
+      "raw": "Spark at NASA/JPL. C. Mattmann.\nPresented at\nthe Spark Summit\n(Keynote) 2015, SanFrancisco, CA, Monday, June 15, 2015.https://www.youtube.com/watch?v=xPD4lPypSXQhttps://spark-summit.org/2015/events/spark-at-nasa-jpl/\n12.Introducing Apache Tika. C. Mattmann. Presented at\nthe Pasadena Big Data User Group,Pasadena, CA, April 29, 2015.http://www.meetup.com/Pasadena-Big-Data-Users-Group/events/221371125"
+    },
+    {
+      "index": 21,
+      "title": "C",
+      "authors": "Real Data Science at NASA",
+      "venue": "CA",
+      "year": 2014,
+      "invited": false,
+      "raw": "Real Data Science at NASA. C. Mattmann. Presented at CS597 PhD seminar Course. Uni-versity of Southern California. Los Angeles, CA, October 27, 2014."
+    },
+    {
+      "index": 22,
+      "title": "C",
+      "authors": "Real Data Science at NASA",
+      "venue": "CA",
+      "year": 2014,
+      "invited": false,
+      "raw": "Real Data Science at NASA. C. Mattmann. Presented at the California Institute of TechnologyInformation Science and Technology Lunch Bunch seminar, Pasadena, CA, October 21, 2014."
+    },
+    {
+      "index": 32,
+      "title": "C",
+      "authors": "BIG DATA! 24 Hour Near Real Time Processing and Computation for the JPL Airborne SnowObservatory",
+      "venue": "CA",
+      "year": 2014,
+      "invited": false,
+      "raw": "BIG DATA! 24 Hour Near Real Time Processing and Computation for the JPL Airborne SnowObservatory. C. Mattmann.\nPresented at\nthe USC/Information Sciences\nInstitute (ISI) AISeminar. Marina Del Rey, CA, January 24, 2014."
+    },
+    {
+      "index": 33,
+      "title": "C",
+      "authors": "Apache Hadoop, Meet Rocket Science: Big Data at NASA",
+      "venue": "January 23",
+      "year": 2014,
+      "invited": false,
+      "raw": "Apache Hadoop, Meet Rocket Science: Big Data at NASA. C. Mattmann. BrightTalk Webinar,January 23, 2014."
+    },
+    {
+      "index": 37,
+      "title": "C",
+      "authors": "NSF RAPID Preliminary Design Review (PDR): OODT for RAPID",
+      "venue": "MA. October 21",
+      "year": 2013,
+      "invited": false,
+      "raw": "NSF RAPID Preliminary Design Review (PDR): OODT for RAPID. C. Mattmann. Presentedat NSF RAPID Preliminary Design Review (PDR). Remote Presentation. MIT HaystackObservatory, Medford, MA. October 21, 2013."
+    },
+    {
+      "index": 39,
+      "title": "C",
+      "authors": "Big Data:\n24 hour near\nreal\ntime processing and computation for\nthe JPL Airborne SnowObservatory",
+      "venue": "CA September 20",
+      "year": 2013,
+      "invited": false,
+      "raw": "Big Data:\n24 hour near\nreal\ntime processing and computation for\nthe JPL Airborne SnowObservatory. C. Mattmann. Presented at Celgene Corporation Big Data Seminar. CelgeneCorporation, San Diego, CA September 20, 2013."
+    },
+    {
+      "index": 45,
+      "title": "C",
+      "authors": "Big Data and Architecture in the Era of the Square Kilometre Array",
+      "venue": "CA April 5",
+      "year": 2013,
+      "invited": false,
+      "raw": "Big Data and Architecture in the Era of the Square Kilometre Array. C. Mattmann. Presentedat the ID Analytics Seminar, San Diego, CA April 5, 2013."
+    },
+    {
+      "index": 61,
+      "title": "C",
+      "authors": "Software Communities at ESIP via Open Source",
+      "venue": null,
+      "year": 2012,
+      "invited": false,
+      "raw": "Software Communities at ESIP via Open Source. C. Mattmann. ESIP Information Technologyand Interoperability Cluster: Rants and Raves (IT & I Rants/Raves). Virtual Presentation.September 6, 2012."
+    },
+    {
+      "index": 64,
+      "title": "how I\nlearned to stop asking permission",
+      "authors": "Developing Open Source Software for NASA (or \"how I\nlearned to stop asking permission\")",
+      "venue": "Ignite Talk",
+      "year": 2012,
+      "invited": false,
+      "raw": "Developing Open Source Software for NASA (or \"how I\nlearned to stop asking permission\").C. Mattmann. ESIP Federation Summer 2012 Meeting, Madison, WI,\nIgnite Talk, July 18,2012.http://vimeo.com/47623282"
+    },
+    {
+      "index": 69,
+      "title": "C",
+      "authors": "Open Source Panel at So Cal CWIC'12",
+      "venue": "April 15",
+      "year": 2012,
+      "invited": false,
+      "raw": "Open Source Panel at So Cal CWIC'12. C. Mattmann. Celebration of Women in Computingin Southern California (CWIC-SoCal), April 15, 2012, Santa Ana, CA."
+    },
+    {
+      "index": 77,
+      "title": "C",
+      "authors": "Apache Tika:\n1 point Oh!",
+      "venue": "November10",
+      "year": 2011,
+      "invited": false,
+      "raw": "Apache Tika:\n1 point Oh!. C. Mattmann. ApacheCon NA 2011, Vancouver, BC, November10, 2011. Available at: http://na11.apachecon.com/talks/19391."
+    },
+    {
+      "index": 78,
+      "title": "C",
+      "authors": "Supercharging your Apache OODT deployments with the Process Control System",
+      "venue": "BC",
+      "year": 2011,
+      "invited": false,
+      "raw": "Supercharging your Apache OODT deployments with the Process Control System. C. Mattmann.ApacheCon NA 2011, Vancouver, BC, November 9, 2011. Available at: http://na11.apachecon.com/talks/19376."
+    },
+    {
+      "index": 79,
+      "title": "C",
+      "authors": "A look into the Apache OODT ecosystem",
+      "venue": "BC",
+      "year": 2011,
+      "invited": false,
+      "raw": "A look into the Apache OODT ecosystem. C. Mattmann. ApacheCon NA 2011, Vancouver,BC, November 9, 2011. Available at: http://na11.apachecon.com/talks/19389."
+    },
+    {
+      "index": 89,
+      "title": "C",
+      "authors": "Measuring the Suitability of Software for Reuse Using NASA's Software Reuse Readiness Lev-els",
+      "venue": "CA",
+      "year": 2011,
+      "invited": false,
+      "raw": "Measuring the Suitability of Software for Reuse Using NASA's Software Reuse Readiness Lev-els. C. Mattmann. SQI Technical Seminar, JPL, Pasadena, CA, June 15, 2011."
+    },
+    {
+      "index": 90,
+      "title": "Speakers: R",
+      "authors": "Data Management Panel",
+      "venue": "May 2-May 5",
+      "year": 2011,
+      "invited": false,
+      "raw": "Data Management Panel. Speakers: R. Hanisch, C. Mattmann.\nInnovations in Data-IntensiveAstronomy (2011) Meeting, Green Bank, WV, May 2-May 5, 2011."
+    },
+    {
+      "index": 116,
+      "title": "C",
+      "authors": "A Reusable Process Control System Architecture for the Orbiting Carbon Observatory and NPPSounder PEATE missions",
+      "venue": "CA September 17",
+      "year": 2009,
+      "invited": false,
+      "raw": "A Reusable Process Control System Architecture for the Orbiting Carbon Observatory and NPPSounder PEATE missions. C. Mattmann. Section 388 Instrument and Science Data SystemsTechnical Seminar. Pasadena, CA September 17, 2009."
+    },
+    {
+      "index": 136,
+      "title": "C",
+      "authors": "Software Connectors for Highly Distributed and Voluminous Data-intensive Systems",
+      "venue": "CA",
+      "year": 2006,
+      "invited": false,
+      "raw": "Software Connectors for Highly Distributed and Voluminous Data-intensive Systems. C. Mattmann.Qualifying Exam Presentation, University of Southern California, January 20th, Los Angeles,CA, 2006."
+    },
+    {
+      "index": 153,
+      "title": "The Inevitable Problem of Rare Phenomena Learning in Machine Translation",
+      "authors": "A Distributed Data Architecture for Mars Odyssey Data Distribution, D",
+      "venue": "and the Apache Software FoundationJPL Graduate Fellowship - 2012",
+      "year": 2003,
+      "invited": false,
+      "raw": "A Distributed Data Architecture for Mars Odyssey Data Distribution, D. Crichton, J.S. Hughes,C. Mattmann.\nPresented to Center\nfor Grid Technologies,\nInformation Sciences\nInstitute,Marina Del Rey, CA August 2003.\nPh.D. CommitteeUniversity of Southern California, Computer Science Department\nServiceThamme Gowda\"The Inevitable Problem of Rare Phenomena Learning in Machine Translation\"University of Southern California, Ph.D.\nin Computer ScienceAdvisor: Jonathan May, Information Sciences Institute (ISI), University of Southern CaliforniaPassed Thesis Defense, April 2022University of Southern California, Computer Science DepartmentKan Qi\"Incremental Effort Estimation via Transaction Analysis\"University of Southern California, Ph.D.\nin Computer ScienceAdvisor: Barry Boehm, University of Southern CaliforniaThesis Proposal Defense (Qualifying Exam), September 2019Sapienza University of Rome, Computer Science DepartmentGiuseppe Totaro\"High Performance Computing for Information Retrieval and Digital Investigation\"Sapienza University of Rome, Ph.D.\nin Computer ScienceAdvisor: Massimo Bernaschi, Sapienza University of RomePassed Thesis Defense (Ph.D. Defense), December 2015Now a Cyber Investigator at EuropolFormerly a Data Scientist Level 2 at NASA JPLUniversity of Southern California, Computer Science DepartmentJae Young Bang\"Understanding and Reducing the Cost of Collaborative Software Design\"University of Southern California, Ph.D.\nin Computer ScienceAdvisor: Nenad Medvidovic, University of Southern CaliforniaPassed ScreeningPassed Thesis Proposal Defense (Qualifying Exam), May 2014Passed Thesis Defense (Ph.D. Defense), March 2015Howard University, Department of Atmospheric SciencesKim Dionne Whitehall\"Investigating an Automated Method to Explore Mesoscale Convective Complexes in West Africa\"Howard University, Ph.D.\nin Atmospheric SciencesAdvisor: Gregory Jenkins, Howard UniversityPassed Thesis Proposal Defense (Qualifying Exam), April 2013Passed Thesis Defense (Ph.D. Defense), April 2014Formerly a Data Scientist Level 2 at NASA JPL\nPostdoctoralUSC Computer Science Postdoctoral Sponsor - March 2015 - September 2015\nMentoringJi-Hyun OhPh.D. Seoul National UniversityProject Title: \"Information Retrieval of Geosciences Open Source Software\"At present a Research Fellow at APEC Climate Center, South Korea.USC Computer Science Postdoctoral Sponsor - October 2015 - September 2016JPL/Caltech Postdoctoral Sponsor - October 2014 - September 2015Janet Ruth WyngaardPh.D. University of Cape TownProject Title: \"Data Science for Radio Astronomy and Climate Science\"Now a Professor at University of Cape Town, South Africa,\nin January 2019.Formerly a Data Science Technologist at University of Notre Dame's Center for Research Computing\n(CRC) in January 2017.USC Computer Science Postdoctoral Sponsor - March 2014 - April 2015Annie Bryant BurgessPh.D. University of UtahProject Title: \"An open source framework for metadata exploration and discovery of Polar Data\"At present the Community Director at the Foundation for Earth Science, Boulder, COJPL/Caltech Postdoctoral Sponsor - 2011 - 2014Paul LoikithPh.D. Rutgers UniversityProject Title:\n\"Enabling Regional Climate Model Evaluation: A Critical Use of Observations\nforEstablishing Core NCA Capabilities\"Co-advised with: Dr. Duane Waliser, JPLAt present an Assistant Professor at Portland State University, Portland, ORJPL/Caltech Postdoctoral Sponsor - 2011 - 2014Huikyo LeePh.D. University of IllinoisProject Title:\n\"Enabling Regional Climate Model Evaluation: A Critical Use of Observations\nforEstablishing Core NCA Capabilities\"Co-advised with: Dr. Duane Waliser, JPLAt present a Data Scientist II at the Jet Propulsion Laboratory, California Institute of Technology,Pasadena, CAJPL/Caltech Postdoctoral Sponsor - 2011 - January 2014Karl RittgerPh.D. University of California Santa BarbaraProject Title: \"Snow and Ice Climatology of the Western US and Alaska from MODIS\"Co-advised with: Dr. Thomas Painter, JPLAt present a Scientist II at the National Snow and Ice Data Center (NSIDC), Boulder, CO.JPL/Caltech Postdoctoral Sponsor - 2011 - October 2013Felix C. Seidel-CaprezPh.D. University of ZurichProject Title: \"Snow and Ice Climatology of the Western US and Alaska from MODIS\"Co-advised with: Dr. Thomas Painter, JPLAt present an Algorithm Scientist II at NASA Jet Propulsion Laboratory.\nMasters StudentsUniversity of California Los Angeles - Computer Science DepartmentEric Marcin-Cuddy\"Thoughtful Web UI/UX Design\"Advisor: D. Stott Parker, UCLA & C. Mattmann, USCGraduated\nOther Mentoring Google Summer of Code - 2018Ahmed IfhaamUniversity of Kelaniya, Sri LankaUndergraduate StudentCo-Mentored with Imesha Sudasingha for Apache OODTProject Title: \"Take next steps on Proteus - evolve DRAT web interface\"Sponsored by: Google and the Apache Software Foundation\nGoogle Summer of Code - 2017Imesha SudasinghaUniversity of Moratuwa, Sri LankaUndergraduate StudentCo-Mentored with Tom Barber for Apache OODTProject Title:\n\"Apache OODT : Rework OODT configuration to make use of Zookeeper\nfor dis-tributed configuration management\"Sponsored by: Google and the Apache Software Foundationhttps://goo.gl/iV2YhxCurrently VP, Apache OODT at\nthe Apache Software FoundationGoogle Summer of Code - 2017Thejan WijesingheUniversity of Moratuwa, Sri LankaUndergraduate StudentCo-Mentored with Thamme Gowda for Apache TikaProject Title: \"Supporting Image-to-Text (Image Captioning) in Tika for Image MIME Types\"Sponsored by: Google and the Apache Software Foundationhttps://wiki.apache.org/tika/GSOC/GSoC2017https://medium.com/@thejanwijesinghe/how-i-started-my-gsoc-journey-5d6c10dc73b1Viterbi India Program - 2016Zarana ParekhDhirubhai Ambani Institute of Information and Communication Technology, IndiaUndergraduate StudentProject Title: \"Improving accuracy of Tesseract to extract serial numbers from images of counterfeitelectronics\"Sponsored by US Viterbi India ProgramRecipient of a prestigious GHC Student Scholarship to attend the 2017 Grace Hopper Celebration ofWomen in Computing based on her projectRecipient of a prestigious Google Anita Borg Memorial Scholarship Asia Pacific 2016 based on herproject.Now attending Carnegie Mellon University and its prestigious MDCS (Masters in Data & Compu-tational Sciences) programGoogle Summer of Code - 2016Anastasija MensikovaTrinity College, CTMentor for Apache Tika, Apache OpenNLPProject Title:\n\"Sentiment Analysis Parser:\nCombines Apache OpenNLP and Apache Tika andprovides facilities for automatically deriving sentiment from text.\"Sponsored by: Google and the Apache Software FoundationAccepted JPL Year Around Internship (YIP) program offer and interned at JPL Summer 2017Accepted JPL Year Around Internship (YIP) program offer and currently interning at JPL Summer2018Accepted into PhD program in Computer Science at George Washington UniversityGoogle Summer of Code - 2015Radu ManoleAlexandru Ioan Cuza University of IASI, RomaniaMentor for Apache OODTProject Title: \"Replace OODT's XMLPRC with Avro's RPC\"Co-advised with: Dr. Lewis John McGibbneySponsored by: Google and the Apache Software Foundation\nGoogle Summer of Code - 2015Nisala MendisUniversity of Colombo, Sri LankaProject Title: \"Microformats2 Support for Apache Any23\"Co-advised with: Dr. Lewis John McGibbneySponsored by: Google and the Apache Software FoundationGoogle Summer of Code - 2013Rajith SiriwardanaUniversity of MoratuwaMentor for Apache OODTProject Title: \"Monitor that plugs into ganglia\"Sponsored by: Google and the Apache Software FoundationUniversity of Moratura, Sri Lanka - 2012Sanjaya MedonsaProject Title: \"Integration of Apache Airavata with Data Intensive Systems\"Co-advised with: Dr.\nShahani Weerawarana, Visiting Lecturer, University of Moratura, VisitingResearcher, Indiana UniversityGoogle Summer of Code - 2012Ross LaidlawOxford UniversityMentor for Apache OODT, Apache SISProject Title: \"Automated Publishing of GeoRSS Data from OODT File Manager to SIS\"Sponsored by: Google, and the Apache Software FoundationJPL Graduate Fellowship - 2012, 2013Kim WhitehallHoward University, Ph.D. student in Atmospheric SciencesAdvisor: Gregory Jenkins, Howard UniversityAdvised at JPL with assistance from: Duane Waliser, Jinwon KimSponsored by: NASA National Climate Assessment/RCMES projectJPL High School Summer Student Program - 2011, 2012, 2013Jesslyn WhittellAdvised with assistance from: Paul Ramirez, Cameron Goodale, Andrew F. HartSponsored by: NASA Earth Science Data System Software Reuse WG and NCI Early DetectionResearch Network (EDRN) projectAt present an undergraduate student\nin Computer Science at UC Berkeley.Southern California Bioinformatics Summer Institute (So Cal BSI) - 2009Andrew ClarkAdvised with assistance from: Andrew F. Hart and Dan CrichtonSponsored by: National Science Foundation and the National Institutes of HealthSouthern California Bioinformatics Summer Institute (So Cal BSI) - 2004Ronny ChanKim NgoCo-advised with: Dr. Tina Xiao, Roshanak Roshandel, Paul Ramirez, Dan CrichtonSponsored by: National Science Foundation and the National Institutes of Health\nProfessionalProgram Committee Membership\nService"
+    },
+    {
+      "index": 1,
+      "title": "",
+      "authors": "National Science Foundation (NSF), Panel Review, May 2025",
+      "venue": null,
+      "year": 2025,
+      "invited": false,
+      "raw": "National Science Foundation (NSF), Panel Review, May 2025."
+    },
+    {
+      "index": 9,
+      "title": "10",
+      "authors": "JPL Office of the Chief Scientist & Chief Technologist Topical R&TD review, May 2019",
+      "venue": "October",
+      "year": 2019,
+      "invited": false,
+      "raw": "JPL Office of the Chief Scientist & Chief Technologist Topical R&TD review, May 2019.10. NASA Small Business Innovation Research/Small Business Technology Transfer (SBIR/SBTT)\nPhase I Proposal Reviewer, April 2019.11. National Science Foundation (NSF), Panel Review, April 2019.12. NASA Jet Propulsion Laboratory (JPL) Data Science Pilot Reviews, FY19, December 2018.13. JPL Space Technology Office JPL NEXT review, November 2018.14. National Science Foundation (NSF), Proposal Review, November 2018.15. JPL Office of the Chief Scientist & Chief Technologist Strategic R&TD review, July 2017.16. The Fund for Scientific Research FNRS, Brussels, Belgium, May 2017.17. National Science Foundation (NSF), Panel Review, April 2017.18. The Fund for Scientific Research FNRS, Brussels, Belgium, April 2017.19. NASA Jet Propulsion Laboratory (JPL), Summer Undergraduate Research Fellowship (SURF)\nReview Panel, April 2017.20. National Aeronautics and Space Administration (NASA), Panel Review, April 2017.21. National Science Foundation (NSF), Panel Review, August 2016.22. National Science Foundation (NSF), Panel Review, April 2016.23. National Science Foundation (NSF), Proposal Review, February 2016.24. National Science Foundation (NSF), Proposal Review, November 2015.25. NASA Jet Propulsion Laboratory (JPL), Spontaneous Concept R&TD proposal review, Novem-\nber 2015.26. The Fund for Scientific Research FNRS, Brussels, Belgium, October 2015.27. National\nInstitutes of Health (NIH), National\nInstitute's of Allergies and Infectious Disease\n(NIAID), Microbiology and Infectious Diseases Biological Research Repository (MID-BRR),\nSeptember 2015.28. National Science Foundation (NSF), Proposal Review, June 2015.29. National Science Foundation (NSF), Proposal Review, June 2015.30. NASA Jet Propulsion Laboratory (JPL), Topic Area R&TD proposal review, June 2015.31. National Science Foundation (NSF), Panel Review, March 2015.32. National Science Foundation (NSF), Proposal Review, January 2015.33. National Science Foundation (NSF), Proposal Review, November 2014.34. The Fund for Scientific Research FNRS, Brussels, Belgium, October, 2014.35. National Science Foundation (NSF), Panel Review, June 2014."
+    }
+  ],
+  "invited_talks": [
+    {
+      "index": 123,
+      "title": "Bruecker",
+      "authors": "R",
+      "venue": null,
+      "year": 2012,
+      "invited": true,
+      "raw": "R. Bruecker. Chris Mattmann to Keynote HPC User Forum in Dearborn.\nInside HPC.com.August 24, 2012.http://goo.gl/RxTiX"
+    },
+    {
+      "index": 11,
+      "title": "C",
+      "authors": "Spark at NASA/JPL",
+      "venue": "Monday",
+      "year": 2015,
+      "invited": true,
+      "raw": "Spark at NASA/JPL. C. Mattmann.\nPresented at\nthe Spark Summit\n(Keynote) 2015, SanFrancisco, CA, Monday, June 15, 2015.https://www.youtube.com/watch?v=xPD4lPypSXQhttps://spark-summit.org/2015/events/spark-at-nasa-jpl/\n12.Introducing Apache Tika. C. Mattmann. Presented at\nthe Pasadena Big Data User Group,Pasadena, CA, April 29, 2015.http://www.meetup.com/Pasadena-Big-Data-Users-Group/events/221371125"
+    }
+  ]
+}
